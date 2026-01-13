@@ -1,0 +1,175 @@
+# LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+
+# Introduction
+
+# PRELIMINARIES
+
+## Evaluation Function $E$
+
+## Evaluation Input
+
+### Evaluation Type $\mathcal{T
+
+### Evaluation Criteria $\mathcal{C
+
+### Evaluation References $\mathcal{R
+
+## Evaluation Output
+
+# Functionality
+
+## Performance Evaluation
+
+### Responses Evaluation
+
+### Model Evaluation
+
+## Model Enhancement
+
+### Reward Modeling During Training
+
+### Acting as Verifier During Inference
+
+### Feedback for Refinement
+
+## Data Construction
+
+### Data Annotation
+
+### Data Synthesize
+
+# Methodology
+
+## Single-LLM System
+
+### Prompt-based
+
+### Tuning-based
+
+### Post-processing
+
+## Multi-LLM System
+
+### Communication
+
+### Aggregation
+
+## Human-AI Collaboration System
+
+# Application
+
+## General
+
+## Multimodal
+
+## Medical
+
+## Legal
+
+## Financial
+
+## Education
+
+## Information Retrieval
+
+## Others
+
+### Soft Engineering
+
+### Biology
+
+### Social Science
+
+# Meta-evaluation
+
+## Benchmarks
+
+### Code Generation
+
+### Machine Translation
+
+### Text Summarization
+
+### Dialogue Generation
+
+### Automatic Story Generation
+
+### Values Alignment
+
+### Recommendation
+
+### Search
+
+### Comprehensive Data
+
+## Metric
+
+### Accuracy
+
+### Pearson Correlation Coefficient
+
+### Spearman's Rank Correlation Coefficient
+
+### Kendall's Tau
+
+### Cohen's Kappa
+
+### Intraclass Correlation Coefficient (ICC)
+
+# Limitation
+
+## Biases
+
+### Presentation-Related Biases
+
+### Social-Related Biases
+
+### Content-Related Biases
+
+### Cognitive-Related Biases
+
+## Adversarial Attacks
+
+### Adversarial Attacks on LLMs
+
+### Adversarial Attacks on LLMs-as-judges
+
+## Inherent Weaknesses
+
+### Knowledge Recency
+
+### Hallucination
+
+### Domain-Specific Knowledge Gaps
+
+# Future Work
+
+## More Efficient LLMs-as-Judges
+
+### Automated Construction of Evaluation Criteria and Tasks
+
+### Scalable Evaluation Systems
+
+### Accelerating Evaluation Processes
+
+## More Effective LLMs-as-Judges
+
+### Integration of Reasoning and Judge Capabilities
+
+### Establishing a Collective Judgment Mechanism
+
+### Enhancing Domain Knowledge
+
+### Cross-Domain and Cross-Language Transferability
+
+### Multimodal Integration Evaluation
+
+## More Reliable LLMs-as-Judges
+
+### Enhancing Interpretability and Transparency
+
+### Mitigating Bias and Ensuring Fairness
+
+### Enhancing Robustness
+
+# Conclusion

@@ -1,0 +1,103 @@
+# A Survey on the Memory Mechanism of Large Language Model-based Agents
+
+# Introduction
+
+# Related Surveys
+
+## Surveys on Large Language Models
+
+## Surveys on Large Language Model-based Agents
+
+# What is the Memory of LLM-based Agent
+
+## Basic Knowledge
+
+## Narrow Definition of the Agent Memory
+
+## Broad Definition of the Agent Memory
+
+## Memory-assisted Agent-Environment Interaction
+
+# Why We Need the Memory in LLM-based Agent
+
+## Perspective of Cognitive Psychology
+
+## Perspective of Self-Evolution
+
+## Perspective of Agent Applications
+
+# How to Implement the Memory of LLM-based Agent
+
+## Memory Sources
+
+### Inside-trial Information
+
+### Cross-trial Information
+
+### External Knowledge
+
+## Memory Forms
+
+### Memory in Textual Form
+
+### Memory in Parametric Form
+
+### Advantages and Disadvantages of Textual and Parametric Memory
+
+## Memory Operations
+
+### Memory Writing
+
+### Memory Management
+
+### Memory Reading
+
+# How to Evaluate the Memory in LLM-based Agent
+
+## Direct Evaluation
+
+### Subjective Evaluation
+
+### Objective Evaluation
+
+## Indirect Evaluation
+
+### Conversation
+
+### Multi-source Question-answering
+
+### Long-context Applications
+
+### Other Tasks
+
+## Discussions
+
+# Memory-enhanced Agent Applications
+
+## Role-playing and Social Simulation
+
+## Personal Assistant
+
+## Open-world Game
+
+## Code Generation
+
+## Recommendation
+
+## Expert System in Specific Domains
+
+## Other Applications
+
+# Limitations \& Future Directions
+
+## More Advances in Parametric Memory
+
+## Memory in LLM-based Multi-agent Applications
+
+## Memory-based Lifelong Learning
+
+## Memory in Humanoid Agent
+
+# Conclusion
+
+# Acknowledgement

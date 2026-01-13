@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "topic": "A Survey of Large Language Models"
+  },
+  {
+    "id": 2,
+    "topic": "LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods"
+  },
+  {
+    "id": 3,
+    "topic": "Retrieval-Augmented Generation for Large Language Models: A Survey"
+  },
+  {
+    "id": 4,
+    "topic": "A Survey on the Memory Mechanism of Large Language Model-based Agents"
+  },
+  {
+    "id": 5,
+    "topic": "A Survey on Evaluation of Large Language Models"
+  },
+  {
+    "id": 6,
+    "topic": "A Survey on In-context Learning"
+  },
+  {
+    "id": 7,
+    "topic": "A Survey on Large Language Model based Autonomous Agents"
+  },
+  {
+    "id": 8,
+    "topic": "Bias and Fairness in Large Language Models: A Survey"
+  },
+  {
+    "id": 9,
+    "topic": "A survey of controllable text generation using transformer-based pre-trained language models"
+  },
+  {
+    "id": 10,
+    "topic": "Large Language Models for Information Retrieval: A Survey"
+  },
+  {
+    "id": 11,
+    "topic": "Diffusion Model-Based Image Editing: A Survey"
+  },
+  {
+    "id": 12,
+    "topic": "Transformer-Based Visual Segmentation: A Survey"
+  },
+  {
+    "id": 13,
+    "topic": "A Survey on Mixture of Experts in Large Language Models"
+  },
+  {
+    "id": 14,
+    "topic": "A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations"
+  },
+  {
+    "id": 15,
+    "topic": "Ai alignment: A comprehensive survey"
+  },
+  {
+    "id": 16,
+    "topic": "The Rise and Potential of Large Language Model Based Agents: A Survey"
+  },
+  {
+    "id": 17,
+    "topic": "Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities"
+  },
+  {
+    "id": 18,
+    "topic": "A Survey on Large Language Models for Code Generation"
+  },
+  {
+    "id": 19,
+    "topic": "Continual Learning of Large Language Models: A Comprehensive Survey"
+  },
+  {
+    "id": 20,
+    "topic": "Graph Retrieval-Augmented Generation: A Survey"
+  }
+]

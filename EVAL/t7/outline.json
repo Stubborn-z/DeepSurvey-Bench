@@ -1,0 +1,132 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "LLM-based Autonomous Agent Construction",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Agent Architecture Design",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Profiling Module",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Memory Module",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Planning Module",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Action Module",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Agent Capability Acquisition",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "LLM-based Autonomous Agent Application",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Social Science",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Natural Science",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Engineering",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "LLM-based Autonomous Agent Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Subjective Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Objective Evaluation",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Related Surveys",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Challenges",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Role-playing Capability",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Generalized Human Alignment",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Prompt Robustness",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Hallucination",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Knowledge Boundary",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Efficiency",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgement",
+    "level": 1,
+    "children": []
+  }
+]

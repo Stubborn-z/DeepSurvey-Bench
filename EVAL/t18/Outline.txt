@@ -1,0 +1,91 @@
+# A Survey on Large Language Models for Code Generation
+
+# Introduction
+
+# Background
+
+## Large Language Models
+
+### Multi-Head Self-Attention Modules
+
+### Position-wise Feed-Forward Networks
+
+### Residual Connection and Normalization
+
+### Positional Encoding
+
+### \done{Architecture
+
+## Code Generation
+
+# Methodology
+
+## Research Questions
+
+## Search Process
+
+### Search Strings
+
+### Search Databases
+
+## Inclusion and Exclusion Criteria
+
+## Quality Assessment
+
+## Snowballing Search
+
+## Data Collection and Analysis
+
+# Taxonomy
+
+# Large Langauge Models for Code Generation
+
+## Data Curation \& Processing
+
+### Pre-training
+
+### Instruction Tuning
+
+### Benchmarks
+
+## Data Synthesis
+
+## Pre-Training
+
+### Model Architectures
+
+### Pre-training Tasks
+
+## Instruction Tuning
+
+### Full Parameter Fine-tuning
+
+### Parameter-Efficient Fine-tuning
+
+## Reinforcement Learning with Feedback
+
+## Prompting Engineering
+
+## Repository Level \& Long Context
+
+## Retrieval Augmented
+
+## Autonomous Coding Agents
+
+## Evaluation
+
+### Metrics
+
+### Human Evaluation
+
+### LLM-as-a-Judge
+
+### Empirical Comparison
+
+## Code LLMs Alignment
+
+## Applications
+
+# Challenges \& Opportunities
+
+# Conclusion

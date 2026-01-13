@@ -1,0 +1,2359 @@
+
+Resuming experiments at: 2025-12-04 13:03:49
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005163
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:03:49
+Total End Time: 2025-12-04 13:03:54
+Total Duration: 0:00:05.005442
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:05:46
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005079
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:05:46
+Total End Time: 2025-12-04 13:05:51
+Total Duration: 0:00:05.005297
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:09:36
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-04 13:09:36
+End: 2025-12-04 13:09:39
+Duration: 0:00:02.793524
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.openai.com/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:07.797010
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:09:36
+Total End Time: 2025-12-04 13:09:44
+Total Duration: 0:00:07.797321
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:12:25
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-04 13:12:25
+End: 2025-12-04 13:12:30
+Duration: 0:00:04.141954
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.openai.com/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:09.144698
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:12:25
+Total End Time: 2025-12-04 13:12:35
+Total Duration: 0:00:09.144998
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:12:52
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-04 13:12:52
+End: 2025-12-04 13:13:22
+Duration: 0:00:30.163046
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.openai.com/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:35.168102
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:12:52
+Total End Time: 2025-12-04 13:13:27
+Total Duration: 0:00:35.168399
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:32:35
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-04 13:32:35
+End: 2025-12-04 13:34:08
+Duration: 0:01:32.755905
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.openai.com/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:01:37.761701
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:32:35
+Total End Time: 2025-12-04 13:34:13
+Total Duration: 0:01:37.762006
+Total Topics: 1
+
+Resuming experiments at: 2025-12-04 13:39:34
+==================================================
+
+
+Resuming experiments at: 2025-12-04 13:45:11
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-04 13:45:11
+End: 2025-12-04 13:48:38
+Duration: 0:03:27.432622
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.openai.com/v1/chat/completions']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:03:32.438479
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-04 13:45:11
+Total End Time: 2025-12-04 13:48:43
+Total Duration: 0:03:32.438780
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 12:17:50
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005089
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-05 12:17:50
+Total End Time: 2025-12-05 12:17:55
+Total Duration: 0:00:05.005822
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 12:23:43
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1 [FAILED]
+Start: 2025-12-05 12:23:43
+End: 2025-12-05 12:27:23
+Duration: 0:03:39.573976
+Error: Command '['python', 'main.py', '--topic', 'Progress in Terrain Traversal Robots for Complex Disaster Environments', '--gpu', '0', '--saving_path', './output/res/Progress in Terrain Traversal Robots for Complex Disaster Environments/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:03:44.581481
+Successful Experiments: 0/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-05 12:23:43
+Total End Time: 2025-12-05 12:27:28
+Total Duration: 0:03:44.581758
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 12:30:48
+==================================================
+
+Topic: Progress in Terrain Traversal Robots for Complex Disaster Environments, Exp 1
+Start: 2025-12-05 12:30:48
+End: 2025-12-05 13:00:58
+Duration: 0:30:10.306824
+OutlineWriter Input token usage: 447981
+OutlineWriter Output token usage: 11470
+SubsectionWriter Input token usage: 802546
+SubsectionWriter Output token usage: 80910
+--------------------------------------------------
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:30:15.315973
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-05 12:30:48
+Total End Time: 2025-12-05 13:01:03
+Total Duration: 0:30:15.316354
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 14:09:16
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005113
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-05 14:09:16
+Total End Time: 2025-12-05 14:09:21
+Total Duration: 0:00:05.005424
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 14:09:58
+==================================================
+
+
+Topic Summary: Progress in Terrain Traversal Robots for Complex Disaster Environments
+Total Duration: 0:00:05.005105
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-05 14:09:58
+Total End Time: 2025-12-05 14:10:03
+Total Duration: 0:00:05.005427
+Total Topics: 1
+
+Resuming experiments at: 2025-12-05 14:10:44
+==================================================
+
+
+Resuming experiments at: 2025-12-17 16:05:30
+==================================================
+
+Topic: Retrieval-Augmented Generation, Exp 1
+Start: 2025-12-17 16:05:30
+End: 2025-12-17 16:18:16
+Duration: 0:12:45.581400
+OutlineWriter Input token usage: 460559
+OutlineWriter Output token usage: 13237
+SubsectionWriter Input token usage: 779524
+SubsectionWriter Output token usage: 76859
+--------------------------------------------------
+
+Topic Summary: Retrieval-Augmented Generation
+Total Duration: 0:12:50.588245
+Successful Experiments: 1/10
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-17 16:05:30
+Total End Time: 2025-12-17 16:18:21
+Total Duration: 0:12:50.588556
+Total Topics: 1
+
+Resuming experiments at: 2025-12-23 23:29:55
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1
+Start: 2025-12-23 23:29:55
+End: 2025-12-23 23:41:22
+Duration: 0:11:26.243743
+OutlineWriter Input token usage: 445299
+OutlineWriter Output token usage: 12021
+SubsectionWriter Input token usage: 666718
+SubsectionWriter Output token usage: 70940
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:11:31.250148
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-23 23:29:55
+Total End Time: 2025-12-23 23:41:27
+Total Duration: 0:11:31.250526
+Total Topics: 1
+
+Resuming experiments at: 2025-12-24 00:51:39
+==================================================
+
+Topic: Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision, Exp 1
+Start: 2025-12-24 00:51:39
+End: 2025-12-24 01:01:22
+Duration: 0:09:43.413436
+OutlineWriter Input token usage: 478943
+OutlineWriter Output token usage: 13213
+SubsectionWriter Input token usage: 796575
+SubsectionWriter Output token usage: 77219
+--------------------------------------------------
+
+Topic Summary: Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision
+Total Duration: 0:09:48.419853
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-24 00:51:39
+Total End Time: 2025-12-24 01:01:27
+Total Duration: 0:09:48.420146
+Total Topics: 1
+
+Resuming experiments at: 2025-12-24 21:19:09
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1 [FAILED]
+Start: 2025-12-24 21:19:09
+End: 2025-12-24 21:25:35
+Duration: 0:06:26.588733
+Error: Command '['python', 'main.py', '--topic', 'A Survey of Large Language Models', '--gpu', '0', '--saving_path', './output/res/t1/exp_1', '--model', 'gpt-4o-mini', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-PCMll7EPT1wdm6thBd3e860d8d174a50B1484fAc007c6574', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:06:31.594262
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-24 21:19:09
+Total End Time: 2025-12-24 21:25:40
+Total Duration: 0:06:31.595285
+Total Topics: 1
+
+Resuming experiments at: 2025-12-24 23:26:21
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1
+Start: 2025-12-24 23:26:21
+End: 2025-12-24 23:37:04
+Duration: 0:10:43.462397
+OutlineWriter Input token usage: 445399
+OutlineWriter Output token usage: 11694
+SubsectionWriter Input token usage: 664921
+SubsectionWriter Output token usage: 72918
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:10:48.465235
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-24 23:26:21
+Total End Time: 2025-12-24 23:37:09
+Total Duration: 0:10:48.465598
+Total Topics: 1
+
+Resuming experiments at: 2025-12-25 10:08:04
+==================================================
+
+Topic: Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision, Exp 1
+Start: 2025-12-25 10:08:04
+End: 2025-12-25 10:18:21
+Duration: 0:10:16.471897
+OutlineWriter Input token usage: 478232
+OutlineWriter Output token usage: 13516
+SubsectionWriter Input token usage: 687840
+SubsectionWriter Output token usage: 76654
+--------------------------------------------------
+
+Topic Summary: Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision
+Total Duration: 0:10:21.476562
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-25 10:08:04
+Total End Time: 2025-12-25 10:18:26
+Total Duration: 0:10:21.477052
+Total Topics: 1
+
+Resuming experiments at: 2025-12-25 16:57:37
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1
+Start: 2025-12-25 16:57:37
+End: 2025-12-25 17:07:21
+Duration: 0:09:44.371893
+OutlineWriter Input token usage: 472575
+OutlineWriter Output token usage: 13225
+SubsectionWriter Input token usage: 610722
+SubsectionWriter Output token usage: 66584
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:09:49.378471
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-25 16:57:37
+Total End Time: 2025-12-25 17:07:26
+Total Duration: 0:09:49.378857
+Total Topics: 1
+
+Resuming experiments at: 2025-12-25 17:09:24
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1 [FAILED]
+Start: 2025-12-25 17:09:24
+End: 2025-12-25 17:12:56
+Duration: 0:03:31.283941
+Error: Command '['python', 'main.py', '--topic', 'LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods', '--gpu', '0', '--saving_path', './output/res/t2a/exp_1', '--model', 'claude-3-5-sonnet', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-AI0B1mU83ZjNIfb28aB15aFc8b0242C2B83b816c50B4F660', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:03:36.290414
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-25 17:09:24
+Total End Time: 2025-12-25 17:13:01
+Total Duration: 0:03:36.290797
+Total Topics: 1
+
+Resuming experiments at: 2025-12-25 17:16:40
+==================================================
+
+
+Resuming experiments at: 2025-12-25 17:30:06
+==================================================
+
+
+Resuming experiments at: 2025-12-25 17:35:06
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1
+Start: 2025-12-25 17:35:06
+End: 2025-12-25 17:53:38
+Duration: 0:18:32.856414
+OutlineWriter Input token usage: 469331
+OutlineWriter Output token usage: 10322
+SubsectionWriter Input token usage: 822170
+SubsectionWriter Output token usage: 95789
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:18:37.863174
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-25 17:35:06
+Total End Time: 2025-12-25 17:53:43
+Total Duration: 0:18:37.863545
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 17:31:30
+==================================================
+
+Topic: Retrieval-Augmented Generation for Large Language Models: A Survey, Exp 1 [FAILED]
+Start: 2025-12-26 17:31:30
+End: 2025-12-26 17:31:34
+Duration: 0:00:04.191742
+Error: Command '['python', 'main.py', '--topic', 'Retrieval-Augmented Generation for Large Language Models: A Survey', '--gpu', '0', '--saving_path', './output/res/t3/exp_1', '--model', 'gpt-4o', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Retrieval-Augmented Generation for Large Language Models: A Survey
+Total Duration: 0:00:09.197951
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:31:30
+Total End Time: 2025-12-26 17:31:39
+Total Duration: 0:00:09.198206
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 17:31:42
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1 [FAILED]
+Start: 2025-12-26 17:31:42
+End: 2025-12-26 17:31:44
+Duration: 0:00:01.670997
+Error: Command '['python', 'main.py', '--topic', 'A Survey of Large Language Models', '--gpu', '0', '--saving_path', './output/res/t1a/exp_1', '--model', 'claude-3-5-haiku-20241022', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:00:06.676881
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:31:42
+Total End Time: 2025-12-26 17:31:49
+Total Duration: 0:00:06.677203
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 17:31:52
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1 [FAILED]
+Start: 2025-12-26 17:31:52
+End: 2025-12-26 17:31:54
+Duration: 0:00:01.687568
+Error: Command '['python', 'main.py', '--topic', 'A Survey of Large Language Models', '--gpu', '0', '--saving_path', './output/res/t1b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:00:06.693509
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:31:52
+Total End Time: 2025-12-26 17:31:59
+Total Duration: 0:00:06.693798
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 17:46:19
+==================================================
+
+
+Resuming experiments at: 2025-12-26 17:46:33
+==================================================
+
+
+Resuming experiments at: 2025-12-26 17:46:43
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1 [FAILED]
+Start: 2025-12-26 17:46:33
+End: 2025-12-26 17:52:24
+Duration: 0:05:51.186820
+Error: Command '['python', 'main.py', '--topic', 'A Survey of Large Language Models', '--gpu', '0', '--saving_path', './output/res/t1a/exp_1', '--model', 'claude-3-5-haiku-20241022', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:05:56.192613
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:46:33
+Total End Time: 2025-12-26 17:52:29
+Total Duration: 0:05:56.192907
+Total Topics: 1
+Topic: A Survey of Large Language Models, Exp 1 [FAILED]
+Start: 2025-12-26 17:46:43
+End: 2025-12-26 17:53:28
+Duration: 0:06:45.205594
+Error: Command '['python', 'main.py', '--topic', 'A Survey of Large Language Models', '--gpu', '0', '--saving_path', './output/res/t1b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:06:50.211755
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:46:43
+Total End Time: 2025-12-26 17:53:33
+Total Duration: 0:06:50.212070
+Total Topics: 1
+Topic: Retrieval-Augmented Generation for Large Language Models: A Survey, Exp 1
+Start: 2025-12-26 17:46:19
+End: 2025-12-26 17:56:00
+Duration: 0:09:40.983580
+OutlineWriter Input token usage: 467724
+OutlineWriter Output token usage: 11700
+SubsectionWriter Input token usage: 559177
+SubsectionWriter Output token usage: 60015
+--------------------------------------------------
+
+Topic Summary: Retrieval-Augmented Generation for Large Language Models: A Survey
+Total Duration: 0:09:45.988182
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:46:19
+Total End Time: 2025-12-26 17:56:05
+Total Duration: 0:09:45.988512
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 17:58:27
+==================================================
+
+
+Resuming experiments at: 2025-12-26 17:58:32
+==================================================
+
+Topic: A Survey of Large Language Models, Exp 1
+Start: 2025-12-26 17:58:27
+End: 2025-12-26 18:10:48
+Duration: 0:12:20.613715
+OutlineWriter Input token usage: 444484
+OutlineWriter Output token usage: 9286
+SubsectionWriter Input token usage: 679496
+SubsectionWriter Output token usage: 58031
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:12:25.620357
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:58:27
+Total End Time: 2025-12-26 18:10:53
+Total Duration: 0:12:25.620663
+Total Topics: 1
+Topic: A Survey of Large Language Models, Exp 1
+Start: 2025-12-26 17:58:32
+End: 2025-12-26 18:12:46
+Duration: 0:14:14.210993
+OutlineWriter Input token usage: 443990
+OutlineWriter Output token usage: 9716
+SubsectionWriter Input token usage: 785998
+SubsectionWriter Output token usage: 83326
+--------------------------------------------------
+
+Topic Summary: A Survey of Large Language Models
+Total Duration: 0:14:19.217323
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 17:58:32
+Total End Time: 2025-12-26 18:12:51
+Total Duration: 0:14:19.217604
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 18:54:22
+==================================================
+
+
+Resuming experiments at: 2025-12-26 18:54:32
+==================================================
+
+
+Resuming experiments at: 2025-12-26 18:54:42
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1 [FAILED]
+Start: 2025-12-26 18:54:42
+End: 2025-12-26 18:55:26
+Duration: 0:00:43.821064
+Error: Command '['python', 'main.py', '--topic', 'LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods', '--gpu', '0', '--saving_path', './output/res/t2b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:00:48.826803
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 18:54:42
+Total End Time: 2025-12-26 18:55:31
+Total Duration: 0:00:48.827082
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 18:59:35
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1 [FAILED]
+Start: 2025-12-26 18:59:35
+End: 2025-12-26 18:59:53
+Duration: 0:00:17.345612
+Error: Command '['python', 'main.py', '--topic', 'LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods', '--gpu', '0', '--saving_path', './output/res/t2b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-4tsIoDG3ifIMZ5Nf24Ef2e6d430d45Dc8138566b0424408e', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:00:22.349638
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 18:59:35
+Total End Time: 2025-12-26 18:59:58
+Total Duration: 0:00:22.349931
+Total Topics: 1
+Topic: A Survey on the Memory Mechanism of Large Language Model-based Agents, Exp 1
+Start: 2025-12-26 18:54:22
+End: 2025-12-26 19:03:30
+Duration: 0:09:08.385084
+OutlineWriter Input token usage: 450906
+OutlineWriter Output token usage: 9663
+SubsectionWriter Input token usage: 626585
+SubsectionWriter Output token usage: 57282
+--------------------------------------------------
+
+Topic Summary: A Survey on the Memory Mechanism of Large Language Model-based Agents
+Total Duration: 0:09:13.391751
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 18:54:22
+Total End Time: 2025-12-26 19:03:35
+Total Duration: 0:09:13.391989
+Total Topics: 1
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1
+Start: 2025-12-26 18:54:32
+End: 2025-12-26 19:08:59
+Duration: 0:14:26.678559
+OutlineWriter Input token usage: 469566
+OutlineWriter Output token usage: 10259
+SubsectionWriter Input token usage: 757946
+SubsectionWriter Output token usage: 64169
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:14:31.681461
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 18:54:32
+Total End Time: 2025-12-26 19:09:04
+Total Duration: 0:14:31.681793
+Total Topics: 1
+
+Resuming experiments at: 2025-12-26 21:18:21
+==================================================
+
+Topic: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods, Exp 1
+Start: 2025-12-26 21:18:21
+End: 2025-12-26 21:55:51
+Duration: 0:37:30.003464
+OutlineWriter Input token usage: 470544
+OutlineWriter Output token usage: 10791
+SubsectionWriter Input token usage: 830438
+SubsectionWriter Output token usage: 95529
+--------------------------------------------------
+
+Topic Summary: LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+Total Duration: 0:37:35.009903
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-26 21:18:21
+Total End Time: 2025-12-26 21:55:56
+Total Duration: 0:37:35.010120
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 11:11:13
+==================================================
+
+
+Resuming experiments at: 2025-12-28 11:11:21
+==================================================
+
+
+Resuming experiments at: 2025-12-28 11:11:28
+==================================================
+
+Topic: A Survey on Evaluation of Large Language Models, Exp 1
+Start: 2025-12-28 11:11:13
+End: 2025-12-28 11:20:10
+Duration: 0:08:57.167171
+OutlineWriter Input token usage: 451832
+OutlineWriter Output token usage: 10964
+SubsectionWriter Input token usage: 444757
+SubsectionWriter Output token usage: 46982
+--------------------------------------------------
+
+Topic Summary: A Survey on Evaluation of Large Language Models
+Total Duration: 0:09:02.173861
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:11:13
+Total End Time: 2025-12-28 11:20:15
+Total Duration: 0:09:02.174133
+Total Topics: 1
+Topic: Retrieval-Augmented Generation for Large Language Models: A Survey, Exp 1
+Start: 2025-12-28 11:11:21
+End: 2025-12-28 11:20:43
+Duration: 0:09:21.720118
+OutlineWriter Input token usage: 466677
+OutlineWriter Output token usage: 10103
+SubsectionWriter Input token usage: 694795
+SubsectionWriter Output token usage: 58127
+--------------------------------------------------
+
+Topic Summary: Retrieval-Augmented Generation for Large Language Models: A Survey
+Total Duration: 0:09:26.726477
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:11:21
+Total End Time: 2025-12-28 11:20:48
+Total Duration: 0:09:26.726782
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 11:23:02
+==================================================
+
+
+Resuming experiments at: 2025-12-28 11:23:13
+==================================================
+
+Topic: Retrieval-Augmented Generation for Large Language Models: A Survey, Exp 1
+Start: 2025-12-28 11:11:28
+End: 2025-12-28 11:24:07
+Duration: 0:12:38.544884
+OutlineWriter Input token usage: 466653
+OutlineWriter Output token usage: 10810
+SubsectionWriter Input token usage: 792428
+SubsectionWriter Output token usage: 90366
+--------------------------------------------------
+
+Topic Summary: Retrieval-Augmented Generation for Large Language Models: A Survey
+Total Duration: 0:12:43.551263
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:11:28
+Total End Time: 2025-12-28 11:24:12
+Total Duration: 0:12:43.551497
+Total Topics: 1
+Topic: A Survey on the Memory Mechanism of Large Language Model-based Agents, Exp 1
+Start: 2025-12-28 11:23:13
+End: 2025-12-28 11:31:51
+Duration: 0:08:37.806525
+OutlineWriter Input token usage: 451893
+OutlineWriter Output token usage: 8777
+SubsectionWriter Input token usage: 629863
+SubsectionWriter Output token usage: 64486
+--------------------------------------------------
+Topic: A Survey on In-context Learning, Exp 1
+Start: 2025-12-28 11:23:02
+End: 2025-12-28 11:31:52
+Duration: 0:08:50.335078
+OutlineWriter Input token usage: 454133
+OutlineWriter Output token usage: 11874
+SubsectionWriter Input token usage: 545815
+SubsectionWriter Output token usage: 56307
+--------------------------------------------------
+
+Topic Summary: A Survey on the Memory Mechanism of Large Language Model-based Agents
+Total Duration: 0:08:42.811318
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:23:13
+Total End Time: 2025-12-28 11:31:56
+Total Duration: 0:08:42.811608
+Total Topics: 1
+
+Topic Summary: A Survey on In-context Learning
+Total Duration: 0:08:55.341376
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:23:02
+Total End Time: 2025-12-28 11:31:57
+Total Duration: 0:08:55.341663
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 11:36:30
+==================================================
+
+
+Resuming experiments at: 2025-12-28 11:36:41
+==================================================
+
+
+Resuming experiments at: 2025-12-28 11:36:53
+==================================================
+
+Topic: A Survey on Large Language Model based Autonomous Agents, Exp 1
+Start: 2025-12-28 11:36:30
+End: 2025-12-28 11:45:16
+Duration: 0:08:45.961931
+OutlineWriter Input token usage: 464348
+OutlineWriter Output token usage: 11983
+SubsectionWriter Input token usage: 614318
+SubsectionWriter Output token usage: 67096
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Model based Autonomous Agents
+Total Duration: 0:08:50.968276
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:36:30
+Total End Time: 2025-12-28 11:45:21
+Total Duration: 0:08:50.968500
+Total Topics: 1
+Topic: A Survey on Evaluation of Large Language Models, Exp 1
+Start: 2025-12-28 11:36:41
+End: 2025-12-28 11:45:24
+Duration: 0:08:42.457492
+OutlineWriter Input token usage: 450560
+OutlineWriter Output token usage: 9229
+SubsectionWriter Input token usage: 723945
+SubsectionWriter Output token usage: 63135
+--------------------------------------------------
+
+Topic Summary: A Survey on Evaluation of Large Language Models
+Total Duration: 0:08:47.463843
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:36:41
+Total End Time: 2025-12-28 11:45:29
+Total Duration: 0:08:47.464168
+Total Topics: 1
+Topic: A Survey on the Memory Mechanism of Large Language Model-based Agents, Exp 1
+Start: 2025-12-28 11:36:53
+End: 2025-12-28 11:49:21
+Duration: 0:12:27.668280
+OutlineWriter Input token usage: 452482
+OutlineWriter Output token usage: 10234
+SubsectionWriter Input token usage: 847385
+SubsectionWriter Output token usage: 103342
+--------------------------------------------------
+
+Topic Summary: A Survey on the Memory Mechanism of Large Language Model-based Agents
+Total Duration: 0:12:32.674067
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 11:36:53
+Total End Time: 2025-12-28 11:49:26
+Total Duration: 0:12:32.674355
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 12:00:34
+==================================================
+
+Topic: A Survey on Evaluation of Large Language Models, Exp 1
+Start: 2025-12-28 12:00:34
+End: 2025-12-28 12:12:40
+Duration: 0:12:05.501975
+OutlineWriter Input token usage: 450320
+OutlineWriter Output token usage: 9517
+SubsectionWriter Input token usage: 648748
+SubsectionWriter Output token usage: 80775
+--------------------------------------------------
+
+Topic Summary: A Survey on Evaluation of Large Language Models
+Total Duration: 0:12:10.509374
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 12:00:34
+Total End Time: 2025-12-28 12:12:45
+Total Duration: 0:12:10.509698
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 12:53:16
+==================================================
+
+
+Resuming experiments at: 2025-12-28 12:53:37
+==================================================
+
+
+Resuming experiments at: 2025-12-28 12:53:45
+==================================================
+
+Topic: Bias and Fairness in Large Language Models: A Survey, Exp 1
+Start: 2025-12-28 12:53:16
+End: 2025-12-28 13:01:36
+Duration: 0:08:19.882153
+OutlineWriter Input token usage: 451522
+OutlineWriter Output token usage: 11084
+SubsectionWriter Input token usage: 492216
+SubsectionWriter Output token usage: 49969
+--------------------------------------------------
+
+Topic Summary: Bias and Fairness in Large Language Models: A Survey
+Total Duration: 0:08:24.888514
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 12:53:16
+Total End Time: 2025-12-28 13:01:41
+Total Duration: 0:08:24.888780
+Total Topics: 1
+Topic: A Survey on In-context Learning, Exp 1
+Start: 2025-12-28 12:53:37
+End: 2025-12-28 13:02:20
+Duration: 0:08:43.203077
+OutlineWriter Input token usage: 451654
+OutlineWriter Output token usage: 9572
+SubsectionWriter Input token usage: 731049
+SubsectionWriter Output token usage: 58078
+--------------------------------------------------
+
+Topic Summary: A Survey on In-context Learning
+Total Duration: 0:08:48.209252
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 12:53:37
+Total End Time: 2025-12-28 13:02:25
+Total Duration: 0:08:48.209489
+Total Topics: 1
+Topic: A Survey on In-context Learning, Exp 1
+Start: 2025-12-28 12:53:45
+End: 2025-12-28 13:06:07
+Duration: 0:12:21.652318
+OutlineWriter Input token usage: 454101
+OutlineWriter Output token usage: 11075
+SubsectionWriter Input token usage: 795867
+SubsectionWriter Output token usage: 85593
+--------------------------------------------------
+
+Topic Summary: A Survey on In-context Learning
+Total Duration: 0:12:26.658659
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 12:53:45
+Total End Time: 2025-12-28 13:06:12
+Total Duration: 0:12:26.658926
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 13:37:23
+==================================================
+
+
+Resuming experiments at: 2025-12-28 13:37:33
+==================================================
+
+
+Resuming experiments at: 2025-12-28 13:37:41
+==================================================
+
+Topic: A Survey on Large Language Model based Autonomous Agents, Exp 1 [FAILED]
+Start: 2025-12-28 13:37:41
+End: 2025-12-28 13:37:55
+Duration: 0:00:13.200145
+Error: Command '['python', 'main.py', '--topic', 'A Survey on Large Language Model based Autonomous Agents', '--gpu', '0', '--saving_path', './output/res/t7b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-DsXP2rrefxSwt7kz385112395dE744B592A6BfB3Cf9cFaB9', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Model based Autonomous Agents
+Total Duration: 0:00:18.205055
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 13:37:41
+Total End Time: 2025-12-28 13:38:00
+Total Duration: 0:00:18.205231
+Total Topics: 1
+Topic: A survey of controllable text generation using transformer-based pre-trained language models, Exp 1
+Start: 2025-12-28 13:37:23
+End: 2025-12-28 13:45:41
+Duration: 0:08:18.047366
+OutlineWriter Input token usage: 426869
+OutlineWriter Output token usage: 10521
+SubsectionWriter Input token usage: 505472
+SubsectionWriter Output token usage: 48042
+--------------------------------------------------
+
+Topic Summary: A survey of controllable text generation using transformer-based pre-trained language models
+Total Duration: 0:08:23.053661
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 13:37:23
+Total End Time: 2025-12-28 13:45:46
+Total Duration: 0:08:23.054161
+Total Topics: 1
+Topic: A Survey on Large Language Model based Autonomous Agents, Exp 1
+Start: 2025-12-28 13:37:33
+End: 2025-12-28 13:46:33
+Duration: 0:09:00.095403
+OutlineWriter Input token usage: 463069
+OutlineWriter Output token usage: 10260
+SubsectionWriter Input token usage: 658851
+SubsectionWriter Output token usage: 63538
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Model based Autonomous Agents
+Total Duration: 0:09:05.101828
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 13:37:33
+Total End Time: 2025-12-28 13:46:38
+Total Duration: 0:09:05.102223
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:33:16
+==================================================
+
+
+Resuming experiments at: 2025-12-28 14:33:25
+==================================================
+
+
+Resuming experiments at: 2025-12-28 14:33:43
+==================================================
+
+Topic: Large Language Models for Information Retrieval: A Survey, Exp 1
+Start: 2025-12-28 14:33:16
+End: 2025-12-28 14:42:13
+Duration: 0:08:56.382463
+OutlineWriter Input token usage: 463467
+OutlineWriter Output token usage: 13064
+SubsectionWriter Input token usage: 734021
+SubsectionWriter Output token usage: 66022
+--------------------------------------------------
+
+Topic Summary: Large Language Models for Information Retrieval: A Survey
+Total Duration: 0:09:01.388266
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:33:16
+Total End Time: 2025-12-28 14:42:18
+Total Duration: 0:09:01.388595
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:43:27
+==================================================
+
+Topic: Bias and Fairness in Large Language Models: A Survey, Exp 1
+Start: 2025-12-28 14:33:25
+End: 2025-12-28 14:44:02
+Duration: 0:10:36.637863
+OutlineWriter Input token usage: 449508
+OutlineWriter Output token usage: 9102
+SubsectionWriter Input token usage: 633105
+SubsectionWriter Output token usage: 62327
+--------------------------------------------------
+
+Topic Summary: Bias and Fairness in Large Language Models: A Survey
+Total Duration: 0:10:41.644335
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:33:25
+Total End Time: 2025-12-28 14:44:07
+Total Duration: 0:10:41.644725
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:46:41
+==================================================
+
+Topic: Bias and Fairness in Large Language Models: A Survey, Exp 1
+Start: 2025-12-28 14:33:43
+End: 2025-12-28 14:47:19
+Duration: 0:13:36.167964
+OutlineWriter Input token usage: 450779
+OutlineWriter Output token usage: 10584
+SubsectionWriter Input token usage: 786979
+SubsectionWriter Output token usage: 94480
+--------------------------------------------------
+
+Topic Summary: Bias and Fairness in Large Language Models: A Survey
+Total Duration: 0:13:41.174911
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:33:43
+Total End Time: 2025-12-28 14:47:24
+Total Duration: 0:13:41.175233
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:50:11
+==================================================
+
+Topic: Diffusion Model-Based Image Editing: A Survey, Exp 1
+Start: 2025-12-28 14:43:27
+End: 2025-12-28 14:51:58
+Duration: 0:08:30.695151
+OutlineWriter Input token usage: 470353
+OutlineWriter Output token usage: 11850
+SubsectionWriter Input token usage: 596766
+SubsectionWriter Output token usage: 54763
+--------------------------------------------------
+
+Topic Summary: Diffusion Model-Based Image Editing: A Survey
+Total Duration: 0:08:35.701453
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:43:27
+Total End Time: 2025-12-28 14:52:03
+Total Duration: 0:08:35.701700
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:53:07
+==================================================
+
+Topic: Transformer-Based Visual Segmentation: A Survey, Exp 1 [FAILED]
+Start: 2025-12-28 14:53:07
+End: 2025-12-28 14:53:31
+Duration: 0:00:23.689217
+Error: Command '['python', 'main.py', '--topic', 'Transformer-Based Visual Segmentation: A Survey', '--gpu', '0', '--saving_path', './output/res/t12/exp_1', '--model', 'gpt-4o', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-oeqT7aMnSNhrgdGN6bBfD9773dB44058A75d5cD4E295959c', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Transformer-Based Visual Segmentation: A Survey
+Total Duration: 0:00:28.694880
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:53:07
+Total End Time: 2025-12-28 14:53:36
+Total Duration: 0:00:28.695293
+Total Topics: 1
+Topic: A survey of controllable text generation using transformer-based pre-trained language models, Exp 1
+Start: 2025-12-28 14:46:41
+End: 2025-12-28 14:56:14
+Duration: 0:09:32.757766
+OutlineWriter Input token usage: 424008
+OutlineWriter Output token usage: 8778
+SubsectionWriter Input token usage: 669718
+SubsectionWriter Output token usage: 58046
+--------------------------------------------------
+
+Topic Summary: A survey of controllable text generation using transformer-based pre-trained language models
+Total Duration: 0:09:37.763963
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:46:41
+Total End Time: 2025-12-28 14:56:19
+Total Duration: 0:09:37.764301
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 14:56:32
+==================================================
+
+
+Resuming experiments at: 2025-12-28 14:56:43
+==================================================
+
+Topic: A survey of controllable text generation using transformer-based pre-trained language models, Exp 1
+Start: 2025-12-28 14:50:11
+End: 2025-12-28 15:02:26
+Duration: 0:12:14.683975
+OutlineWriter Input token usage: 426745
+OutlineWriter Output token usage: 9861
+SubsectionWriter Input token usage: 698192
+SubsectionWriter Output token usage: 80917
+--------------------------------------------------
+
+Topic Summary: A survey of controllable text generation using transformer-based pre-trained language models
+Total Duration: 0:12:19.689966
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:50:11
+Total End Time: 2025-12-28 15:02:31
+Total Duration: 0:12:19.690213
+Total Topics: 1
+Topic: Transformer-Based Visual Segmentation: A Survey, Exp 1
+Start: 2025-12-28 14:56:32
+End: 2025-12-28 15:05:12
+Duration: 0:08:40.205869
+OutlineWriter Input token usage: 465544
+OutlineWriter Output token usage: 10909
+SubsectionWriter Input token usage: 730919
+SubsectionWriter Output token usage: 60211
+--------------------------------------------------
+
+Topic Summary: Transformer-Based Visual Segmentation: A Survey
+Total Duration: 0:08:45.209125
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:56:32
+Total End Time: 2025-12-28 15:05:17
+Total Duration: 0:08:45.209396
+Total Topics: 1
+Topic: Large Language Models for Information Retrieval: A Survey, Exp 1
+Start: 2025-12-28 14:56:43
+End: 2025-12-28 15:06:33
+Duration: 0:09:49.755352
+OutlineWriter Input token usage: 459781
+OutlineWriter Output token usage: 9637
+SubsectionWriter Input token usage: 645908
+SubsectionWriter Output token usage: 57492
+--------------------------------------------------
+
+Topic Summary: Large Language Models for Information Retrieval: A Survey
+Total Duration: 0:09:54.760383
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 14:56:43
+Total End Time: 2025-12-28 15:06:38
+Total Duration: 0:09:54.760660
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 15:23:16
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:23:24
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:23:32
+==================================================
+
+Topic: Large Language Models for Information Retrieval: A Survey, Exp 1 [FAILED]
+Start: 2025-12-28 15:23:32
+End: 2025-12-28 15:32:14
+Duration: 0:08:41.956989
+Error: Command '['python', 'main.py', '--topic', 'Large Language Models for Information Retrieval: A Survey', '--gpu', '0', '--saving_path', './output/res/t10b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-oeqT7aMnSNhrgdGN6bBfD9773dB44058A75d5cD4E295959c', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: Large Language Models for Information Retrieval: A Survey
+Total Duration: 0:08:46.961243
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 15:23:32
+Total End Time: 2025-12-28 15:32:19
+Total Duration: 0:08:46.961871
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 15:46:16
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:46:34
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:47:01
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:58:06
+==================================================
+
+
+Resuming experiments at: 2025-12-28 15:58:17
+==================================================
+
+Topic: Large Language Models for Information Retrieval: A Survey, Exp 1
+Start: 2025-12-28 15:47:01
+End: 2025-12-28 15:59:18
+Duration: 0:12:16.817645
+OutlineWriter Input token usage: 460401
+OutlineWriter Output token usage: 10057
+SubsectionWriter Input token usage: 770424
+SubsectionWriter Output token usage: 85860
+--------------------------------------------------
+
+Topic Summary: Large Language Models for Information Retrieval: A Survey
+Total Duration: 0:12:21.824123
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 15:47:01
+Total End Time: 2025-12-28 15:59:23
+Total Duration: 0:12:21.824451
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 16:00:01
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:01:13
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:01:16
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:03:52
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:03:56
+==================================================
+
+Topic: Diffusion Model-Based Image Editing: A Survey, Exp 1
+Start: 2025-12-28 16:00:01
+End: 2025-12-28 16:13:44
+Duration: 0:13:43.638254
+OutlineWriter Input token usage: 470120
+OutlineWriter Output token usage: 11454
+SubsectionWriter Input token usage: 779233
+SubsectionWriter Output token usage: 86481
+--------------------------------------------------
+
+Topic Summary: Diffusion Model-Based Image Editing: A Survey
+Total Duration: 0:13:48.644691
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 16:00:01
+Total End Time: 2025-12-28 16:13:49
+Total Duration: 0:13:48.644979
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 16:14:32
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:14:40
+==================================================
+
+Topic: A Survey on Mixture of Experts in Large Language Models, Exp 1
+Start: 2025-12-28 16:14:32
+End: 2025-12-28 16:22:51
+Duration: 0:08:19.110325
+OutlineWriter Input token usage: 460277
+OutlineWriter Output token usage: 11900
+SubsectionWriter Input token usage: 612064
+SubsectionWriter Output token usage: 63703
+--------------------------------------------------
+
+Topic Summary: A Survey on Mixture of Experts in Large Language Models
+Total Duration: 0:08:24.114844
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 16:14:32
+Total End Time: 2025-12-28 16:22:56
+Total Duration: 0:08:24.115093
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 16:26:08
+==================================================
+
+
+Resuming experiments at: 2025-12-28 16:33:19
+==================================================
+
+Topic: Diffusion Model-Based Image Editing: A Survey, Exp 1
+Start: 2025-12-28 16:26:08
+End: 2025-12-28 16:35:04
+Duration: 0:08:55.776838
+OutlineWriter Input token usage: 466198
+OutlineWriter Output token usage: 9167
+SubsectionWriter Input token usage: 649593
+SubsectionWriter Output token usage: 60707
+--------------------------------------------------
+
+Topic Summary: Diffusion Model-Based Image Editing: A Survey
+Total Duration: 0:09:00.780561
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 16:26:08
+Total End Time: 2025-12-28 16:35:09
+Total Duration: 0:09:00.780827
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 16:38:27
+==================================================
+
+Topic: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations, Exp 1
+Start: 2025-12-28 16:38:27
+End: 2025-12-28 16:46:44
+Duration: 0:08:16.661727
+OutlineWriter Input token usage: 477862
+OutlineWriter Output token usage: 11423
+SubsectionWriter Input token usage: 670515
+SubsectionWriter Output token usage: 56373
+--------------------------------------------------
+
+Topic Summary: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations
+Total Duration: 0:08:21.668023
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 16:38:27
+Total End Time: 2025-12-28 16:46:49
+Total Duration: 0:08:21.668316
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 17:12:34
+==================================================
+
+Topic: Ai alignment: A comprehensive survey, Exp 1
+Start: 2025-12-28 17:12:34
+End: 2025-12-28 17:20:35
+Duration: 0:08:00.879060
+OutlineWriter Input token usage: 439988
+OutlineWriter Output token usage: 10758
+SubsectionWriter Input token usage: 553858
+SubsectionWriter Output token usage: 49898
+--------------------------------------------------
+
+Topic Summary: Ai alignment: A comprehensive survey
+Total Duration: 0:08:05.883120
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 17:12:34
+Total End Time: 2025-12-28 17:20:40
+Total Duration: 0:08:05.883482
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 17:22:16
+==================================================
+
+Topic: Transformer-Based Visual Segmentation: A Survey, Exp 1
+Start: 2025-12-28 17:22:16
+End: 2025-12-28 17:31:24
+Duration: 0:09:08.240094
+OutlineWriter Input token usage: 464870
+OutlineWriter Output token usage: 9400
+SubsectionWriter Input token usage: 683006
+SubsectionWriter Output token usage: 49012
+--------------------------------------------------
+
+Topic Summary: Transformer-Based Visual Segmentation: A Survey
+Total Duration: 0:09:13.246575
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 17:22:16
+Total End Time: 2025-12-28 17:31:29
+Total Duration: 0:09:13.246900
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 17:33:20
+==================================================
+
+Topic: A Survey on Mixture of Experts in Large Language Models, Exp 1
+Start: 2025-12-28 17:33:20
+End: 2025-12-28 17:41:27
+Duration: 0:08:06.841822
+OutlineWriter Input token usage: 458976
+OutlineWriter Output token usage: 10192
+SubsectionWriter Input token usage: 708652
+SubsectionWriter Output token usage: 59479
+--------------------------------------------------
+
+Topic Summary: A Survey on Mixture of Experts in Large Language Models
+Total Duration: 0:08:11.848085
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 17:33:20
+Total End Time: 2025-12-28 17:41:32
+Total Duration: 0:08:11.848383
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 17:58:41
+==================================================
+
+Topic: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations, Exp 1
+Start: 2025-12-28 17:58:41
+End: 2025-12-28 18:07:39
+Duration: 0:08:58.785600
+OutlineWriter Input token usage: 476313
+OutlineWriter Output token usage: 10084
+SubsectionWriter Input token usage: 519778
+SubsectionWriter Output token usage: 56419
+--------------------------------------------------
+
+Topic Summary: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations
+Total Duration: 0:09:03.788333
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 17:58:41
+Total End Time: 2025-12-28 18:07:44
+Total Duration: 0:09:03.788611
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 22:05:09
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:05:21
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:05:32
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:05:49
+==================================================
+
+Topic: Ai alignment: A comprehensive survey, Exp 1
+Start: 2025-12-28 22:05:32
+End: 2025-12-28 22:14:22
+Duration: 0:08:49.600343
+OutlineWriter Input token usage: 439130
+OutlineWriter Output token usage: 9107
+SubsectionWriter Input token usage: 688427
+SubsectionWriter Output token usage: 60008
+--------------------------------------------------
+Topic: The Rise and Potential of Large Language Model Based Agents: A Survey, Exp 1
+Start: 2025-12-28 22:05:09
+End: 2025-12-28 22:14:24
+Duration: 0:09:15.242254
+OutlineWriter Input token usage: 458990
+OutlineWriter Output token usage: 11972
+SubsectionWriter Input token usage: 607241
+SubsectionWriter Output token usage: 55887
+--------------------------------------------------
+
+Topic Summary: Ai alignment: A comprehensive survey
+Total Duration: 0:08:54.606719
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:05:32
+Total End Time: 2025-12-28 22:14:27
+Total Duration: 0:08:54.607020
+Total Topics: 1
+
+Topic Summary: The Rise and Potential of Large Language Model Based Agents: A Survey
+Total Duration: 0:09:20.249015
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:05:09
+Total End Time: 2025-12-28 22:14:29
+Total Duration: 0:09:20.249341
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 22:16:31
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:16:39
+==================================================
+
+Topic: Transformer-Based Visual Segmentation: A Survey, Exp 1
+Start: 2025-12-28 22:05:49
+End: 2025-12-28 22:18:16
+Duration: 0:12:27.382870
+OutlineWriter Input token usage: 465497
+OutlineWriter Output token usage: 9949
+SubsectionWriter Input token usage: 747869
+SubsectionWriter Output token usage: 80262
+--------------------------------------------------
+
+Topic Summary: Transformer-Based Visual Segmentation: A Survey
+Total Duration: 0:12:32.388669
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:05:49
+Total End Time: 2025-12-28 22:18:21
+Total Duration: 0:12:32.388847
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 22:19:26
+==================================================
+
+
+Topic Summary: Ai alignment: A comprehensive survey
+Total Duration: 0:00:05.002245
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:19:26
+Total End Time: 2025-12-28 22:19:31
+Total Duration: 0:00:05.002503
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 22:21:41
+==================================================
+
+Topic: The Rise and Potential of Large Language Model Based Agents: A Survey, Exp 1
+Start: 2025-12-28 22:21:41
+End: 2025-12-28 22:30:44
+Duration: 0:09:02.280834
+OutlineWriter Input token usage: 457158
+OutlineWriter Output token usage: 9855
+SubsectionWriter Input token usage: 750917
+SubsectionWriter Output token usage: 60912
+--------------------------------------------------
+
+Topic Summary: The Rise and Potential of Large Language Model Based Agents: A Survey
+Total Duration: 0:09:07.287522
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:21:41
+Total End Time: 2025-12-28 22:30:49
+Total Duration: 0:09:07.287905
+Total Topics: 1
+Topic: A Survey on Mixture of Experts in Large Language Models, Exp 1
+Start: 2025-12-28 22:16:31
+End: 2025-12-28 22:36:15
+Duration: 0:19:44.020701
+OutlineWriter Input token usage: 458880
+OutlineWriter Output token usage: 10986
+SubsectionWriter Input token usage: 804183
+SubsectionWriter Output token usage: 59163
+--------------------------------------------------
+Topic: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations, Exp 1
+Start: 2025-12-28 22:16:39
+End: 2025-12-28 22:36:16
+Duration: 0:19:37.282222
+OutlineWriter Input token usage: 476884
+OutlineWriter Output token usage: 11556
+SubsectionWriter Input token usage: 778121
+SubsectionWriter Output token usage: 54647
+--------------------------------------------------
+
+Topic Summary: A Survey on Mixture of Experts in Large Language Models
+Total Duration: 0:19:49.028423
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:16:31
+Total End Time: 2025-12-28 22:36:20
+Total Duration: 0:19:49.028770
+Total Topics: 1
+
+Topic Summary: A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations
+Total Duration: 0:19:42.289760
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-28 22:16:39
+Total End Time: 2025-12-28 22:36:21
+Total Duration: 0:19:42.290062
+Total Topics: 1
+
+Resuming experiments at: 2025-12-28 22:37:53
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:38:00
+==================================================
+
+
+Resuming experiments at: 2025-12-28 22:38:07
+==================================================
+
+
+Resuming experiments at: 2025-12-29 12:57:20
+==================================================
+
+
+Resuming experiments at: 2025-12-29 12:57:30
+==================================================
+
+
+Resuming experiments at: 2025-12-29 12:57:37
+==================================================
+
+
+Resuming experiments at: 2025-12-29 12:57:43
+==================================================
+
+
+Resuming experiments at: 2025-12-29 12:57:50
+==================================================
+
+Topic: A Survey on Large Language Models for Code Generation, Exp 1 [FAILED]
+Start: 2025-12-29 12:57:50
+End: 2025-12-29 12:58:00
+Duration: 0:00:09.982243
+Error: Command '['python', 'main.py', '--topic', 'A Survey on Large Language Models for Code Generation', '--gpu', '0', '--saving_path', './output/res/t18b/exp_1', '--model', 'deepseek-v3', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-oeqT7aMnSNhrgdGN6bBfD9773dB44058A75d5cD4E295959c', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Resuming experiments at: 2025-12-29 12:58:02
+==================================================
+
+
+Topic Summary: A Survey on Large Language Models for Code Generation
+Total Duration: 0:00:14.987861
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:57:50
+Total End Time: 2025-12-29 12:58:05
+Total Duration: 0:00:14.988119
+Total Topics: 1
+Topic: A Survey on Large Language Models for Code Generation, Exp 1 [FAILED]
+Start: 2025-12-29 12:58:02
+End: 2025-12-29 12:58:12
+Duration: 0:00:10.028970
+Error: Command '['python', 'main.py', '--topic', 'A Survey on Large Language Models for Code Generation', '--gpu', '0', '--saving_path', './output/res/t18/exp_1', '--model', 'gpt-4o', '--section_num', '7', '--subsection_len', '500', '--rag_num', '100', '--rag_max_out', '60', '--outline_reference_num', '1500', '--survey_outline_path', './', '--db_path', '/home/liudingyuan/code/SurveyX/code/SurveyForge_database/database', '--embedding_model', '/home/liudingyuan/code/SurveyX/code/gte-large-en-v1.5', '--api_key', 'sk-oeqT7aMnSNhrgdGN6bBfD9773dB44058A75d5cD4E295959c', '--api_url', 'https://api.ai-gaochao.cn/v1']' returned non-zero exit status 1.
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Models for Code Generation
+Total Duration: 0:00:15.034589
+Successful Experiments: 0/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:58:02
+Total End Time: 2025-12-29 12:58:17
+Total Duration: 0:00:15.034909
+Total Topics: 1
+Topic: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities, Exp 1
+Start: 2025-12-29 12:57:20
+End: 2025-12-29 13:07:03
+Duration: 0:09:43.323688
+OutlineWriter Input token usage: 450438
+OutlineWriter Output token usage: 9280
+SubsectionWriter Input token usage: 730799
+SubsectionWriter Output token usage: 65179
+--------------------------------------------------
+
+Topic Summary: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities
+Total Duration: 0:09:48.329996
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:57:20
+Total End Time: 2025-12-29 13:07:08
+Total Duration: 0:09:48.330307
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:07:35
+==================================================
+
+Topic: The Rise and Potential of Large Language Model Based Agents: A Survey, Exp 1
+Start: 2025-12-29 12:57:37
+End: 2025-12-29 13:09:19
+Duration: 0:11:42.065573
+OutlineWriter Input token usage: 458029
+OutlineWriter Output token usage: 10205
+SubsectionWriter Input token usage: 628892
+SubsectionWriter Output token usage: 79991
+--------------------------------------------------
+
+Topic Summary: The Rise and Potential of Large Language Model Based Agents: A Survey
+Total Duration: 0:11:47.071783
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:57:37
+Total End Time: 2025-12-29 13:09:24
+Total Duration: 0:11:47.072081
+Total Topics: 1
+Topic: Ai alignment: A comprehensive survey, Exp 1
+Start: 2025-12-29 12:57:30
+End: 2025-12-29 13:09:32
+Duration: 0:12:01.872125
+OutlineWriter Input token usage: 438178
+OutlineWriter Output token usage: 9682
+SubsectionWriter Input token usage: 692620
+SubsectionWriter Output token usage: 88798
+--------------------------------------------------
+
+Resuming experiments at: 2025-12-29 13:09:35
+==================================================
+
+
+Topic Summary: Ai alignment: A comprehensive survey
+Total Duration: 0:12:06.878517
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:57:30
+Total End Time: 2025-12-29 13:09:37
+Total Duration: 0:12:06.878786
+Total Topics: 1
+Topic: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities, Exp 1
+Start: 2025-12-29 12:57:43
+End: 2025-12-29 13:09:39
+Duration: 0:11:55.746321
+OutlineWriter Input token usage: 450546
+OutlineWriter Output token usage: 9465
+SubsectionWriter Input token usage: 822091
+SubsectionWriter Output token usage: 88850
+--------------------------------------------------
+
+Topic Summary: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities
+Total Duration: 0:12:00.752652
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 12:57:43
+Total End Time: 2025-12-29 13:09:44
+Total Duration: 0:12:00.752906
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:11:11
+==================================================
+
+
+Resuming experiments at: 2025-12-29 13:11:18
+==================================================
+
+Topic: A Survey on Large Language Models for Code Generation, Exp 1
+Start: 2025-12-29 13:07:35
+End: 2025-12-29 13:17:09
+Duration: 0:09:34.064855
+OutlineWriter Input token usage: 483812
+OutlineWriter Output token usage: 11135
+SubsectionWriter Input token usage: 626413
+SubsectionWriter Output token usage: 55347
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Models for Code Generation
+Total Duration: 0:09:39.071270
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:07:35
+Total End Time: 2025-12-29 13:17:14
+Total Duration: 0:09:39.071511
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:19:18
+==================================================
+
+Topic: Continual Learning of Large Language Models: A Comprehensive Survey, Exp 1
+Start: 2025-12-29 13:11:11
+End: 2025-12-29 13:20:28
+Duration: 0:09:17.088852
+OutlineWriter Input token usage: 449498
+OutlineWriter Output token usage: 11115
+SubsectionWriter Input token usage: 569978
+SubsectionWriter Output token usage: 55317
+--------------------------------------------------
+
+Topic Summary: Continual Learning of Large Language Models: A Comprehensive Survey
+Total Duration: 0:09:22.094686
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:11:11
+Total End Time: 2025-12-29 13:20:33
+Total Duration: 0:09:22.094947
+Total Topics: 1
+Topic: Graph Retrieval-Augmented Generation: A Survey, Exp 1
+Start: 2025-12-29 13:11:18
+End: 2025-12-29 13:20:41
+Duration: 0:09:22.887148
+OutlineWriter Input token usage: 461225
+OutlineWriter Output token usage: 9612
+SubsectionWriter Input token usage: 655046
+SubsectionWriter Output token usage: 54790
+--------------------------------------------------
+
+Topic Summary: Graph Retrieval-Augmented Generation: A Survey
+Total Duration: 0:09:27.893827
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:11:18
+Total End Time: 2025-12-29 13:20:46
+Total Duration: 0:09:27.894048
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:22:33
+==================================================
+
+Topic: A Survey on Large Language Models for Code Generation, Exp 1
+Start: 2025-12-29 13:09:35
+End: 2025-12-29 13:22:37
+Duration: 0:13:02.085145
+OutlineWriter Input token usage: 484178
+OutlineWriter Output token usage: 10662
+SubsectionWriter Input token usage: 817959
+SubsectionWriter Output token usage: 87664
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Models for Code Generation
+Total Duration: 0:13:07.091599
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:09:35
+Total End Time: 2025-12-29 13:22:42
+Total Duration: 0:13:07.091921
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:22:48
+==================================================
+
+
+Resuming experiments at: 2025-12-29 13:22:54
+==================================================
+
+Topic: Continual Learning of Large Language Models: A Comprehensive Survey, Exp 1
+Start: 2025-12-29 13:19:18
+End: 2025-12-29 13:27:58
+Duration: 0:08:40.535755
+OutlineWriter Input token usage: 448414
+OutlineWriter Output token usage: 8581
+SubsectionWriter Input token usage: 695595
+SubsectionWriter Output token usage: 59148
+--------------------------------------------------
+
+Topic Summary: Continual Learning of Large Language Models: A Comprehensive Survey
+Total Duration: 0:08:45.541173
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:19:18
+Total End Time: 2025-12-29 13:28:03
+Total Duration: 0:08:45.541454
+Total Topics: 1
+Topic: Graph Retrieval-Augmented Generation: A Survey, Exp 1
+Start: 2025-12-29 13:22:33
+End: 2025-12-29 13:31:46
+Duration: 0:09:12.327530
+OutlineWriter Input token usage: 463117
+OutlineWriter Output token usage: 11671
+SubsectionWriter Input token usage: 622961
+SubsectionWriter Output token usage: 55542
+--------------------------------------------------
+
+Topic Summary: Graph Retrieval-Augmented Generation: A Survey
+Total Duration: 0:09:17.334312
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:22:33
+Total End Time: 2025-12-29 13:31:51
+Total Duration: 0:09:17.334563
+Total Topics: 1
+Topic: Continual Learning of Large Language Models: A Comprehensive Survey, Exp 1
+Start: 2025-12-29 13:22:48
+End: 2025-12-29 13:34:46
+Duration: 0:11:57.362084
+OutlineWriter Input token usage: 449581
+OutlineWriter Output token usage: 10319
+SubsectionWriter Input token usage: 644165
+SubsectionWriter Output token usage: 81468
+--------------------------------------------------
+
+Topic Summary: Continual Learning of Large Language Models: A Comprehensive Survey
+Total Duration: 0:12:02.367660
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:22:48
+Total End Time: 2025-12-29 13:34:51
+Total Duration: 0:12:02.367939
+Total Topics: 1
+Topic: Graph Retrieval-Augmented Generation: A Survey, Exp 1
+Start: 2025-12-29 13:22:54
+End: 2025-12-29 13:35:07
+Duration: 0:12:12.866361
+OutlineWriter Input token usage: 462460
+OutlineWriter Output token usage: 11027
+SubsectionWriter Input token usage: 906743
+SubsectionWriter Output token usage: 94023
+--------------------------------------------------
+
+Topic Summary: Graph Retrieval-Augmented Generation: A Survey
+Total Duration: 0:12:17.874146
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 13:22:54
+Total End Time: 2025-12-29 13:35:12
+Total Duration: 0:12:17.874364
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 13:46:05
+==================================================
+
+
+Resuming experiments at: 2025-12-29 13:54:31
+==================================================
+
+
+Resuming experiments at: 2025-12-29 13:59:42
+==================================================
+
+
+Resuming experiments at: 2025-12-29 14:04:49
+==================================================
+
+
+Resuming experiments at: 2025-12-29 14:06:18
+==================================================
+
+
+Resuming experiments at: 2025-12-29 14:48:44
+==================================================
+
+
+Resuming experiments at: 2025-12-29 15:20:22
+==================================================
+
+Topic: A Survey on Large Language Model based Autonomous Agents, Exp 1
+Start: 2025-12-29 15:20:22
+End: 2025-12-29 15:41:40
+Duration: 0:21:18.610139
+OutlineWriter Input token usage: 461822
+OutlineWriter Output token usage: 10235
+SubsectionWriter Input token usage: 133443
+SubsectionWriter Output token usage: 0
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Model based Autonomous Agents
+Total Duration: 0:21:23.616570
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 15:20:22
+Total End Time: 2025-12-29 15:41:45
+Total Duration: 0:21:23.616900
+Total Topics: 1
+
+Resuming experiments at: 2025-12-29 15:48:53
+==================================================
+
+
+Resuming experiments at: 2025-12-29 15:53:58
+==================================================
+
+
+Resuming experiments at: 2025-12-29 15:57:09
+==================================================
+
+
+Resuming experiments at: 2025-12-29 15:57:35
+==================================================
+
+
+Resuming experiments at: 2025-12-29 18:03:50
+==================================================
+
+
+Resuming experiments at: 2025-12-29 18:26:14
+==================================================
+
+
+Resuming experiments at: 2025-12-29 18:28:22
+==================================================
+
+
+Resuming experiments at: 2025-12-29 19:54:26
+==================================================
+
+
+Resuming experiments at: 2025-12-29 19:57:26
+==================================================
+
+
+Resuming experiments at: 2025-12-29 19:59:00
+==================================================
+
+
+Resuming experiments at: 2025-12-29 20:03:00
+==================================================
+
+
+Resuming experiments at: 2025-12-29 20:07:07
+==================================================
+
+
+Resuming experiments at: 2025-12-29 20:13:00
+==================================================
+
+
+Resuming experiments at: 2025-12-29 20:13:19
+==================================================
+
+Topic: A Survey on Large Language Model based Autonomous Agents, Exp 1
+Start: 2025-12-29 20:07:07
+End: 2025-12-29 20:19:12
+Duration: 0:12:04.402584
+OutlineWriter Input token usage: 463022
+OutlineWriter Output token usage: 10622
+SubsectionWriter Input token usage: 973315
+SubsectionWriter Output token usage: 104553
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Model based Autonomous Agents
+Total Duration: 0:12:09.405571
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 20:07:07
+Total End Time: 2025-12-29 20:19:17
+Total Duration: 0:12:09.405813
+Total Topics: 1
+Topic: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities, Exp 1
+Start: 2025-12-29 20:13:00
+End: 2025-12-29 20:21:17
+Duration: 0:08:16.964961
+OutlineWriter Input token usage: 449331
+OutlineWriter Output token usage: 8769
+SubsectionWriter Input token usage: 597764
+SubsectionWriter Output token usage: 46695
+--------------------------------------------------
+
+Topic Summary: Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities
+Total Duration: 0:08:21.971039
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 20:13:00
+Total End Time: 2025-12-29 20:21:22
+Total Duration: 0:08:21.971272
+Total Topics: 1
+Topic: A Survey on Large Language Models for Code Generation, Exp 1
+Start: 2025-12-29 20:13:19
+End: 2025-12-29 20:22:09
+Duration: 0:08:49.345621
+OutlineWriter Input token usage: 484629
+OutlineWriter Output token usage: 9782
+SubsectionWriter Input token usage: 753034
+SubsectionWriter Output token usage: 60394
+--------------------------------------------------
+
+Topic Summary: A Survey on Large Language Models for Code Generation
+Total Duration: 0:08:54.351686
+Successful Experiments: 1/1
+==================================================
+
+Final Summary
+==================================================
+Total Start Time: 2025-12-29 20:13:19
+Total End Time: 2025-12-29 20:22:14
+Total Duration: 0:08:54.351905
+Total Topics: 1

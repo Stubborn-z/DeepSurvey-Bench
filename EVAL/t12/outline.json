@@ -1,0 +1,142 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Problem Definition",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Datasets and Metrics",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Segmentation Approaches Before Transformer",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Transformer Basics",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Methods: A Survey",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Meta-Architecture",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Method Categorization",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Strong Representations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cross-Attention Design in Decoder",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Optimizing Object Query",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Using Query For Association",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Conditional Query Fusion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Specific Subfields",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Segmentation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Tuning Foundation Models",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Domain-aware Segmentation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Label and Model Efficient Segmentation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Class Agnostic Segmentation and Tracking",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Medical Image Segmentation",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Benchmark Results",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Main Results on Image Segmentation Datasets",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Re-Benchmarking For Image Segmentation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Main Results for Video Segmentation Datasets",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Future Directions",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

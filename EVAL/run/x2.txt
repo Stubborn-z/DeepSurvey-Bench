@@ -1,0 +1,20 @@
+python tasks/offline_run.py --title "A Survey of Large Language Models" --key_words "A Survey of Large Language Models" --mid 2
+python tasks/offline_run.py --title "LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods" --key_words "LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods" --mid 2
+python tasks/offline_run.py --title "Retrieval-Augmented Generation for Large Language Models: A Survey" --key_words "Retrieval-Augmented Generation for Large Language Models: A Survey" --mid 2
+python tasks/offline_run.py --title "A Survey on the Memory Mechanism of Large Language Model-based Agents" --key_words "A Survey on the Memory Mechanism of Large Language Model-based Agents" --mid 2
+python tasks/offline_run.py --title "A Survey on Evaluation of Large Language Models" --key_words "A Survey on Evaluation of Large Language Models" --mid 2
+python tasks/offline_run.py --title "A Survey on In-context Learning" --key_words "A Survey on In-context Learning" --mid 2
+python tasks/offline_run.py --title "A Survey on Large Language Model based Autonomous Agents" --key_words "A Survey on Large Language Model based Autonomous Agents" --mid 2
+python tasks/offline_run.py --title "Bias and Fairness in Large Language Models: A Survey" --key_words "Bias and Fairness in Large Language Models: A Survey" --mid 2
+python tasks/offline_run.py --title "A survey of controllable text generation using transformer-based pre-trained language models" --key_words "A survey of controllable text generation using transformer-based pre-trained language models" --mid 2
+python tasks/offline_run.py --title "Large Language Models for Information Retrieval: A Survey" --key_words "Large Language Models for Information Retrieval: A Survey" --mid 2
+python tasks/offline_run.py --title "Diffusion Model-Based Image Editing: A Survey" --key_words "Diffusion Model-Based Image Editing: A Survey" --mid 2
+python tasks/offline_run.py --title "Transformer-Based Visual Segmentation: A Survey" --key_words "Transformer-Based Visual Segmentation: A Survey" --mid 2
+python tasks/offline_run.py --title "A Survey on Mixture of Experts in Large Language Models" --key_words "A Survey on Mixture of Experts in Large Language Models" --mid 2
+python tasks/offline_run.py --title "A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations" --key_words "A survey on deep neural network pruning: Taxonomy, comparison, analysis, and recommendations" --mid 2
+python tasks/offline_run.py --title "Ai alignment: A comprehensive survey" --key_words "Ai alignment: A comprehensive survey" --mid 2
+python tasks/offline_run.py --title "The Rise and Potential of Large Language Model Based Agents: A Survey" --key_words "The Rise and Potential of Large Language Model Based Agents: A Survey" --mid 2
+python tasks/offline_run.py --title "Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities" --key_words "Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities" --mid 2
+python tasks/offline_run.py --title "A Survey on Large Language Models for Code Generation" --key_words "A Survey on Large Language Models for Code Generation" --mid 2
+python tasks/offline_run.py --title "Continual Learning of Large Language Models: A Comprehensive Survey" --key_words "Continual Learning of Large Language Models: A Comprehensive Survey" --mid 2
+python tasks/offline_run.py --title "Graph Retrieval-Augmented Generation: A Survey" --key_words "Graph Retrieval-Augmented Generation: A Survey" --mid 2

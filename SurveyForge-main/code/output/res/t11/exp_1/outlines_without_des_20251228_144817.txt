@@ -1,0 +1,35 @@
+# Diffusion Model-Based Image Editing: A Comprehensive Survey
+## 1 Introduction
+## 2 Theoretical Foundations and Frameworks
+### 2.1 Mathematical Formulation of Diffusion Models  
+### 2.2 Probabilistic Modeling in Diffusion-Based Image Editing  
+### 2.3 Algorithmic Mechanisms of Diffusion Processes  
+### 2.4 Optimization Techniques in Diffusion-Based Image Editing  
+## 3 Techniques and Methodologies in Diffusion-Based Image Editing
+### 3.1 Text-Guided Image Editing
+### 3.2 Structural and Semantic Modification Strategies
+### 3.3 Training-Based and Training-Free Methods
+### 3.4 Region-Specific and Localized Editing
+### 3.5 Hybrid Editing Techniques
+## 4 Architectural Advances in Diffusion Models
+### 4.1 Model Architectures and Design Paradigms
+### 4.2 Architectural Optimizations
+### 4.3 Integration with Complementary Technologies
+### 4.4 Theoretical Advancements and Innovations
+### 4.5 Customization and Personalization
+## 5 Applications Across Various Domains
+### 5.1 Real-World Applications of Diffusion Models in Image Editing
+### 5.2 Domain-Specific Implementations and Tailoring
+### 5.3 Case Studies of Successful Implementations
+## 6 Evaluation and Benchmarking
+### 6.1 Evaluation Metrics for Diffusion Models
+### 6.2 Benchmark Datasets for Image Editing
+### 6.3 Comparative Analysis Frameworks
+### 6.4 Benchmarking Protocols and Challenges
+## 7 Challenges, Limitations, and Future Directions
+### 7.1 Computational Complexity and Efficiency
+### 7.2 Model Limitations and Fidelity
+### 7.3 Integration and Cross-Modal Interfaces
+### 7.4 Future Research Directions
+## 8 Conclusion
+

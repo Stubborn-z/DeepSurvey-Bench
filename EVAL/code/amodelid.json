@@ -1,0 +1,14 @@
+[
+    {
+      "id": 0,
+      "model_name": "gpt-4o"
+    },
+    {
+      "id": 1,
+      "model_name": "claude-3-5-haiku-20241022"
+    },
+    {
+      "id": 2,
+      "model_name": "deepseek-v3"
+    }
+]

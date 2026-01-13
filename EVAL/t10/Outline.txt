@@ -1,0 +1,145 @@
+# Large Language Models for Information Retrieval: A Survey
+
+# Introduction
+
+# Background
+
+## Information Retrieval
+
+## Large Language Models
+
+# Query Rewriter
+
+## Rewriting Scenarios
+
+## Formats of Rewritten Queries
+
+### Questions
+
+### Keywords
+
+### Answer-incorporated Passages
+
+## Approaches
+
+### Prompting
+
+### Supervised Fine-tuning
+
+### Reinforcement Learning
+
+## Limitations
+
+### Concept Drifts
+
+### Correlation between Retrieval Performance and Expansion Effects
+
+# Retriever
+
+## Leveraging LLMs to Generate Search Data
+
+### Search Data Refinement
+
+### Training Data Augmentation
+
+## Leveraging LLMs as Retrievers' Backbone
+
+### Dense Retriever
+
+### Generative Retriever
+
+## Limitations
+
+# Reranker
+
+## Utilizing LLMs as Supervised Rerankers
+
+### Encoder-only
+
+### Encoder-Decoder
+
+### Decoder-only
+
+## Utilizing LLMs as Unsupervised Rerankers
+
+### Pointwise methods
+
+### Listwise Methods
+
+### Pairwise Methods
+
+### Comparison and Discussion
+
+## Utilizing LLMs for Training Data Augmentation
+
+## Reasoning-intensive Rerankers
+
+## Limitations
+
+# Reader
+
+## Passive Reader
+
+### Once-Retrieval Reader
+
+### Periodic-Retrieval Reader
+
+### Aperiodic-Retrieval Reader
+
+## Active Reader
+
+## Compressor
+
+## Analysis
+
+## Applications
+
+## Limitations
+
+# Search Agent
+
+## Architecture of Search Agent
+
+### Single-Agent Frameworks
+
+### Multi-Agent Frameworks
+
+## Information Seeking Module
+
+### API-based Information Seeking
+
+### Browsing-based Information Seeking
+
+## Optimization
+
+### Strategic Retrieval Optimization
+
+### Iterative Retrieval Tuning
+
+### Autonomous Open-Web Search
+
+## Benchmarks and Resources
+
+### QA Benchmarks
+
+### Task-oriented Benchmarks
+
+### Agent Datasets and Platforms
+
+# Future Direction
+
+## Query Rewriter
+
+## Retriever
+
+## Reranker
+
+## Reader
+
+## Search Agent
+
+## Evaluation
+
+## Bias
+
+# Conclusion

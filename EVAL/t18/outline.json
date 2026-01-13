@@ -1,0 +1,236 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Large Language Models",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Multi-Head Self-Attention Modules",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Position-wise Feed-Forward Networks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Residual Connection and Normalization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Positional Encoding",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\done{Architecture",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Code Generation",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Methodology",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Research Questions",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Search Process",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Search Strings",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Search Databases",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Inclusion and Exclusion Criteria",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Quality Assessment",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Snowballing Search",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Data Collection and Analysis",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Taxonomy",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Large Langauge Models for Code Generation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Data Curation \\& Processing",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pre-training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Instruction Tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Benchmarks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Data Synthesis",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pre-Training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Model Architectures",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pre-training Tasks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Instruction Tuning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Full Parameter Fine-tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Parameter-Efficient Fine-tuning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Reinforcement Learning with Feedback",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Prompting Engineering",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Repository Level \\& Long Context",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Retrieval Augmented",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Autonomous Coding Agents",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Human Evaluation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LLM-as-a-Judge",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Empirical Comparison",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Code LLMs Alignment",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Applications",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Challenges \\& Opportunities",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

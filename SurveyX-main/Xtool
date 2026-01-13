@@ -1,0 +1,15 @@
+cd SurveyX-main
+ pip install -r requirements.txt   
+
+ conda create -n surveyx python=3.11
+ conda activate surveyx
+
+#https://www.overleaf.com/ 编译pdf survey.tex
+
+cd SurveyX-main
+conda activate surveyx
+python tasks/offline_run.py --title "A Survey of Large Language Models" --key_words "A Survey of Large Language Models"
+python tasks/offline_run.py --title "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision" --key_words "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision"
+
+
+ 

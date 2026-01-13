@@ -1,0 +1,238 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Diffusion Models",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Attention in Stable Diffusion",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Related Tasks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Conditional Image Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Image Restoration and Enhancement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Image Composition",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Scope and Categorization",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Training-Based Approaches",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Domain-Specific Editing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Reference and Attribute Guided Editing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Instructional Editing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pseudo-Target Retrieval Based Editing",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Testing-Time Finetuning Approaches",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Denoising Model Finetuning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Embedding Finetuning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Guidance with a Hypernetwork",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Latent Variable Optimization",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Hybrid Finetuning",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Training and Finetuning Free Approaches",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Input Text Refinement",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Inversion/Sampling Modification",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Attention Modification",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Mask Guidance",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Multi-Noise Redirection",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Inpainting and Outpainting",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Traditional Context-Driven Inpainting",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Supervised Training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Zero-Shot Learning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Multimodal Conditional Inpainting",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Random Mask Training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Precise Control Conditioning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pretrained Diffusion Prior Exploiting",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Outpainting",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Benchmark and Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Benchmark Construction",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Task Selection",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Dataset Construction",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Metric Design and Selection",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Method Selection",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Comparative Analysis",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Challenges and Future Directions",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

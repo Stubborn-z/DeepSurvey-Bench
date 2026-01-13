@@ -1,0 +1,23 @@
+{
+    "retrieve database": {
+        "deepseek-v3": {
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "total_cost": 0.0
+        }
+    },
+    "generate outline": {
+        "deepseek-v3": {
+            "input_tokens": 586750,
+            "output_tokens": 15707,
+            "total_cost": 0.0
+        }
+    },
+    "generate content": {
+        "deepseek-v3": {
+            "input_tokens": 778121,
+            "output_tokens": 54647,
+            "total_cost": 0.0
+        }
+    }
+}

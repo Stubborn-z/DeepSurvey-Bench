@@ -1,0 +1,65 @@
+# A Survey on Mixture of Experts in Large Language Models
+
+# Introduction
+
+# Background on Mixture of Experts
+
+## Dense MoE
+
+## Sparse MoE
+
+# Taxonomy of Mixture of Experts
+
+# Algorithm Design of Mixture of Experts
+
+## Gating Function
+
+### Sparse
+
+### Dense
+
+### Soft
+
+## Experts
+
+### Network Types
+
+### Hyperparameters
+
+### Activation Function
+
+### Shared Expert
+
+## Mixture of Parameter-Efficient Experts
+
+### Feed-Forward Network
+
+### Attention
+
+### Transformer Block
+
+### Every Layer
+
+## Training \& Inference Scheme
+
+### Dense-to-Sparse
+
+### Sparse-to-Dense
+
+### Expert Models Merging
+
+## Derivatives
+
+# System Design of Mixture of Experts
+
+## Computation
+
+## Communication
+
+## Storage
+
+# Applications of Mixture of Experts
+
+# Challenges \& Opportunities
+
+# Conclusion

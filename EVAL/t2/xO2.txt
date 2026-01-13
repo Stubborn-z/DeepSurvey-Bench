@@ -1,0 +1,77 @@
+# LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+
+# Introduction
+
+## Concept of LLMs as Judges
+
+## Significance in AI Evaluation
+
+## Objectives of the Paper
+
+## Structure of the Survey
+
+# Background and Preliminaries
+
+## History of AI Evaluation in NLP
+
+## Evolution and Relevance of LLMs
+
+## Current Challenges in AI Evaluation
+
+# LLM-based Evaluation Methods
+
+## Innovations in Evaluation Methods
+
+## Benchmarking and Evaluation Frameworks
+
+## Innovative Evaluation Techniques
+
+## Bias Mitigation and Calibration
+
+# Comparison with Human-Based Evaluation
+
+## Human vs. LLM Evaluations
+
+## Alignment and Discrepancies
+
+## Performance Metrics and Evaluation Methods
+
+# Challenges and Limitations of LLMs as Judges
+
+## Biases and Limitations in LLM Evaluations
+
+## Challenges in Replicating Human Understanding
+
+## Interpretability and Complexity
+
+## Resource and Scalability Constraints
+
+## Dependence on Data Quality
+
+## Manipulation and Security Risks
+
+# Applications and Case Studies
+
+## Applications in Real-World Scenarios
+
+## Case Studies and Applications
+
+## Evaluation of Language Model Outputs
+
+## Code Generation and Software Development
+
+## Text Summarization and Quality Assessment
+
+## Multimodal and Conversational AI
+
+# Future Directions
+
+## Enhancements in LLM Capabilities and Benchmarks
+
+## Integration with Multimodal and Real-World Data
+
+## Advancements in Feedback and Annotation Processes
+
+## Exploration of Novel Applications and Emerging Trends
+
+# Conclusion

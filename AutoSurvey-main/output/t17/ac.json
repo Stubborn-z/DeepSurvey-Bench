@@ -1,0 +1,42 @@
+{
+    "time": {
+        "retrieve database": {
+            "start": "2025-12-28 15:00:43",
+            "end": "2025-12-28 15:01:01",
+            "duration": 17.66
+        },
+        "generate outline": {
+            "start": "2025-12-28 15:01:01",
+            "end": "2025-12-28 15:02:39",
+            "duration": 98.57
+        },
+        "generate content": {
+            "start": "2025-12-28 15:02:39",
+            "end": "2025-12-28 15:05:07",
+            "duration": 147.76
+        }
+    },
+    "token": {
+        "retrieve database": {
+            "gpt-4o": {
+                "input_tokens": 0,
+                "output_tokens": 0,
+                "total_cost": 0
+            }
+        },
+        "generate outline": {
+            "gpt-4o": {
+                "input_tokens": 551772,
+                "output_tokens": 10311,
+                "total_cost": 0
+            }
+        },
+        "generate content": {
+            "gpt-4o": {
+                "input_tokens": 1507767,
+                "output_tokens": 129772,
+                "total_cost": 0
+            }
+        }
+    }
+}

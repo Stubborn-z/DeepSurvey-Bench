@@ -1,0 +1,299 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "The Motivation for Alignment",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Risks of Misalignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Causes of Misalignment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "The Scope of Alignment",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "The Alignment Cycle: A Framework of Alignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "RICE: The Objectives of Alignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion on the Boundaries of Alignment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Learning from Feedback",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Feedback Types",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Preference Modeling",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Policy Learning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Background",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Reinforcement Learning from Human Feedback (RLHF)",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Scalable Oversight: Path towards Superalignment",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "From RLHF to \\RLxF",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Iterated Distillation and Amplification",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Recursive Reward Modeling",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Debate",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cooperative Inverse Reinforcement Learning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Circuit Breaking",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Weak-to-Strong Generalization",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Learning under Distribution Shift",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "The Distribution Shift Challenge",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Algorithmic Interventions",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Cross-Distribution Aggregation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Navigation via Mode Connectivity",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Data Distribution Interventions",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Adversarial Training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cooperative Training",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Assurance",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Safety Evaluations",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Datasets and Benchmarks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation Targets",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Red Teaming",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Safetywashing",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Interpretability",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Intrinsic Interpretability",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Post Hoc Interpretability",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Outlook",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Human Values Verification",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Formulations",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation Methods",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Governance",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "The Role of AI Governance",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "The Multi-Stakeholder Approach",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Open Problems",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "International Governance",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Open-Source Governance",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Rethinking AI Alignment from a Socio-technical Perspective",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Incorporating Values into AI Systems",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Alignment Techniques for AI Governance",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Key Challenges in the Alignment Cycle",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Key Traits and Future Directions in Alignment Research",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Acknowledgments",
+    "level": 1,
+    "children": []
+  }
+]

@@ -1,0 +1,51 @@
+# A survey on large language model based autonomous agents
+
+# Introduction
+
+# LLM-based Autonomous Agent Construction
+
+## Agent Architecture Design
+
+### Profiling Module
+
+### Memory Module
+
+### Planning Module
+
+### Action Module
+
+## Agent Capability Acquisition
+
+# LLM-based Autonomous Agent Application
+
+## Social Science
+
+## Natural Science
+
+## Engineering
+
+# LLM-based Autonomous Agent Evaluation
+
+## Subjective Evaluation
+
+## Objective Evaluation
+
+# Related Surveys
+
+# Challenges
+
+## Role-playing Capability
+
+## Generalized Human Alignment
+
+## Prompt Robustness
+
+## Hallucination
+
+## Knowledge Boundary
+
+## Efficiency
+
+# Conclusion
+
+# Acknowledgement

@@ -1,0 +1,117 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "An Introduction to Controllable Text Generation and Pre-trained Language Models",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Controllable Text Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Transformer-based Pre-trained Language Models",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Main Approaches to PLM-based CTG",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Overview",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Fine-tuning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Retraining/Refactoring",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Post-Processing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Summary",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Evaluation Methods",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "General NLG Evaluation Metrics",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Human-Centric Evaluation Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Automatic Evaluation Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Semi-automatic Evaluation Metrics",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "CTG-specific Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Summary",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Challenges and Future Directions",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Challenges",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Future Directions",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusions",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgments",
+    "level": 1,
+    "children": []
+  }
+]

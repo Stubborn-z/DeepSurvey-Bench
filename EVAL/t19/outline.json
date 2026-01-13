@@ -1,0 +1,181 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background and Related Work",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Large Language Models",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pre-training of LLMs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Adaptation of LLMs",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Continual Learning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Types of Continual Learning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Techniques of Continual Learning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation Metrics of Continual Learning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Continual Learning Meets Large Language Models: An Overview",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Vertical Continuity (Vertical Continual Learning)",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Horizontal Continuity (Horizontal Continual Learning)",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Learning Stages of Continual Large Language Models",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Continual Pre-Training~(CPT)",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "CPT: Effectiveness and Efficiency",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "General Observations on CPT",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Distributional Shifts in CPT",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Domain-Adaptive Pre-training~(DAP)",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "General Observation on DAP",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Different Domains of DAP",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Continual Fine-Tuning~(CFT)",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "General Observations on CFT",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "General Continual Fine-Tuning~(General CFT)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Continual Instruction Tuning~(CIT)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Continual Model Refinement~(CMR)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Continual Model Alignment~(CMA)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Continual Multimodal Large Language Models~(CMLLMs)",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Evaluation Protocols and Datasets",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Discussion",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Intriguing Properties Emergent in Continual LLMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Conventional Types of Incremental Learning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Roles of Memory in Continual LLMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Prospective Directions",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

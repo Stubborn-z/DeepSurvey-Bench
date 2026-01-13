@@ -1,0 +1,23 @@
+{
+    "retrieve database": {
+        "gpt-4o": {
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "total_cost": 0.0
+        }
+    },
+    "generate outline": {
+        "gpt-4o": {
+            "input_tokens": 568165,
+            "output_tokens": 15963,
+            "total_cost": 0.0
+        }
+    },
+    "generate content": {
+        "gpt-4o": {
+            "input_tokens": 614318,
+            "output_tokens": 67096,
+            "total_cost": 0.0
+        }
+    }
+}

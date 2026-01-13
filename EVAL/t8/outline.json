@@ -1,0 +1,368 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Formalizing Bias and Fairness for LLMs",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Preliminaries",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Defining Bias for LLMs",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Social Bias and Fairness",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Bias in NLP Tasks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Bias in the Development and Deployment Life Cycle",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Fairness Desiderata for LLMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Overview of Taxonomies",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Taxonomy of Metrics for Bias Evaluation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Taxonomy of Datasets for Bias Evaluation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Taxonomy of Techniques for Bias Mitigation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Taxonomy of Metrics for Bias Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Facets of Evaluation of Biases: Metrics and Datasets",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Taxonomy of Metrics based on \\emph{What They Use",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Embedding-Based Metrics",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Word Embedding Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Sentence Embedding Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Probability-Based Metrics",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Masked Token Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pseudo-Log-Likelihood Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Generated Text-Based Metrics",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Distribution Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Classifier Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Lexicon Metrics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Recommendations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Taxonomy of Datasets for Bias Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Counterfactual Inputs",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Masked Tokens",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Unmasked Sentences",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Prompts",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Sentence Completions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Question-Answering",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Recommendations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Taxonomy of Techniques for Bias Mitigation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Pre-Processing Mitigation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Data Augmentation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Data Filtering and Reweighting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Data Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Instruction Tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Projection-based Mitigation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "In-Training Mitigation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Architecture Modification",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Loss Function Modification",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Selective Parameter Updating",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Filtering Model Parameters",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Intra-Processing Mitigation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Decoding Strategy Modification",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Weight Redistribution",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Modular Debiasing Networks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Post-Processing Mitigation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Rewriting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion and Limitations",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Recommendations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Open Problems \\& Challenges",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Addressing Power Imbalances",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Conceptualizing Fairness for NLP",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Refining Evaluation Principles",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Improving Mitigation Efforts",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Exploring Theoretical Limits",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Limitations",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

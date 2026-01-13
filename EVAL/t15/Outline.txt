@@ -1,0 +1,111 @@
+# AI Alignment: A Comprehensive Survey
+
+# Introduction
+
+## The Motivation for Alignment
+
+### Risks of Misalignment
+
+### Causes of Misalignment
+
+## The Scope of Alignment
+
+### The Alignment Cycle: A Framework of Alignment
+
+### RICE: The Objectives of Alignment
+
+### Discussion on the Boundaries of Alignment
+
+# Learning from Feedback
+
+## Feedback Types
+
+## Preference Modeling
+
+## Policy Learning
+
+### Background
+
+### Reinforcement Learning from Human Feedback (RLHF)
+
+## Scalable Oversight: Path towards Superalignment
+
+### From RLHF to \RLxF
+
+### Iterated Distillation and Amplification
+
+### Recursive Reward Modeling
+
+### Debate
+
+### Cooperative Inverse Reinforcement Learning
+
+### Circuit Breaking
+
+### Weak-to-Strong Generalization
+
+# Learning under Distribution Shift
+
+## The Distribution Shift Challenge
+
+## Algorithmic Interventions
+
+### Cross-Distribution Aggregation
+
+### Navigation via Mode Connectivity
+
+## Data Distribution Interventions
+
+### Adversarial Training
+
+### Cooperative Training
+
+# Assurance
+
+## Safety Evaluations
+
+### Datasets and Benchmarks
+
+### Evaluation Targets
+
+### Red Teaming
+
+### Safetywashing
+
+## Interpretability
+
+### Intrinsic Interpretability
+
+### Post Hoc Interpretability
+
+### Outlook
+
+## Human Values Verification
+
+### Formulations
+
+### Evaluation Methods
+
+# Governance
+
+## The Role of AI Governance
+
+## The Multi-Stakeholder Approach
+
+## Open Problems
+
+### International Governance
+
+### Open-Source Governance
+
+## Rethinking AI Alignment from a Socio-technical Perspective
+
+### Incorporating Values into AI Systems
+
+### Alignment Techniques for AI Governance
+
+# Conclusion
+
+## Key Challenges in the Alignment Cycle
+
+## Key Traits and Future Directions in Alignment Research

@@ -1,0 +1,75 @@
+# A Survey on the Memory Mechanism of Large Language Model-based Agents
+
+## 1 Foundations of Memory in Large Language Models
+
+### 1.1 Memory Representations and Encoding Strategies
+
+### 1.2 Theoretical Foundations of Neural Memory
+
+### 1.3 Computational Complexity and Resource Requirements
+
+## 2 Memory Augmentation and Retrieval Techniques
+
+### 2.1 Retrieval-Augmented Generation (RAG) Fundamentals
+
+### 2.2 Advanced Knowledge Integration Strategies
+
+### 2.3 Semantic Search and Retrieval Optimization
+
+## 3 Cognitive and Computational Perspectives on Memory
+
+### 3.1 Comparative Memory Mechanism Analysis
+
+### 3.2 Working Memory and Reasoning Capabilities
+
+### 3.3 Memory Plasticity and Knowledge Adaptation
+
+## 4 Continual Learning and Memory Dynamics
+
+### 4.1 Continual Learning Mechanisms
+
+### 4.2 Catastrophic Forgetting Mitigation
+
+### 4.3 Representation Learning and Knowledge Transfer
+
+## 5 Multi-Agent Memory Interactions
+
+### 5.1 Collective Memory Sharing Mechanisms
+
+### 5.2 Cooperative Memory Interaction Protocols
+
+### 5.3 Adaptive Collaborative Memory Dynamics
+
+## 6 Memory Challenges and Limitations
+
+### 6.1 Hallucination Phenomena
+
+### 6.2 Detection and Mitigation Strategies
+
+### 6.3 Bias and Knowledge Consistency Challenges
+
+## 7 Performance Evaluation and Benchmarking
+
+### 7.1 Memory Performance Metrics
+
+### 7.2 Comparative Evaluation Frameworks
+
+### 7.3 Longitudinal Memory Assessment
+
+## 8 Optimization and Efficiency Strategies
+
+### 8.1 Model Compression Techniques
+
+### 8.2 Adaptive Memory Allocation
+
+### 8.3 Hardware-Aware Optimization
+
+## 9 Future Research Directions
+
+### 9.1 Emerging Cognitive Architectures
+
+### 9.2 Ethical and Responsible Memory Design
+
+### 9.3 Interdisciplinary Memory Research
+
+# References

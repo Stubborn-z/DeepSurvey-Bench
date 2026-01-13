@@ -1,0 +1,292 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Origin of AI Agent",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Technological Trends in Agent Research",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": " Why is LLM suitable as the primary component of an Agent's brain?",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "The Birth of An Agent: Construction of LLM-based Agents",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Brain",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Natural Language Interaction",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Knowledge",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Memory",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Reasoning and Planning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Transferability and Generalization",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Perception",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Textual Input",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Visual Input",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Auditory Input",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Other Input",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Action",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Textual Output",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Tool Using",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Embodied Action",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Agents in Practice:  Harnessing AI for Good",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "General Ability of Single Agent",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Task-oriented Deployment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Innovation-oriented Deployment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Lifecycle-oriented Deployment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Coordinating Potential of Multiple Agents",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Cooperative Interaction for Complementarity",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Adversarial Interaction for Advancement",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Interactive Engagement between Human and Agent",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Instructor-Executor Paradigm",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Equal Partnership Paradigm",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Agent Society: From Individuality to Sociality",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Behavior and Personality of LLM-based Agents",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Social Behavior",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Personality",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Environment for Agent Society",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Text-based Environment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Virtual Sandbox Environment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Physical Environment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Society Simulation with LLM-based Agents",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Key Properties and Mechanism of Agent Society",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Insights from Agent Society",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Ethical and Social Risks in Agent Society",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Discussion ",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Mutual Benefits between LLM Research and Agent Research",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Evaluation for LLM-based Agents",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Security, Trustworthiness and Other Potential Risks of LLM-based Agents",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Adversarial Robustness",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Trustworthiness",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Other Potential Risks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Scaling Up the Number of Agents",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Open Problems",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgements",
+    "level": 1,
+    "children": []
+  }
+]

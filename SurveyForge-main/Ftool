@@ -1,0 +1,15 @@
+cd SurveyForge-main
+
+cd code
+ pip install -r requirement.txt   
+
+ conda create -n surveyf python=3.10 
+conda activate surveyf
+
+ @SurveyForge-main 该文件是https://github.com/Alpha-Innovator/SurveyForge 的代码。向我说明如何下载它的必要文件和运行该代码。
+
+
+ cd SurveyForge-main/code
+ conda activate surveyf         
+python run_demo.py --topic "A Survey of Large Language Models"     
+python run_demo.py --topic "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision"     

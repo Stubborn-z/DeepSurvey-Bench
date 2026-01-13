@@ -1,0 +1,332 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Taxonomy",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Specific or Universal Speedup",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Unstructured Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Structured Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Semi-structured Pruning",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "When to Prune",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Pruning Before Training",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pruning During Training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Sparsity Regularization based Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Dynamic Sparse Training based Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Score-based Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Differentiable Pruning based methods",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Pruning After Training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "LTH and its Variants",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Other score-based Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Sparsity Regularization based Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pruning in Early Training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Post-Training Pruning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Run-time Pruning",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Pruning Criteria",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Magnitude-based Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "$l_p$ Norm",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Sensitivity and/or Saliency",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Loss Change",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Learn to Prune",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Sparsity Regularization based Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Meta-Learning based Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Graph Neural Network based Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Reinforcement Learning based Pruning",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "A Comprehensive Comparative Analysis",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Unstructured vs. Structured Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "One-shot vs. Iterative Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Data-free vs. Data-driven Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pruning on Initialized vs. Pre-trained Weights",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Global vs. Local Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Training from Scratch vs. Fine-tuning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Original Task vs. Transfer Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Static vs. Dynamic Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Layer-wise Weight Density Analysis",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pruning with Different Levels of Supervision",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Fusion of Pruning and other Compression Techniques",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Suggestions and Future Directions",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Recommendations on pruning method selection",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Future Directions",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Terms and Notations",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Experimental settings",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "More Comparison Results",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "\\small More Results for Unstructured vs. Structured Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "More Results for One-shot vs. Iterative Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "More Results for Data-free vs. Data-driven Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "\\scalebox{0.80",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "More Results for Global vs. Local Pruning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "\\scalebox{0.90",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Pruning for Specific Applications",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Image Classification",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Object Detection",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Image Style Translation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Adversarial Robustness",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Other CV Tasks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Natural Language Processing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Vision-and-Language Tasks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Audio and Speech Processing",
+        "level": 2,
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+# Diffusion Model-Based Image Editing: A Survey
+
+## 1 Introduction to Diffusion Models
+
+### 1.1 Background of Diffusion Models
+
+### 1.2 Key Concepts
+
+### 1.3 Diffusion Models versus Traditional Generative Methods
+
+### 1.4 Significance in Image Editing
+
+## 2 Foundations of Diffusion Models
+
+### 2.1 Score-Based Generative Processes
+
+### 2.2 Denoising Mechanisms
+
+### 2.3 Forward and Reverse Processes
+
+### 2.4 Score Matching and Fokker-Planck Equations
+
+### 2.5 Advanced Handling Techniques
+
+## 3 Image Editing Techniques Using Diffusion Models
+
+### 3.1 Semantic and Scene Text Editing
+
+### 3.2 Inpainting and Object Manipulation
+
+### 3.3 Style Transfer and High-Resolution Editing
+
+### 3.4 Multi-Modal and Interactive Editing
+
+## 4 Text-to-Image Diffusion Models
+
+### 4.1 Mechanisms and Enhancements
+
+### 4.2 Addressing Misalignment and Training-Free Approaches
+
+### 4.3 Applications and Performance Evaluations
+
+## 5 Applications Across Different Domains
+
+### 5.1 Medical Imaging and 3D Modeling
+
+### 5.2 Video Editing and Creative Arts
+
+### 5.3 Challenges in Diverse Domains
+
+## 6 Challenges and Limitations
+
+### 6.1 Computational and Image Fidelity Challenges
+
+### 6.2 Handling Complex Tasks and Real-world Constraints
+
+### 6.3 Methodological Improvements
+
+## 7 Comparative Analysis with Other Generative Models
+
+### 7.1 Efficiency and Hybrid Approaches
+
+### 7.2 Applications and Performance Metrics
+
+## 8 Recent Advances and Innovations
+
+### 8.1 Multi-Modal Capabilities and Efficiency Improvements
+
+### 8.2 Integration with Other Technologies and Advanced Sampling
+
+## 9 Ethical Considerations and Future Directions
+
+### 9.1 Ethical Challenges and Global Perspectives
+
+### 9.2 Advancements in Robustness and Sustainability
+
+### 9.3 Collaborative Ethical Approaches and Future Research
+
+# References

@@ -1,0 +1,103 @@
+# A Survey on the Memory Mechanism of Large Language Model-based Agents
+
+## 1 Introduction
+
+### 1.1 Importance of Memory Mechanisms
+
+### 1.2 Enhancing Agent Capabilities
+
+### 1.3 Objectives of the Survey
+
+## 2 Overview of Large Language Models (LLMs)
+
+### 2.1 Development of LLMs
+
+### 2.2 Core Capabilities
+
+### 2.3 Chain-of-Thought Reasoning
+
+### 2.4 Diverse Applications
+
+### 2.5 Multi-Agent Systems
+
+### 2.6 Challenges in Deployment
+
+## 3 Memory Mechanisms in LLMs
+
+### 3.1 Attention-Based Memory
+
+### 3.2 Episodic Memory
+
+### 3.3 Retrieval-Augmented Generation
+
+### 3.4 Structured Memory Modules
+
+### 3.5 Innovations in Memory
+
+### 3.6 Challenges in Memory Implementation
+
+## 4 Evaluation of Memory Capabilities
+
+### 4.1 Benchmarks and Metrics
+
+### 4.2 Adaptive Testing
+
+### 4.3 Memory Framework Evaluations
+
+### 4.4 RAG Evaluation
+
+### 4.5 Lifelong Learning Assessment
+
+### 4.6 Evaluation Tools
+
+## 5 Applications of Memory Mechanisms
+
+### 5.1 Personalized Interactions
+
+### 5.2 Recommendation Systems
+
+### 5.3 Decision-Making
+
+### 5.4 Domain-Specific Tasks
+
+### 5.5 Collaborative Systems
+
+## 6 Challenges and Limitations
+
+### 6.1 Hallucinations
+
+### 6.2 Computational Constraints
+
+### 6.3 Privacy Concerns
+
+### 6.4 Mitigating Hallucinations
+
+### 6.5 Balancing Retrieval and Parametric Knowledge
+
+### 6.6 Human-AI Collaboration
+
+### 6.7 Future Research Opportunities
+
+## 7 Future Directions and Research Opportunities
+
+### 7.1 Multidisciplinary Approaches
+
+### 7.2 Self-Evolution Mechanisms
+
+### 7.3 Dynamic Memory Architectures
+
+### 7.4 Memory-Driven Decision Making
+
+### 7.5 Integrated Multi-modal Memory Systems
+
+### 7.6 Emotion and Contextual Memory
+
+### 7.7 Safeguard in Scientific Applications
+
+### 7.8 Collaborative Memory Management
+
+### 7.9 Overcoming Computational Constraints
+
+### 7.10 Human-like Memory Models
+
+# References

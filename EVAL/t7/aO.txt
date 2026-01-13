@@ -1,0 +1,125 @@
+# A survey on large language model based autonomous agents
+
+## 1 Introduction to Large Language Models and Autonomous Agents
+
+### 1.1 Historical Background of Large Language Models
+
+### 1.2 Development of LLMs and Their Impact
+
+#### Technological Advancements Driving LLM Development
+
+#### Transformative Effects Across Sectors
+
+#### Educational and Societal Transformations
+
+#### Challenges and Opportunities
+
+### 1.3 Defining Autonomous Agents
+
+### 1.4 Intersection of LLMs and Autonomous Agents
+
+### 1.5 Motivation and Goals of the Survey
+
+## 2 Foundations and Mechanisms of Large Language Models
+
+### 2.1 Architectural Evolution of Large Language Models
+
+### 2.2 Transformer Mechanics and Innovations
+
+### 2.3 Training Methodologies: Pre-training and Fine-Tuning
+
+### 2.4 Chain-of-Thought Reasoning and Emergent Cognitive Abilities
+
+### 2.5 Challenges and Resource-Efficiency in Training and Deployment
+
+## 3 Integration of LLMs in Autonomous Agent Systems
+
+### 3.1 Decision-Making Frameworks and Hierarchical Approaches
+
+#### Decision-Making Frameworks and Hierarchical Approaches
+
+### 3.2 Memory and Context Integration
+
+#### Memory and Context Integration in LLMs
+
+### 3.3 Multi-Agent and Tool-Enhanced Systems
+
+### 3.4 Challenges in Reasoning and Execution
+
+## 4 Multimodal and Multilingual Applications
+
+### 4.1 Multimodal Knowledge Representation and Interaction Capabilities
+
+### 4.2 Cross-Linguistic Multimodal Fusion and Application in Augmented Reality
+
+### 4.3 Frameworks and Tools for Multimodal Processing
+
+## 5 Diverse Applications Across Domains
+
+### 5.1 Healthcare and Financial Domains
+
+#### LLM-Based Autonomous Agents in Healthcare
+
+#### LLM-Based Autonomous Agents in Finance
+
+#### Impact on Operational Efficiency
+
+### 5.2 Robotics, Space Exploration, and Social Media Interaction
+
+### 5.3 Challenges in Multimodal Systems and Legal Advice
+
+## 6 Challenges and Limitations
+
+### 6.1 Biases and Hallucination Phenomenon
+
+### 6.2 Computational Requirements and Ethical Considerations
+
+### 6.3 Inter-agent Communication and Domain-Specific Vulnerabilities
+
+## 7 Advances in Tools and Frameworks for Enhancing LLM Capabilities
+
+### 7.1 Prompt Engineering and Design
+
+### 7.2 Reinforcement Learning Integration and Self-Improvement Strategies
+
+### 7.3 Multimodal and Multi-agent Collaboration, Evaluation, and Refinement Tools
+
+## 8 Evaluation and Benchmarking of LLM-Based Agents
+
+### 8.1 Methodologies and Metrics for Evaluation
+
+### 8.2 Benchmarking Frameworks and Challenges
+
+### 8.3 Case Studies, Empirical Insights, and Future Directions
+
+## 9 Ethical, Social, and Security Implications
+
+### 9.1 Ethical Principles and Privacy Concerns
+
+### 9.2 Security Threats and Societal Implications
+
+### 9.3 Regulatory Approaches and Human-AI Interaction Ethics
+
+## 10 Future Directions and Research Opportunities
+
+### 10.1 Integration of Chain-of-Thought Reasoning and Multidisciplinary Frameworks
+
+### 10.2 Self-Evolution, Multi-Agent Collaboration, and Ethical Considerations
+
+#### Advancements in Self-Evolution Strategies
+
+#### Multi-Agent Collaboration Development
+
+#### Ethical Considerations
+
+### 10.3 Open Research Questions in Autonomous Agents
+
+## 11 Conclusion
+
+### 11.1 Summary of Key Insights and Transformative Impact
+
+### 11.2 Importance of Continued Research and Interdisciplinary Collaboration
+
+### 11.3 Future Research Directions
+
+# References

@@ -1,0 +1,207 @@
+# Informational value
+
+## 1.1 Objective Clarity
+
+### Role Description:
+You are now acting as an **experienced literature review evaluator** with years of academic review experience. You are proficient in evaluating the clarity of research objectives, the articulation of background and motivation, and the clarity of research direction in academic papers. You will evaluate the **Abstract** and **Introduction** sections of the paper in detail.
+
+### Evaluation Dimensions:
+- **Research Objective Clarity**: Evaluate whether the research objective is specific, clear, and closely aligned with the core issues in the field.
+- **Background and Motivation**: Evaluate whether the background and motivation are sufficiently explained, especially how they support the research objective.
+- **Practical Significance and Guidance Value**: Evaluate whether the research objective demonstrates clear academic value and practical guidance for the field.
+
+
+### Scoring Criteria:
+- **5 points**: The research objective is clear, specific, and the background and motivation are clearly explained. The objective has significant academic and practical value. For example, the objective is closely tied to the core issues of the field, and the review provides a thorough analysis of the current state and challenges.
+- **4 points**: The research objective is clear, but the background or motivation may be somewhat brief. The objective has noticeable academic or practical value, and it mostly guides the research direction clearly.
+- **3 points**: The research objective is present, but the background and motivation lack depth. The academic and practical value of the objective is not fully explained, and the objective is somewhat vague or lacks clear direction.
+- **2 points**: The objective is unclear, and the background and motivation are inadequately explained. The academic value of the objective is not clear, and some parts of the objective are vague or repetitive.
+- **1 point**: The review does not present a clear research objective, lacks background and motivation, and the research direction is not specified. The objective is almost nonexistent.
+
+### Output Requirements:
+- Please **first provide the score** for this section (1-5 points).
+- **Then provide a detailed explanation** of why you assigned this score, and specifically mention which parts of the paper (including chapters and sentences) support your scoring.
+- Please ensure that the score is entirely consistent with the content, and make a reasonable judgment based on the actual content of the paper.
+
+## 1.2 Classification-Evolution Coherence
+
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the clarity and reasonableness of the method classification system and the evolution of the technological progression in literature reviews. You will evaluate the **Method** and/or **Related Work** sections of the paper. If the paper does not explicitly use headings such as "Method" or "Related Work", focus on the content after the **Introduction** and before the **Experiments/Evaluation** sections for a detailed evaluation.
+
+### Evaluation Dimensions:
+- **Method Classification Clarity**: Evaluate whether the method classification is clear and reasonable and whether it reflects the technological development path in the field.
+- **Evolution of Methodology**: Evaluate whether the evolution process of methods is systematically presented and whether the technological or methodological trends are shown.
+
+### Scoring Criteria:
+- **5 points**: The method classification is completely clear, and the evolution process is systematically presented, well revealing the technological advancements and field development trends. Each category is clearly defined with inherent connections, and the evolutionary direction of methods is clear and innovative.
+- **4 points**: The method classification is relatively clear, and the evolution process is somewhat presented, but the connections between some methods are unclear, and some evolutionary stages are not fully explained. Overall, it reflects the technological development of the field.
+- **3 points**: The method classification is somewhat vague, and the evolution process is partially clear, but lacks a detailed analysis of the inheritance between methods. Some evolutionary directions are unclear.
+- **2 points**: The method classification is unclear, the evolution process is not well-defined, and there is no analysis of the relationships between methods. It is difficult to clearly present the technological progress of the field.
+- **1 point**: The method classification is chaotic, and the evolution process is almost unrecognizable. There is no mention of technological progress or the relationships between methods.
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention which parts of the paper (including chapters and sentences) support your scoring.
+- Please ensure that the score is entirely consistent with the content, and make a reasonable judgment based on the actual content of the paper.
+
+## 1.3 Dataset & Metric Coverage
+
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the coverage of datasets and the applicability of evaluation metrics in the literature review. You will carefully evaluate the **Data**, **Evaluation**, and/or **Experiments** sections of the paper.
+
+### Evaluation Dimensions:
+- **Diversity of Datasets and Metrics**: Evaluate whether the review covers a variety of datasets and evaluation metrics, and whether it includes important datasets and metrics in the field.
+- **Rationality of Datasets and Metrics**: Evaluate whether the choice of datasets is reasonable and sufficiently supports the research objective, and whether the evaluation metrics are academically sound and practically meaningful.
+
+### Scoring Criteria:
+- **5 points**: The review comprehensively covers multiple datasets and evaluation metrics, providing detailed descriptions of each dataset's scale, application scenario, and labeling method. The choice and use of evaluation metrics are highly targeted and reasonable, covering the key dimensions of the field.
+- **4 points**: The review includes multiple datasets and evaluation metrics, and the description of each dataset is fairly detailed. The choice of evaluation metrics is generally reasonable, but some aspects of the dataset's application scenarios or the use of metrics may not be fully explained.
+- **3 points**: The review covers a limited set of datasets and evaluation metrics, and the descriptions lack detail. The choice of metrics does not fully reflect key dimensions of the field, and the characteristics of datasets are not sufficiently explained.
+- **2 points**: The review includes few datasets or evaluation metrics, and the descriptions are not clear or detailed. There is a lack of analysis of the rationale behind the choices, and some datasets or metrics are not described in detail.
+- **1 point**: No datasets or evaluation metrics are mentioned, or the descriptions are extremely simple and not practical.
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention which parts of the paper (including chapters and sentences) support your scoring.
+- Please ensure that the score is entirely consistent with the content, and make a reasonable judgment based on the actual content of the paper.
+
+# Scholarly communication value
+
+## 2.1 In-depth Comparison
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the comparison of different research methods and the analysis of their advantages, disadvantages, similarities, and distinctions in literature review papers. You will carefully evaluate the **Method** and/or **Related Work** sections of the paper. If the paper does not explicitly use "Method" or "Related Work" as section titles, focus on the content after the **Introduction** and before the **Experiments/Evaluation** sections for a detailed evaluation.
+
+
+### Evaluation Dimensions:
+Evaluate the **clarity, rigor, and depth** of the review’s **comparison of different research methods**. This evaluation focuses on whether the paper:
+
+- systematically compares methods across multiple dimensions
+- clearly describes **advantages and disadvantages**
+- identifies **commonalities and distinctions**
+- explains differences in terms of **architecture, objectives, or assumptions**
+- avoids superficial or fragmented listing of methods
+
+This dimension emphasizes **objective and structured comparison**, rather than subjective commentary.
+
+### Scoring Criteria:
+
+- **5 points**:  
+  The review presents a **systematic, well-structured, and detailed comparison** of multiple methods, clearly summarizing their advantages, disadvantages, commonalities, and distinctions across multiple meaningful dimensions (e.g., modeling perspective, data dependency, learning strategy, application scenario). The comparison is technically grounded and reflects a comprehensive understanding of the research landscape.
+
+- **4 points**:  
+  The review provides a **clear comparison** of major advantages and disadvantages of the methods and identifies their similarities and differences, but some comparison dimensions are not fully elaborated, or certain aspects of the comparison remain at a relatively high level.
+
+- **3 points**:  
+  The review mentions the **pros and cons** or **differences** between methods, but the comparison is **partially fragmented or superficial**, lacking systematic structure or sufficient technical depth in contrasting the methods.
+
+- **2 points**:  
+  The review mainly **lists the characteristics or outcomes** of different methods, with limited explicit comparison. Advantages and disadvantages are mentioned in isolation, and **the relationships among methods are not clearly contrasted**.
+
+- **1 point**:  
+  The review does not provide meaningful comparison. Methods are described **independently**, with no discussion of similarities, differences, or advantages and disadvantages.
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention **which sections and sentences** in the paper support your scoring.
+- Please ensure that the score is **entirely consistent with the content**, and make a reasonable judgment based on the actual content of the paper.
+
+## 2.2 Critical Analysis
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the **critical analysis, interpretation, and reflective commentary** provided in literature review papers. You will carefully evaluate the **Method** and/or **Related Work** sections of the paper. If the paper does not explicitly use "Method" or "Related Work" as section titles, focus on the content after the **Introduction** and before the **Experiments/Evaluation** sections for a detailed evaluation.
+
+
+### Evaluation Dimensions:
+Evaluate the **depth, reasoning, and insightfulness** of the review’s **critical analysis of different methods**. This evaluation focuses on whether the paper:
+
+- explains the **fundamental causes** of differences between methods
+- analyzes **design trade-offs, assumptions, and limitations**
+- synthesizes relationships across research lines
+- provides **technically grounded explanatory commentary**
+- extends beyond descriptive summary to offer **interpretive insights**
+
+This dimension emphasizes **analytical reasoning and reflective interpretation**, not merely reporting or summarization.
+
+### Scoring Criteria:
+
+- **5 points**:  
+  The review provides **deep, well-reasoned, and technically grounded critical analysis**, clearly explaining the **underlying mechanisms, design trade-offs, and fundamental causes** of methodological differences. It synthesizes connections across research directions and offers **insightful, evidence-based personal commentary** that meaningfully interprets the development trends and limitations of existing work.
+
+- **4 points**:  
+  The review offers **meaningful analytical interpretation** of method differences and provides reasonable explanations for some underlying causes, but the depth of analysis is **uneven across methods**, or some arguments remain partially underdeveloped.
+
+- **3 points**:  
+  The review includes **basic analytical comments** or evaluative statements, but the analysis remains **relatively shallow**, focusing more on descriptive remarks than on rigorous technical reasoning. Explanations of fundamental causes are **limited or implicit**.
+
+- **2 points**:  
+  The review provides only **brief or generic evaluative comments** without explaining why such differences or limitations arise. Arguments lack analytical depth and do not meaningfully interpret relationships between methods.
+
+- **1 point**:  
+  The review lacks **critical analysis**. The paper only presents methods descriptively, with no interpretive commentary, reasoning, or reflective insight.
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention **which sections and sentences** in the paper support your scoring.
+- Please ensure that the score is **entirely consistent with the content**, and make a reasonable judgment based on the actual content of the paper.
+
+# Research guidance value
+## 3.1 Research Gaps
+
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the identification and analysis of research gaps in literature review papers. You will carefully evaluate the **Gap/Future Work** section of the paper.
+
+### Evaluation Dimensions:
+Evaluate whether the review systematically identifies, analyzes, and explains the key issues and shortcomings that need to be addressed in the future of the research field, based on the current achievements. This evaluation focuses not only on whether the "unknowns" are pointed out but also on the **depth of analysis** regarding why these issues are important and what impact they have.
+
+### Scoring Criteria:
+
+- **5 points**:  
+  Based on the review content, the **major research gaps** are comprehensively identified and deeply analyzed, covering **data**, **methods**, and other dimensions. The analysis is detailed and discusses the **potential impact** of each gap on the development of the field.
+
+- **4 points**:  
+  The review points out several research gaps, but the analysis is somewhat **brief** and does not delve deeply into the **impact** or **background** of each gap. The gaps are identified in a comprehensive way, but the discussion is not fully developed.
+
+- **3 points**:  
+  The review lists some research gaps but lacks in-depth analysis or discussion. Although some gaps are identified, their **impact** or **reasons** are not fully explored.
+
+- **2 points**:  
+  The research gap analysis is **limited**, and the review does not fully discuss the identified gaps. The gaps are mentioned in passing but not explored in detail.
+
+- **1 point**:  
+  The review **does not identify or discuss any research gaps**, and there is a lack of analysis of the **major issues** in the field.
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention **which parts** (including chapters and sentences) in the paper support your scoring.
+- Please ensure that the score is **entirely consistent with the content**, and make a reasonable judgment based on the actual content of the paper.
+
+
+## 3.2 Prospectiveness
+
+### Role Description:
+You are now acting as a **senior literature review evaluator** with many years of academic review experience. You are proficient in evaluating the identification of future research directions and their innovative analysis in literature review papers. You will carefully evaluate the **Gap/Future Work** section of the paper.
+
+### Evaluation Dimensions:
+Evaluate whether the paper proposes **forward-looking research directions** based on the **existing research gaps** or **real-world issues**, and whether it offers **new research topics** or **suggestions** in response to these gaps, aligning with real-world needs.
+
+### Scoring Criteria:
+
+- **5 points**:  
+  The review tightly integrates the **key issues** and **research gaps** in the field, proposing **highly innovative** research directions that effectively address **real-world needs**. The review presents **specific and innovative research topics or suggestions** and provides a thorough analysis of their **academic and practical impact**, offering a **clear and actionable path** for future research.
+
+- **4 points**:  
+  The review identifies several **forward-looking research directions** based on key issues and research gaps, addressing **real-world needs**, but the analysis of the **potential impact** and **innovation** is somewhat shallow. The directions are innovative, but the discussion is brief and does not fully explore the **causes** or **impacts** of the research gaps.
+
+- **3 points**:  
+  The proposed research directions are **broad** and lack an in-depth discussion of their **forward-looking nature**. The review does not clearly explain how these directions address the **existing research gaps** or meet **real-world needs**. 
+
+- **2 points**:  
+  The future research directions are unclear and lack an in-depth analysis of their **innovation**. The proposed directions are **traditional**, and the review does not clearly explain their **academic significance** or **practical value**. 
+
+- **1 point**:  
+  The review does not propose any **future research directions**, nor does it discuss the **forward-looking nature** of the research. 
+
+### Output Requirements:
+- Please **first provide the score** (1-5 points) for this section.
+- **Then provide a detailed explanation**, explaining why you assigned this score, and specifically mention **which parts** (including chapters and sentences) of the paper support your scoring.
+- Please ensure that the score is **entirely consistent with the content**, and make a reasonable judgment based on the actual content of the paper.
+

@@ -1,0 +1,47 @@
+# A Survey on In-context Learning
+
+# Introduction
+
+# Definition and Formulation
+
+# Model Training
+
+## Pretraining
+
+## Warmup
+
+# Prompt Designing
+
+## Demonstration Organization
+
+### Demonstration Selection
+
+### Demonstration Reformatting
+
+### Demonstration Ordering
+
+## Instruction Formatting
+
+## Scoring Function
+
+# Analysis
+
+## Influencing Factors
+
+### Pretraining Stage
+
+### Inference Stage
+
+## Learning Mechanism
+
+### Functional Modules
+
+### Theoretical Interpretation
+
+# Application
+
+# Challenges and Future Directions
+
+# Conclusion
+
+# Limitations

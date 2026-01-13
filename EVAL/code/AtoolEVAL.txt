@@ -1,0 +1,113 @@
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code
+python topicget.py "Next-Generation Database Interfaces"
+python topicgetALL.py -n 30
+python outlinegetALL.py
+
+删除t2-t30
+cd /home/liudingyuan/code/SurveyX/code/EVAL && for i in {2..30}; do if [ -d "t$i" ]; then rm -rf "t$i" && echo "已删除 t$i"; fi; done
+删除t2-t30的eval
+for i in {2..20}; do rm -f /home/liudingyuan/code/SurveyX/code/EVAL/t$i/eval.jsonl; done
+移动base输出到t1-30
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code
+python MOVE.py
+
+conda activate py310
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r hshher.txt
+pip install -i https://mirrors.aliyun.com/pypi/simple -r hshher.txt
+pip install -r hshher.txt
+python hshher.py
+
+#conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
+
+conda activate py310
+proxyoff
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code
+python refgetALL.py
+
+curl -X GET "http://10.1.114.121:18080/papers_search/_search" \
+     -H "Content-Type: application/json" \
+     -d '{
+          "query": {
+            "match": {
+              "title": "A neural probabilistic language model" 
+            }
+          }
+        }'
+
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code && conda activate py310
+python hshher.py
+python rougebleu.py
+python recallak.py
+(proxyoff) python llmevaloutline.py
+python llmevalpaper.py
+python citationrecall.py      摘要
+python recallpref.py         标题
+python lourele.py
+
+
+cd /home/liudingyuan/code/SurveyX/code/EVAL/code && conda activate py310
+python MOVE.py
+python AVG.py
+python PAPER.py
+
+python Zarxivget.py
+python Zrecallak.py
+python Zhshher.py  #python -c "from flair.nn import Classifier; Classifier.load('ner')"
+python Zrougebleu.py
+
+python Zllmevaloutline.py
+python Zllmevalpaper.py
+python Zcitationrecall.py
+python Zrecallpref.py
+python Zlourele.py
+
+python ZllmevalpaperZ4o.py   98.72 rele 97.63    97.12 97.05 96.43
+python ZllmevaloutlineZ4o.py
+python AVGC.py
+
+python ZllmevalpaperZour0.py
+python ZOUR0.py
+
+redo  
+
+
+x
+cd SurveyX-main && conda activate surveyx
+python tasks/offline_run.py --title "Large Language Models for Information Retrieval: A Survey" --key_words "Large Language Models for Information Retrieval: A Survey" --mid 2
+python tasks/offline_run.py --title "The Rise and Potential of Large Language Model Based Agents: A Survey" --key_words "The Rise and Potential of Large Language Model Based Agents: A Survey" --mid 1
+python tasks/offline_run.py --title "Diffusion Model-Based Image Editing: A Survey" --key_words "Diffusion Model-Based Image Editing: A Survey" --mid 2
+
+    "topic": "Large Language Models for Information Retrieval: A Survey"
+
+    "topic": "Diffusion Model-Based Image Editing: A Survey"
+
+
+
+python tasks/offline_run.py --title "Large Language Models for Information Retrieval: A Survey" --key_words "Large Language Models for Information Retrieval: A Survey" --mid 2
+python tasks/offline_run.py --title "Ai alignment: A comprehensive survey" --key_words "Ai alignment: A comprehensive survey"
+python tasks/offline_run.py --title "Ai alignment: A comprehensive survey" --key_words "Ai alignment: A comprehensive survey" --mid 1
+python tasks/offline_run.py --title "The Rise and Potential of Large Language Model Based Agents: A Survey" --key_words "The Rise and Potential of Large Language Model Based Agents: A Survey" --mid 1
+python tasks/offline_run.py --title "Diffusion Model-Based Image Editing: A Survey" --key_words "Diffusion Model-Based Image Editing: A Survey" --mid 2
+
+
+EVAL/下有t<a>/ 下有xo<b>.json  fo<b>.txt a<b>.json。<a>值为1到20，<b>值为空或1-9。这里指所有可能情况，这些文件不一定全都有。一个实例如EVAL/t1/a2.json。EVAL/code/recallak.py的调用为cd /home/liudingyuan/code/SurveyX/code/EVAL/code && conda activate py310 && python recallak.py。首先修改recallak.py，在原调用依然有效的情况下，对a<b>.json  f<b>.json也能进行评估，对应追加存储在t1/eval.jsonl的格式为{"name":"a<b>或f<b>","recallak":[,]}。Zrecallak.py通过调用recallak.py实现以下功能(recallak.py通过增加可选参数来定位不同实例)：逐个遍历检查每个t<a>/  下 发现实际存在的的每种可能a<b>.json  f<b>.json  进行调用评估。每处理完一个实例EVAL/t<a>/ a或f<b>.json，都要及时追加存储。如果某实例已存在对应的追加存储{"name":"a<b>或f<b>","recallak":[,]}，则直接跳过该实例。给出以上的代码的实现和运行位置在EVAL/code/ 的Zrecallak.py。环境是conda activate py310，尽量适配py310各软件包已有的版本。
+
+
+文献太多
+recallak低 ok
+Relevancesemantic低RelevanceLLM高 ok
+recallpref低高  ok
+her 高ok    hsr高->实体0 -1
+
+r2尤其低  ok
+
+cd /home/liudingyuan/code/SurveyX/code/EVAL && python OUT.py
+
+
+
+
+
+         null    1     2
+In      0.0025  0.0008 0.00028
+out     0.01    0.004  0.00111

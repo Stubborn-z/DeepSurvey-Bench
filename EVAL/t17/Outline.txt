@@ -1,0 +1,167 @@
+# Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities
+
+# Introduction
+
+# Related Surveys
+
+# LLM Fundamentals
+
+## Model Architecture
+
+### \rm \textbf{Encoder-only architecture
+
+### \rm \textbf{Encoder-decoder architecture
+
+### \rm \textbf{Decoder-only architecture
+
+## LLM Pre-training
+
+### \rm \textbf{Dataset collection and preprocessing
+
+### \rm \textbf{Model training
+
+## LLM Fine-tuning
+
+### \rm \textbf{Instruction tuning
+
+### \rm \textbf{Alignment tuning
+
+## LLM Inference and Utilization by Prompting
+
+### \rm \textbf{In-context learning (ICL)
+
+### \rm \textbf{Chain-of-thought (CoT) prompting
+
+### \rm \textbf{Planning for complex task solving
+
+### \rm \blue{\textbf{Self-refinement with iterative feedback
+
+## Evaluation metrics of LLM
+
+## LLM Deployment in Telecom Networks
+
+### \rm \textbf{Cloud deployment
+
+### \rm \textbf{Network edge deployment:
+
+### \rm \textbf{On-device deployment:
+
+### \rm \textbf{Cache-based deployment
+
+### \rm \textbf{Cooperative deployment
+
+## Analyses of LLM Fundamentals in the Telecom Domain
+
+# LLM for Generation Problems in Wireless Networks
+
+## Motivations of Using LLM-based Generation for Telecom
+
+## Domain Knowledge Generation
+
+### \rm \textbf{Understanding telecom domain knowledge
+
+### \rm  \textbf{Training \blue{LLMs
+
+### \rm  \textbf{Using LLM to telecom knowledge-related generation tasks
+
+## Code Generation
+
+### \rm  \textbf{LLM for code refactoring
+
+### \rm \textbf{LLM-aided code generation with multi-step scheduling
+
+## Network Configuration Generation
+
+## Discussions and Analyses
+
+# LLM-enabled Classification Problems
+
+## Motivations and Classification Capabilities of \blue{LLMs
+
+## LLM for Telecom Security and Attack Detection
+
+### \textbf{Fine-tuning pre-trained \blue{LLMs
+
+### \textbf{Building security-specific \blue{LLMs
+
+## Text Classification
+
+### \rm \textbf{Using LLMs for telecom user feedback classification and analyses
+
+### \rm \textbf{LLM-aided telecom standard classification
+
+## Image Classification
+
+## Encrypted Traffic Classification
+
+## Discussions and Analyses
+
+# LLM-enabled Optimization Techniques for telecom
+
+## Motivations and Optimization Capabilities of LLM
+
+## LLM-aided Reinforcement Learning for Network Optimization
+
+### \rm \textbf{Using LLM for reward function design
+
+### \rm \textbf{Verbal reinforcement learning via LLM
+
+## LLM as a Black-box Optimizer
+
+## LLM-aided Convex Optimization for Telecom
+
+## LLM-based Heuristic Algorithm Design
+
+## Discussions and Analyses
+
+# Time Series LLM for Prediction Problems
+
+## Motivations
+
+## Pre-training Foundation Models for Zero-shot Prediction
+
+### \rm \textbf{Problem formulation
+
+### \rm \textbf{Tokenization mechanisms
+
+### \rm \textbf{Model architecture
+
+## Frozen Pre-trained LLM for Prediction
+
+## Fine-tuned LLM Prediction
+
+## Multi-modal LLM for Telecom Prediction
+
+## Discussions and Analyses
+
+# Challenges and Future Directions of LLM-empowered telecom
+
+## Challenges of Applying LLM Techniques to Telecom
+
+### \rm \textbf{Telecom-domain LLM training
+
+### \rm \textbf{Practical LLM deployment in telecom
+
+### \rm \textbf{Prompt engineering for telecom applications
+
+## Future Directions
+
+### \rm \textbf{\blue{Multi-modal LLMs for telecom
+
+### \rm \textbf{LLM-enabled planning in telecom
+
+### \rm \textbf{\blue{LLM for resource allocation and network optimization
+
+### \rm \textbf{\blue{LLM-enhanced machine learning for telecom
+
+### \rm \textbf{\blue{Real-world implementations of LLM for telecom industry
+
+### \rm \textbf{Model compression and fast inference for network edge and mobile applications
+
+### \rm \textbf{Overcoming hallucination problems in telecom applications
+
+### \rm \textbf{Retrieval augmented-LLM for telecom
+
+### \rm \textbf{Economic and affordable \blue{LLMs
+
+# Conclusion

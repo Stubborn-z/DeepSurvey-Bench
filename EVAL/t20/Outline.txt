@@ -1,0 +1,171 @@
+# Graph Retrieval-Augmented Generation: A Survey
+
+# Introduction
+
+# Comparison with Related Techniques and Surveys
+
+## RAG
+
+## LLMs on Graphs
+
+## KBQA
+
+# Preliminaries
+
+## Text-Attributed Graphs
+
+## Graph Neural Networks
+
+## Language Models
+
+# Overview of GraphRAG
+
+# Graph-Based Indexing
+
+## Graph Data
+
+### Open Knowledge Graphs
+
+### Self-Constructed Graph Data
+
+## Indexing
+
+### Graph Indexing
+
+### Text Indexing
+
+### Vector Indexing
+
+### Hybrid Indexing
+
+# Graph-Guided Retrieval
+
+## Retriever
+
+### Non-parametric Retriever
+
+### LM-based Retriever
+
+### GNN-based Retriever
+
+### Discussion
+
+## Retrieval Paradigm
+
+### Once Retrieval
+
+### Iterative Retrieval
+
+### Multi-Stage Retrieval
+
+### Discussion
+
+## Retrieval Granularity
+
+### Nodes
+
+### Triplets
+
+### Paths
+
+### Subgraphs
+
+### Hybrid Granularties
+
+### Discussion
+
+## Retrieval Enhancement
+
+### Query Enhancement
+
+### Knowledge Enhancement
+
+# Graph-Enhanced Generation
+
+## Generators
+
+### GNNs
+
+### LMs
+
+### Hybrid Models
+
+## Graph Formats
+
+### Graph Languages
+
+### Graph Embeddings
+
+## Generation Enhancement
+
+### Pre-Generation Enhancement
+
+### Mid-Generation Enhancement
+
+### Post-Generation Enhancement
+
+# Training
+
+## Training Strategies of Retriever
+
+### Training-Free
+
+### Training-Based
+
+## Training of Generator
+
+### Training-Free
+
+### Training-Based
+
+## Joint Training
+
+# Applications and Evaluation
+
+## Downstream Tasks
+
+### Question Answering
+
+### Information Retrieval
+
+### Others
+
+## Application Domains
+
+### E-Commerce
+
+### Biomedical
+
+### Academic
+
+### Literature
+
+### Legal
+
+### Others
+
+## Benchmarks and Metrics
+
+### Benchmarks
+
+### Metrics
+
+## GraphRAG in Industry
+
+# Future Prospects
+
+## Dynamic and Adaptive Graphs
+
+## Multi-Modality Information Integration
+
+## Scalable and Efficient Retrieval Mechanisms
+
+## Combination with Graph Foundation Model
+
+## Lossless Compression of Retrieved Context
+
+## Standard Benchmarks
+
+## Broader Applications
+
+# Conclusion

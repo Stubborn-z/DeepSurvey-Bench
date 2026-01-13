@@ -1,0 +1,69 @@
+# Diffusion Model-Based Image Editing: A Survey
+
+# Introduction
+
+## Significance of Diffusion Model-Based Image Editing
+
+## Recent Advancements
+
+## Purpose of the Survey
+
+## Scope of the Survey
+
+## Structure of the Survey
+
+# Background and Core Concepts
+
+## Fundamental Concepts of Diffusion Models
+
+## Generative Models and Neural Networks
+
+## Diffusion Process in Image Synthesis
+
+## Comparative Analysis with Traditional Models
+
+# Advancements in Diffusion Model-Based Image Editing
+
+## Innovative Techniques and Methodologies
+
+## Enhancements in Image Quality and Fidelity
+
+# Applications of Diffusion Models in Image Editing
+
+## Image Synthesis and Style Transfer
+
+## Inpainting and Restoration
+
+## Virtual Try-On and Object Manipulation
+
+## Text-Guided Image Editing
+
+## Applications and Case Studies
+
+# Challenges and Limitations
+
+## Computational Complexity and Resource Intensity
+
+## Data Requirements and Generalizability
+
+## Quality of Input and Dependency on Pre-trained Models
+
+## Model Limitations and Scalability
+
+## Evaluation and Benchmarking Challenges
+
+# Future Directions
+
+## Enhancing Model Robustness and Adaptability
+
+## Optimizing Computational Efficiency
+
+## Expanding Applications and Interdisciplinary Integration
+
+## Improving User Control and Customization
+
+## Exploring Novel Generative Techniques and Frameworks
+
+## Addressing Social Implications and Ethical Considerations
+
+# Conclusion

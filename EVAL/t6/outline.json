@@ -1,0 +1,123 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Definition and Formulation",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Model Training",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Pretraining",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Warmup",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Prompt Designing",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Demonstration Organization",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Demonstration Selection",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Demonstration Reformatting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Demonstration Ordering",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Instruction Formatting",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Scoring Function",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Analysis",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Influencing Factors",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pretraining Stage",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Inference Stage",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Learning Mechanism",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Functional Modules",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Theoretical Interpretation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Application",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Challenges and Future Directions",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Limitations",
+    "level": 1,
+    "children": []
+  }
+]

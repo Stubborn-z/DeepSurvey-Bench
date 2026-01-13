@@ -1,0 +1,93 @@
+{
+    "time": {
+        "generate outline": {
+            "start": "2025-12-28 13:45:30",
+            "end": "2025-12-28 13:48:17",
+            "duration": 167.53
+        },
+        "generate content": {
+            "start": "2025-12-28 13:48:17",
+            "end": "2025-12-28 13:58:13",
+            "duration": 596.64
+        },
+        "generate tabel": {
+            "start": "2025-12-28 14:03:09",
+            "end": "2025-12-28 14:04:41",
+            "duration": 92.96
+        },
+        "post refine": {
+            "start": "2025-12-28 13:58:19",
+            "end": "2025-12-28 14:04:41",
+            "duration": 382.96
+        },
+        "compile latex": {
+            "start": "2025-12-28 14:04:42",
+            "end": "2025-12-28 14:04:50",
+            "duration": 8.63
+        }
+    },
+    "token": {
+        "generate outline": {
+            "gpt-4o": {
+                "input_tokens": 40091,
+                "output_tokens": 4331,
+                "total_cost": 0.1435375
+            },
+            "gpt-4o-mini": {
+                "input_tokens": 184132,
+                "output_tokens": 23971,
+                "total_cost": 0.0420024
+            }
+        },
+        "generate content": {
+            "gpt-4o-mini": {
+                "input_tokens": 238984,
+                "output_tokens": 35320,
+                "total_cost": 0.0570396
+            },
+            "gpt-4o": {
+                "input_tokens": 519869,
+                "output_tokens": 38303,
+                "total_cost": 1.6827025
+            }
+        },
+        "Rag refine": {
+            "gpt-4o": {
+                "input_tokens": 13934,
+                "output_tokens": 1814,
+                "total_cost": 0.052975
+            }
+        },
+        "section rewrite": {
+            "gpt-4o-mini": {
+                "input_tokens": 15688,
+                "output_tokens": 10139,
+                "total_cost": 0.0084366
+            },
+            "gpt-4o": {
+                "input_tokens": 37612,
+                "output_tokens": 15305,
+                "total_cost": 0.24708
+            }
+        },
+        "Template figure builder": {
+            "gpt-4o": {
+                "input_tokens": 79868,
+                "output_tokens": 3468,
+                "total_cost": 0.23435
+            },
+            "gpt-4o-mini": {
+                "input_tokens": 3058,
+                "output_tokens": 2157,
+                "total_cost": 0.0017529
+            }
+        },
+        "generate table": {
+            "gpt-4o": {
+                "input_tokens": 35633,
+                "output_tokens": 3353,
+                "total_cost": 0.1226125
+            }
+        }
+    }
+}

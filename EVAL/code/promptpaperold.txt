@@ -1,0 +1,75 @@
+prompt_for_content = {
+    "coverage": """Here is an academic survey about the topic "{topic}":
+---
+{content}
+---
+
+<instruction>
+Please evaluate this survey about the topic {topic} based on the criterion above provided below, and give a score from 1 to 5 according to the score description:
+---
+Criterion Description: Coverage: Coverage assesses the extent to which the survey encapsulates all relevant aspects of the topic, ensuring comprehensive discussion on both central and peripheral topics.
+---
+Score 1 Description: The survey has very limited coverage, only touching on a small portion of the topic and lacking discussion on key areas.
+Score 2 Description: The survey covers some parts of the topic but has noticeable omissions, with significant areas either underrepresented or missing.
+Score 3 Description: The survey is generally comprehensive in coverage but still misses a few key points that are not fully discussed.
+Score 4 Description: The survey covers most key areas of the topic comprehensively, with only very minor topics left out.
+Score 5 Description: The survey comprehensively covers all key and peripheral topics, providing detailed discussions and extensive information.
+---
+Return the score without any other information:
+
+""",
+    "structure": """Here is an academic survey about the topic "{topic}":
+---
+{content} 
+---
+
+<instruction>
+Please evaluate this survey about the topic {topic} based on the criterion above provided below, and give a score from 1 to 5 according to the score description:
+---
+Criterion Description: Structure: Structure evaluates the logical organization and coherence of sections and subsections, ensuring that they are logically connected.
+---
+Score 1 Description: The survey lacks logic, with no clear connections between sections, making it difficult to understand the overall framework.
+Score 2 Description: The survey has weak logical flow with some content arranged in a disordered or unreasonable manner.
+Score 3 Description: The survey has a generally reasonable logical structure, with most content arranged orderly, though some links and transitions could be improved such as repeated subsections.
+Score 4 Description: The survey has good logical consistency, with content well arranged and natural transitions, only slightly rigid in a few parts.
+Score 5 Description: The survey is tightly structured and logically clear, with all sections and content arranged most reasonably, and transitions between adajecent sections smooth without redundancy.
+---
+Return the score without any other information:
+""",
+    "relevance": """Here is an academic survey about the topic "{topic}":
+---
+{content}
+---
+
+<instruction>
+Please evaluate this survey about the topic {topic} based on the criterion above provided below, and give a score from 1 to 5 according to the score description:
+---
+Criterion Description: Relevance: Relevance measures how well the content of the survey aligns with the research topic and maintain a clear focus.
+---
+Score 1 Description: The  content is outdated or unrelated to the field it purports to review, offering no alignment with the topic
+Score 2 Description: The survey is somewhat on topic but with several digressions; the core subject is evident but not consistently adhered to.
+Score 3 Description: The survey is generally on topic, despite a few unrelated details.
+Score 4 Description: The survey is mostly on topic and focused; the narrative has a consistent relevance to the core subject with infrequent digressions.
+Score 5 Description: The survey is exceptionally focused and entirely on topic; the article is tightly centered on the subject, with every piece of information contributing to a comprehensive understanding of the topic.
+---
+Return the score without any other information:""",
+    "language": """
+Here is an academic survey about the topic "{topic}":
+---
+{content}
+---
+
+<instruction>
+Please evaluate this survey about the topic {topic} based on the language above provided below, and give a score from 1 to 5 according to the score description:
+---
+        'language description': 'Language assesses the academic formality, clarity, and correctness of the writing, including grammar, terminology, and tone.',
+        'score 1': 'The language is highly informal, contains frequent grammatical errors, imprecise terminology, and numerous colloquial expressions. The writing lacks academic tone and professionalism.',
+        'score 2': 'The writing style is somewhat informal, with several grammatical errors or ambiguous expressions. Academic terminology is inconsistently used.',
+        'score 3': 'The language is mostly formal and generally clear, with only occasional minor grammatical issues or slightly informal phrasing.',
+        'score 4': 'The language is clear, formal, and mostly error-free, with only rare lapses in academic tone or minor imprecisions.',
+        'score 5': 'The writing is exemplary in academic formality and clarity, using precise terminology throughout, flawless grammar, and a consistently scholarly tone.'
+Return the score without any other information:
+    """
+}
+
+

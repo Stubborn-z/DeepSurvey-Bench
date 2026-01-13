@@ -1,0 +1,57 @@
+# A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models
+
+# Introduction
+
+## Significance of Controllable Text Generation
+
+## Emergence of Controllable Text Generation
+
+## Objectives of the Survey
+
+## Structure of the Survey
+
+# Background
+
+## Transformer Models and Pre-trained Language Models
+
+## Controllability in Text Generation
+
+## Role of Pre-trained Language Models in Controllability
+
+# Methods and Techniques for Controllable Text Generation
+
+## Prompt Tuning and Prefix Methods
+
+## Attribute-Based Control
+
+## Discriminative and Energy-Based Techniques
+
+## Dialogue and Persona-Driven Methods
+
+## Constraint and Planning Frameworks
+
+## Innovative Decoding Strategies
+
+# Evaluation of Controllable Text Generation
+
+## Quantitative Evaluation Metrics
+
+## Qualitative Evaluation Methods
+
+## Hybrid Evaluation Approaches
+
+## Comparative Analysis of Evaluation Techniques
+
+# Challenges and Future Directions
+
+## Model Interpretability and User Control
+
+## Bias and Ethical Considerations
+
+## Scalability and Computational Efficiency
+
+## Data Quality and Diversity
+
+## Evaluation and Benchmarking
+
+# Conclusion

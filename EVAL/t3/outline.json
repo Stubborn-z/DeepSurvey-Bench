@@ -1,0 +1,261 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "PFMs and Pretraining",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Contribution and Organization",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Basic Components",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Transformer for PFMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning Mechanisms for PFMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pretraining Tasks for PFMs",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pretraining Tasks for NLP",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pretraining Tasks for CV",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pretraining Tasks for GL",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "PFMs for Natural Language Processing",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Word Representations Methods",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Model Architecture Designing Methods",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Masking Designing Methods",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Boosting Methods",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Instruction-Aligning Methods",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Summary",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "PFMs for Computer Vision",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Learning by Specific Pretext Task",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Frame Order",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Reconstruction",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Memory Bank",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Sharing",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Clustering",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Summary",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "PFMs for Graph Learning",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Learning by Graph Information Completion",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Graph Consistency Analysis ",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Graph Property Prediction",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Learning by Masked Autoencoder",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Other Learning Strategies on Graph Data",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Summary",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "PFMs for Other Data Modality",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "PFMs for Speech",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "PFMs for Video",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "PFMs for Multimodal",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "PFM for Code Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "SOTA Unified PFMs",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Other Advanced Topics on PFMs",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Model Efficiency",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Model Compression",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Security and Privacy",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Future Research Challenges and Open Problems",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Challenges on Data",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Challenges on Foundation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Challenges on Model Design",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Challenges on Finetuning and Prompt",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Open Problems for Future PFMs",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

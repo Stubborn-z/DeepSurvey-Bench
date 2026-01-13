@@ -1,0 +1,124 @@
+# Controllable Text Generation using Transformer-based Pre-trained Language Models: A Comprehensive Survey
+
+## 1 Introduction
+Description: 
+
+## 2 Theoretical Foundations of Transformer-based Language Models
+Description: 
+
+### 2.1 Transformer Architecture and Representation Learning
+Description: 
+
+### 2.2 Pre-training Paradigms and Knowledge Acquisition
+Description: 
+
+### 2.3 Contextual Embedding and Semantic Representation
+Description: 
+
+### 2.4 Model Scalability and Architectural Evolution
+Description: 
+
+### 2.5 Theoretical Limitations and Interpretability Challenges
+Description: 
+
+## 3 Control Mechanisms and Strategies
+Description: 
+
+### 3.1 Prompt Engineering and Instruction-Based Control
+Description: 
+
+### 3.2 Latent Space Manipulation Techniques
+Description: 
+
+### 3.3 Constraint-Based Generation Methods
+Description: 
+
+### 3.4 Reinforcement Learning and Adversarial Control Strategies
+Description: 
+
+### 3.5 Hybrid Control Integration Frameworks
+Description: 
+
+## 4 Attribute and Style Controllability
+Description: 
+
+### 4.1 Sentiment and Emotional Tone Modulation
+Description: 
+
+### 4.2 Linguistic Style and Domain-Specific Text Generation
+Description: 
+
+### 4.3 Personality and Contextual Attribute Manipulation
+Description: 
+
+### 4.4 Ethical and Bias Mitigation in Style Controllability
+Description: 
+
+### 4.5 Advanced Computational Techniques for Attribute Control
+Description: 
+
+## 5 Evaluation Frameworks and Metrics
+Description: 
+
+### 5.1 Automatic Evaluation Metrics for Controllable Text Generation
+Description: 
+
+### 5.2 Human-Centered Evaluation Frameworks
+Description: 
+
+### 5.3 Advanced Computational Evaluation Techniques
+Description: 
+
+### 5.4 Benchmark Datasets and Standardized Evaluation Protocols
+Description: 
+
+### 5.5 Emerging Evaluation Challenges and Future Directions
+Description: 
+
+## 6 Application Domains and Practical Implementations
+Description: 
+
+### 6.1 Creative and Professional Content Generation
+Description: 
+
+### 6.2 Conversational AI and Dialogue Systems
+Description: 
+
+### 6.3 Educational and Scientific Communication
+Description: 
+
+### 6.4 Healthcare and Therapeutic Communication
+Description: 
+
+### 6.5 Accessibility and Inclusive Communication Technologies
+Description: 
+
+### 6.6 Media and Entertainment Content Generation
+Description: 
+
+## 7 Challenges, Limitations, and Future Research Directions
+Description: 
+
+### 7.1 Computational and Architectural Limitations
+Description: 
+
+### 7.2 Bias Detection and Mitigation Strategies
+Description: 
+
+### 7.3 Generalization and Adaptability Challenges
+Description: 
+
+### 7.4 Emerging Neural Architectures and Learning Paradigms
+Description: 
+
+### 7.5 Ethical and Societal Implications
+Description: 
+
+### 7.6 Future Research and Interdisciplinary Opportunities
+Description: 
+
+## 8 Conclusion
+Description: 
+
+
+

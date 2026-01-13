@@ -1,0 +1,41 @@
+><Guidance for Content Generation
+Here is an academic survey outline about the topic "{topic}":
+--
+{content}
+--
+Criteria Description Guidance for Content Generation: Does the outline effectively guide content generation, ensuring comprehensive coverage of the topic? 
+Score 1 Description The outline fails to guide content generation, omitting significant aspects of the topic or providing insufficient direction. 
+Score 2 Description The outline provides limited guidance, covering some key areas but lacking depth or completeness in addressing the topic. 
+Score 3 Description The outline provides moderate guidance for content generation, addressing most key areas but leaving some gaps or ambiguities. 
+Score 4 Description The outline effectively guides content generation, covering all significant aspects with clear direction, though minor refinements could enhance comprehensiveness. 
+Score 5 Description The outline is exemplary in guiding content generation, thoroughly addressing all aspects of the topic with clear, detailed direction and no significant gaps.
+[Output Format]
+Return the score without any other information:
+
+><Hierarchical Clarity
+Here is an academic survey outline about the topic "{topic}":
+--
+{content}
+--
+Criteria Description Hierarchical Clarity: Does the outline clearly define a hierarchy of topics and subtopics, with a logical, diverse structure that is easy to understand? 
+Score 1 Description The outline exhibits no discernible hierarchical structure. Topics and subtopics are jumbled together without logical separation or clear levels, making it nearly impossible to follow or identify any organization. 
+Score 2 Description The outline attempts to establish a hierarchy but fails to maintain logical consistency. Main topics and subtopics are frequently misclassified, and the structure is overly rigid or disjointed. Subtopics may be missing, misplaced, or redundant, making it hard to grasp the intent of the structure. 
+Score 3 Description The outline has a recognizable hierarchical structure but lacks diversity in organization style. While main topics are somewhat clear, subtopics occasionally overlap, are misaligned, or follow a repetitive format. This restricts flexibility and introduces mild confusion in certain areas. 
+Score 4 Description The outline displays a clear, logical, and diverse hierarchical structure. Main topics are distinct, and subtopics are properly nested. While most elements are well-placed, there may be minor redundancies or opportunities to introduce more diverse formats for subtopics. Slight adjustments could achieve better precision and variety in style. 
+Score 5 Description The outline showcases an exceptional, flawless hierarchical structure. Each main topic is distinct, and subtopics are logically nested with absolute clarity and stylistic diversity. The outline demonstrates flexibility in structure and organization, adapting its style where appropriate for the content and logic. No further refinement is necessary.
+[Output Format]
+Return the score without any other information:
+
+><Logical Coherence
+Here is an academic survey outline about the topic "{topic}":
+--
+{content}
+--
+Criteria Description Logical Coherence: Does the outline logically organize topics and subtopics, ensuring a smooth and natural flow of ideas with clear logical transitions? 
+Score 1 Description The outline is highly disjointed and incoherent. Topics and subtopics appear in a random, unordered manner, with no logical flow or sense of progression. Major conceptual gaps and illogical jumps are present throughout the structure. 
+Score 2 Description The outline shows some attempt at logical organization, but it contains frequent inconsistencies, abrupt shifts, or logical missteps. Topics and subtopics are misaligned or lack proper transitions, making the reader work hard to follow the structure. 
+Score 3 Description The outline demonstrates a basic level of logical coherence. Most topics follow a general sequence, but some sections feel forced, with weak or unclear transitions. There are small jumps in logic, causing slight confusion or loss of flow at certain points. 
+Score 4 Description The outline exhibits a strong sense of logical flow, with ideas presented in a mostly smooth and connected manner. Transitions between topics and subtopics are clear, but a few minor adjustments could make the flow more seamless or natural. The logic is sound, but room for refinement exists. 
+Score 5 Description The outline achieves exceptional logical coherence. Each topic and subtopic follows a deliberate, thoughtful progression, with clear, natural, and intuitive transitions. The reader experiences a seamless flow of ideas, and no adjustments are required to improve logical consistency or flow.
+[Output Format]
+Return the score without any other information:

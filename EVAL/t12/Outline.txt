@@ -1,0 +1,55 @@
+# Transformer-Based Visual Segmentation: A Survey
+
+# Introduction
+
+# Background
+
+## Problem Definition
+
+## Datasets and Metrics
+
+## Segmentation Approaches Before Transformer
+
+## Transformer Basics
+
+# Methods: A Survey
+
+## Meta-Architecture
+
+## Method Categorization
+
+### Strong Representations
+
+### Cross-Attention Design in Decoder
+
+### Optimizing Object Query
+
+### Using Query For Association
+
+### Conditional Query Fusion
+
+# Specific Subfields
+
+## Segmentation
+
+## Tuning Foundation Models
+
+## Domain-aware Segmentation
+
+## Label and Model Efficient Segmentation
+
+## Class Agnostic Segmentation and Tracking
+
+## Medical Image Segmentation
+
+# Benchmark Results
+
+## Main Results on Image Segmentation Datasets
+
+## Re-Benchmarking For Image Segmentation
+
+## Main Results for Video Segmentation Datasets
+
+# Future Directions
+
+# Conclusion

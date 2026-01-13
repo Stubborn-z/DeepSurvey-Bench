@@ -1,0 +1,101 @@
+# Retrieval-Augmented Generation for Large Language Models: A Survey
+
+# Introduction
+
+## PFMs and Pretraining
+
+## Contribution and Organization
+
+# Basic Components
+
+## Transformer for PFMs
+
+## Learning Mechanisms for PFMs
+
+## Pretraining Tasks for PFMs
+
+### Pretraining Tasks for NLP
+
+### Pretraining Tasks for CV
+
+### Pretraining Tasks for GL
+
+# PFMs for Natural Language Processing
+
+## Word Representations Methods
+
+## Model Architecture Designing Methods
+
+## Masking Designing Methods
+
+## Boosting Methods
+
+## Instruction-Aligning Methods
+
+## Summary
+
+# PFMs for Computer Vision
+
+## Learning by Specific Pretext Task
+
+## Learning by Frame Order
+
+## Learning by Generation
+
+## Learning by Reconstruction
+
+## Learning by Memory Bank
+
+## Learning by Sharing
+
+## Learning by Clustering
+
+## Summary
+
+# PFMs for Graph Learning
+
+## Learning by Graph Information Completion
+
+## Learning by Graph Consistency Analysis
+
+## Learning by Graph Property Prediction
+
+## Learning by Masked Autoencoder
+
+## Other Learning Strategies on Graph Data
+
+## Summary
+
+# PFMs for Other Data Modality
+
+## PFMs for Speech
+
+## PFMs for Video
+
+## PFMs for Multimodal
+
+## PFM for Code Generation
+
+## SOTA Unified PFMs
+
+# Other Advanced Topics on PFMs
+
+## Model Efficiency
+
+## Model Compression
+
+## Security and Privacy
+
+# Future Research Challenges and Open Problems
+
+## Challenges on Data
+
+## Challenges on Foundation
+
+## Challenges on Model Design
+
+## Challenges on Finetuning and Prompt
+
+## Open Problems for Future PFMs
+
+# Conclusion

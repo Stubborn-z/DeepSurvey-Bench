@@ -1,0 +1,381 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Information Retrieval",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Large Language Models",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Query Rewriter",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Rewriting Scenarios",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Formats of Rewritten Queries",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Questions",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Keywords",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Answer-incorporated Passages",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Approaches",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Prompting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Supervised Fine-tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Reinforcement Learning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Limitations",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Concept Drifts",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Correlation between Retrieval Performance and Expansion Effects",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Retriever",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Leveraging LLMs to Generate Search Data",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Search Data Refinement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Training Data Augmentation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Leveraging LLMs as Retrievers' Backbone",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Dense Retriever",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Generative Retriever",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Limitations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Reranker",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Utilizing LLMs as Supervised Rerankers",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Encoder-only",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Encoder-Decoder",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Decoder-only",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Utilizing LLMs as Unsupervised Rerankers",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pointwise methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Listwise Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pairwise Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Comparison and Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Utilizing LLMs for Training Data Augmentation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Reasoning-intensive Rerankers",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Limitations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Reader",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Passive Reader",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Once-Retrieval Reader",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Periodic-Retrieval Reader",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Aperiodic-Retrieval Reader",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Active Reader",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Compressor",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Analysis",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Applications",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Limitations",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Search Agent",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Architecture of Search Agent",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Single-Agent Frameworks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multi-Agent Frameworks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Information Seeking Module",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "API-based Information Seeking",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Browsing-based Information Seeking",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Optimization",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Strategic Retrieval Optimization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Iterative Retrieval Tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Autonomous Open-Web Search",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Benchmarks and Resources",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "QA Benchmarks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Task-oriented Benchmarks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Agent Datasets and Platforms",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Future Direction",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Query Rewriter",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Retriever",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Reranker",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Reader",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Search Agent",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Bias",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

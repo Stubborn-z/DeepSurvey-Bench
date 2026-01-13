@@ -1,0 +1,107 @@
+# A Survey on Evaluation of Large Language Models
+
+# Introduction
+
+# Background
+
+## Large Language Models
+
+## AI Model Evaluation
+
+# What to Evaluate
+
+## Natural Language Processing Tasks
+
+### Natural language understanding
+
+### Reasoning
+
+### Natural language generation
+
+### Multilingual tasks
+
+### Factuality
+
+## Robustness, Ethic, Bias, and Trustworthiness
+
+### Robustness
+
+### Ethic and bias
+
+### Trustworthiness
+
+## Social Science
+
+## Natural Science and Engineering
+
+### Mathematics
+
+### General science
+
+### Engineering
+
+## Medical Applications
+
+### Medical queries
+
+### Medical examination
+
+### Medical assistants
+
+## Agent Applications
+
+## Other Applications
+
+### Education
+
+### Search and recommendation
+
+### Personality testing
+
+### Specific applications
+
+# Where to Evaluate: Datasets and Benchmarks
+
+## Benchmarks for General Tasks
+
+## Benchmarks for Specific Downstream Tasks
+
+## Benchmarks for Multi-modal task
+
+# How to Evaluate
+
+## Automatic Evaluation
+
+## Human Evaluation
+
+# Summary
+
+## Task: Success and Failure Cases of \llms
+
+### What can \llms do well?
+
+### When can \llms fail?
+
+## Benchmark and Evaluation Protocol
+
+# Grand Challenges and Opportunities for Future Research
+
+## Designing AGI Benchmarks
+
+## Complete Behavioral Evaluation
+
+## Robustness Evaluation
+
+## Dynamic and Evolving Evaluation
+
+## Principled and Trustworthy Evaluation
+
+## Unified Evaluation that Supports All \llms Tasks
+
+## Beyond Evaluation: \llms Enhancement
+
+# Conclusion
+
+# Acknowledgements
+
+# Disclaimer

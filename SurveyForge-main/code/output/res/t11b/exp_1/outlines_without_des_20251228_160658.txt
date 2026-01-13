@@ -1,0 +1,43 @@
+# Diffusion Model-Based Image Editing: A Survey  
+## 1 Introduction  
+## 2 Theoretical Foundations of Diffusion-Based Image Editing  
+### 2.1 Denoising Diffusion Probabilistic Models (DDPMs)  
+### 2.2 Conditional Diffusion Models  
+### 2.3 Latent Space Manipulation  
+### 2.4 Theoretical Extensions and Hybrid Frameworks  
+### 2.5 Ethical and Robustness Considerations  
+## 3 Techniques for Controlled Image Editing  
+### 3.1 Text-Guided Image Editing  
+### 3.2 Spatial Control Mechanisms  
+### 3.3 Multi-Modal Conditioning  
+### 3.4 Latent Space Manipulation  
+### 3.5 Real-Time and Efficient Editing  
+### 3.6 Ethical and Robust Editing  
+## 4 Applications of Diffusion Models in Image Editing  
+### 4.1 Photo-Realistic Editing and Restoration  
+### 4.2 Creative and Artistic Image Editing  
+### 4.3 Medical and Scientific Imaging  
+### 4.4 Video and Dynamic Content Editing  
+### 4.5 Cross-Domain and Multi-Modal Editing  
+### 4.6 Emerging Applications and Future Directions  
+## 5 Challenges and Limitations in Diffusion-Based Image Editing  
+### 5.1 Computational and Efficiency Challenges  
+### 5.2 Semantic and Temporal Consistency Issues  
+### 5.3 Controllability and Precision Limitations  
+### 5.4 Ethical and Societal Implications  
+### 5.5 Evaluation and Benchmarking Gaps  
+### 5.6 Robustness and Generalization Challenges  
+## 6 Evaluation Metrics and Benchmarks  
+### 6.1 Quantitative Evaluation Metrics  
+### 6.2 Qualitative Assessment and Human Evaluation  
+### 6.3 Benchmark Datasets and Challenges  
+### 6.4 Emerging Trends in Evaluation  
+### 6.5 Limitations and Open Challenges  
+## 7 Emerging Trends and Future Directions  
+### 7.1 Efficiency and Real-Time Applications  
+### 7.2 Cross-Modal and Multi-Task Editing  
+### 7.3 Ethical and Robust Editing Frameworks  
+### 7.4 Latent and Geometric Manipulation  
+### 7.5 Personalized and Adaptive Editing  
+## 8 Conclusion  
+

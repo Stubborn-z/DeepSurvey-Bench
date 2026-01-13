@@ -1,0 +1,91 @@
+# Diffusion Model-Based Image Editing: A Survey
+
+# Introduction
+
+# Background
+
+## Diffusion Models
+
+## Attention in Stable Diffusion
+
+## Related Tasks
+
+### Conditional Image Generation
+
+### Image Restoration and Enhancement
+
+### Image Composition
+
+# Scope and Categorization
+
+# Training-Based Approaches
+
+## Domain-Specific Editing
+
+## Reference and Attribute Guided Editing
+
+## Instructional Editing
+
+## Pseudo-Target Retrieval Based Editing
+
+# Testing-Time Finetuning Approaches
+
+## Denoising Model Finetuning
+
+## Embedding Finetuning
+
+## Guidance with a Hypernetwork
+
+## Latent Variable Optimization
+
+## Hybrid Finetuning
+
+# Training and Finetuning Free Approaches
+
+## Input Text Refinement
+
+## Inversion/Sampling Modification
+
+## Attention Modification
+
+## Mask Guidance
+
+## Multi-Noise Redirection
+
+# Inpainting and Outpainting
+
+## Traditional Context-Driven Inpainting
+
+### Supervised Training
+
+### Zero-Shot Learning
+
+## Multimodal Conditional Inpainting
+
+### Random Mask Training
+
+### Precise Control Conditioning
+
+### Pretrained Diffusion Prior Exploiting
+
+## Outpainting
+
+# Benchmark and Evaluation
+
+## Benchmark Construction
+
+### Task Selection
+
+### Dataset Construction
+
+### Metric Design and Selection
+
+## Evaluation
+
+### Method Selection
+
+### Comparative Analysis
+
+# Challenges and Future Directions
+
+# Conclusion

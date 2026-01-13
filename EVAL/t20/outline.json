@@ -1,0 +1,449 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Comparison with Related Techniques and Surveys",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "RAG",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLMs on Graphs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "KBQA",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Preliminaries",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Text-Attributed Graphs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Graph Neural Networks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Language Models",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Overview of GraphRAG",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Graph-Based Indexing",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Graph Data",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Open Knowledge Graphs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Self-Constructed Graph Data",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Indexing",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Graph Indexing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Text Indexing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Vector Indexing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hybrid Indexing",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Graph-Guided Retrieval",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Retriever",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Non-parametric Retriever",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LM-based Retriever",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "GNN-based Retriever",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Retrieval Paradigm",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Once Retrieval",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Iterative Retrieval",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multi-Stage Retrieval",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Retrieval Granularity",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Nodes",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Triplets",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Paths",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Subgraphs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hybrid Granularties",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Retrieval Enhancement",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Query Enhancement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Knowledge Enhancement",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Graph-Enhanced Generation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Generators",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "GNNs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LMs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hybrid Models",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Graph Formats",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Graph Languages",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Graph Embeddings",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Generation Enhancement",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Pre-Generation Enhancement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Mid-Generation Enhancement",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Post-Generation Enhancement",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Training",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Training Strategies of Retriever",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Training-Free",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Training-Based",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Training of Generator",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Training-Free",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Training-Based",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Joint Training",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Applications and Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Downstream Tasks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Question Answering",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Information Retrieval",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Others",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Application Domains",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "E-Commerce",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Biomedical",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Academic",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Literature",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Legal",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Others",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Benchmarks and Metrics",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Benchmarks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Metrics",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "GraphRAG in Industry",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Future Prospects",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Dynamic and Adaptive Graphs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Multi-Modality Information Integration",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Scalable and Efficient Retrieval Mechanisms",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Combination with Graph Foundation Model",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Lossless Compression of Retrieved Context",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Standard Benchmarks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Broader Applications",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

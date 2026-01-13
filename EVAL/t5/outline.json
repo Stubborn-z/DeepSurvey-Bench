@@ -1,0 +1,279 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Large Language Models",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "AI Model Evaluation",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "What to Evaluate",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Natural Language Processing Tasks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Natural language understanding",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Reasoning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Natural language generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multilingual tasks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Factuality",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Robustness, Ethic, Bias, and Trustworthiness",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Robustness",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Ethic and bias",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Trustworthiness",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Social Science",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Natural Science and Engineering",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Mathematics",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "General science",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Engineering",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Medical Applications",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Medical queries",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Medical examination",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Medical assistants",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Agent Applications",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Other Applications",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Education",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Search and recommendation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Personality testing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Specific applications",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Where to Evaluate: Datasets and Benchmarks",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Benchmarks for General Tasks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Benchmarks for Specific Downstream Tasks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Benchmarks for Multi-modal task",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "How to Evaluate",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Automatic Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Human Evaluation",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Summary",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Task: Success and Failure Cases of \\llms",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "What can \\llms do well?",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "When can \\llms fail?",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Benchmark and Evaluation Protocol",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Grand Challenges and Opportunities for Future Research",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Designing AGI Benchmarks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Complete Behavioral Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Robustness Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Dynamic and Evolving Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Principled and Trustworthy Evaluation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Unified Evaluation that Supports All \\llms Tasks",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Beyond Evaluation: \\llms Enhancement",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgements",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Disclaimer",
+    "level": 1,
+    "children": []
+  }
+]

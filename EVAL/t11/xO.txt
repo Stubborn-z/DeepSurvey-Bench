@@ -1,0 +1,65 @@
+# Diffusion Model-Based Image Editing: A Survey
+
+# Introduction
+
+## Significance of Diffusion Models in Image Editing
+
+## Recent Advancements in Diffusion Models
+
+## Scope and Objectives
+
+## Structure of the Survey
+
+# Background
+
+## Overview of Diffusion Models
+
+## Diffusion Models vs. Traditional Generative Models
+
+## Iterative Refinement Process
+
+# Techniques in Diffusion Model-Based Image Editing
+
+## Mask Guidance and Attention Mechanisms
+
+## Pixel-wise Guidance and Iterative Processes
+
+## Innovative Techniques in Diffusion Models
+
+# Applications of Diffusion Models in Image Editing
+
+## Virtual Try-On Applications
+
+## Fine-Grained Editing Techniques
+
+## Image Inpainting and Restoration
+
+## Cross-Domain and Multimodal Applications
+
+# Challenges and Limitations
+
+## Computational Complexity and Resource Intensity
+
+## Semantic Misalignment and Mask Quality
+
+## Dependence on Input and Pre-trained Models
+
+## Challenges in Handling Complex Edits and Instructions
+
+## Evaluation and Benchmarking Challenges
+
+# Future Directions
+
+## Enhancements in Model Efficiency
+
+## Broader Applications and Domains
+
+## Improved Control and Customization
+
+## Integration with Other Techniques
+
+## Addressing Current Limitations
+
+## Standardization and Benchmarking
+
+# Conclusion

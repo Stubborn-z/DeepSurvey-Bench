@@ -1,0 +1,129 @@
+# A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations
+
+# Introduction
+
+# Taxonomy
+
+# Specific or Universal Speedup
+
+## Unstructured Pruning
+
+## Structured Pruning
+
+## Semi-structured Pruning
+
+# When to Prune
+
+## Pruning Before Training
+
+## Pruning During Training
+
+### Sparsity Regularization based Methods
+
+### Dynamic Sparse Training based Methods
+
+### Score-based Methods
+
+### Differentiable Pruning based methods
+
+## Pruning After Training
+
+### LTH and its Variants
+
+### Other score-based Methods
+
+### Sparsity Regularization based Methods
+
+### Pruning in Early Training
+
+### Post-Training Pruning
+
+## Run-time Pruning
+
+# Pruning Criteria
+
+## Magnitude-based Pruning
+
+## $l_p$ Norm
+
+## Sensitivity and/or Saliency
+
+## Loss Change
+
+# Learn to Prune
+
+## Sparsity Regularization based Pruning
+
+## Meta-Learning based Pruning
+
+## Graph Neural Network based Pruning
+
+## Reinforcement Learning based Pruning
+
+# A Comprehensive Comparative Analysis
+
+## Unstructured vs. Structured Pruning
+
+## One-shot vs. Iterative Pruning
+
+## Data-free vs. Data-driven Pruning
+
+## Pruning on Initialized vs. Pre-trained Weights
+
+## Global vs. Local Pruning
+
+## Training from Scratch vs. Fine-tuning
+
+## Original Task vs. Transfer Pruning
+
+## Static vs. Dynamic Pruning
+
+## Layer-wise Weight Density Analysis
+
+## Pruning with Different Levels of Supervision
+
+# Fusion of Pruning and other Compression Techniques
+
+# Suggestions and Future Directions
+
+## Recommendations on pruning method selection
+
+## Future Directions
+
+# Conclusion
+
+# Terms and Notations
+
+# Experimental settings
+
+# More Comparison Results
+
+## \small More Results for Unstructured vs. Structured Pruning
+
+## More Results for One-shot vs. Iterative Pruning
+
+## More Results for Data-free vs. Data-driven Pruning
+
+## \scalebox{0.80
+
+## More Results for Global vs. Local Pruning
+
+## \scalebox{0.90
+
+# Pruning for Specific Applications
+
+## Image Classification
+
+## Object Detection
+
+## Image Style Translation
+
+## Adversarial Robustness
+
+## Other CV Tasks
+
+## Natural Language Processing
+
+## Vision-and-Language Tasks
+
+## Audio and Speech Processing

@@ -1,0 +1,57 @@
+# A Survey on the Memory Mechanism of Large Language Model-based Agents
+
+# Introduction
+
+## Importance of Memory in Enhancing Cognitive Capabilities
+
+## Structure of the Survey
+
+# Background
+
+## Evolution of Large Language Models
+
+## Neural Memory Networks and Cognitive Architectures
+
+# Definitions and Core Concepts
+
+# Memory Mechanisms in Large Language Models
+
+## Compression and Efficient Inference
+
+## Integration with Large Language Models
+
+# Neural Memory Networks
+
+## Frameworks and Architectures
+
+## Applications and Techniques
+
+# Cognitive Architectures
+
+## Theoretical Foundations of Cognitive Architectures
+
+## Practical Applications of Cognitive Architectures
+
+## Integration of Memory Mechanisms in Cognitive Architectures
+
+# Artificial Intelligence Agents
+
+## Enhancing Interaction Capabilities
+
+## Adaptability and Learning
+
+## Social Interaction and Engagement
+
+# Comparative Analysis
+
+## Comparative Analysis of Memory Mechanisms
+
+# Challenges and Future Directions
+
+## Challenges in Current Memory Mechanisms
+
+## Future Directions
+
+## Ethical and Social Considerations
+
+# Conclusion

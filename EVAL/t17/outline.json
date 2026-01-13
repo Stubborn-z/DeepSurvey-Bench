@@ -1,0 +1,436 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Related Surveys",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "LLM Fundamentals",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Model Architecture",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Encoder-only architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Encoder-decoder architecture",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Decoder-only architecture",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM Pre-training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Dataset collection and preprocessing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Model training",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM Fine-tuning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Instruction tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Alignment tuning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM Inference and Utilization by Prompting",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{In-context learning (ICL)",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Chain-of-thought (CoT) prompting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Planning for complex task solving",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\blue{\\textbf{Self-refinement with iterative feedback",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Evaluation metrics of LLM",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLM Deployment in Telecom Networks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Cloud deployment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Network edge deployment:",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{On-device deployment:",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Cache-based deployment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Cooperative deployment",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Analyses of LLM Fundamentals in the Telecom Domain",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "LLM for Generation Problems in Wireless Networks",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Motivations of Using LLM-based Generation for Telecom",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Domain Knowledge Generation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": " \\rm \\textbf{Understanding telecom domain knowledge",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm  \\textbf{Training \\blue{LLMs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm  \\textbf{Using LLM to telecom knowledge-related generation tasks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Code Generation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm  \\textbf{LLM for code refactoring",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{LLM-aided code generation with multi-step scheduling",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Network Configuration Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Discussions and Analyses",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "LLM-enabled Classification Problems",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Motivations and Classification Capabilities of \\blue{LLMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLM for Telecom Security and Attack Detection",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\textbf{Fine-tuning pre-trained \\blue{LLMs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\textbf{Building security-specific \\blue{LLMs",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Text Classification",
+        "level": 2,
+        "children": [
+          {
+            "section_title": " \\rm \\textbf{Using LLMs for telecom user feedback classification and analyses",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{LLM-aided telecom standard classification",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Image Classification",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Encrypted Traffic Classification",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Discussions and Analyses",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "LLM-enabled Optimization Techniques for telecom ",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Motivations and Optimization Capabilities of LLM",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLM-aided Reinforcement Learning for Network Optimization",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Using LLM for reward function design",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": " \\rm \\textbf{Verbal reinforcement learning via LLM",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM as a Black-box Optimizer",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLM-aided Convex Optimization for Telecom",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "LLM-based Heuristic Algorithm Design ",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Discussions and Analyses",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Time Series LLM for Prediction Problems ",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Motivations",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Pre-training Foundation Models for Zero-shot Prediction",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Problem formulation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Tokenization mechanisms",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Model architecture",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Frozen Pre-trained LLM for Prediction",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Fine-tuned LLM Prediction",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Multi-modal LLM for Telecom Prediction",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Discussions and Analyses",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Challenges and Future Directions of LLM-empowered telecom",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Challenges of Applying LLM Techniques to Telecom",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{Telecom-domain LLM training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Practical LLM deployment in telecom",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Prompt engineering for telecom applications ",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Future Directions",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "\\rm \\textbf{\\blue{Multi-modal LLMs for telecom",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{LLM-enabled planning in telecom",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{\\blue{LLM for resource allocation and network optimization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{\\blue{LLM-enhanced machine learning for telecom",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{\\blue{Real-world implementations of LLM for telecom industry",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Model compression and fast inference for network edge and mobile applications",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Overcoming hallucination problems in telecom applications",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Retrieval augmented-LLM for telecom",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "\\rm \\textbf{Economic and affordable \\blue{LLMs",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

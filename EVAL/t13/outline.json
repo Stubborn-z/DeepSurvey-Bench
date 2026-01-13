@@ -1,0 +1,169 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Background on Mixture of Experts",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Dense MoE",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Sparse MoE",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Taxonomy of Mixture of Experts",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Algorithm Design of Mixture of Experts",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Gating Function",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Sparse",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Dense",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Soft",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Experts",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Network Types",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hyperparameters",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Activation Function",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Shared Expert",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Mixture of Parameter-Efficient Experts",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Feed-Forward Network",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Attention",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Transformer Block",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Every Layer",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Training \\& Inference Scheme",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Dense-to-Sparse",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Sparse-to-Dense",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Expert Models Merging",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Derivatives",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "System Design of Mixture of Experts",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Computation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Communication",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Storage",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Applications of Mixture of Experts",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Challenges \\& Opportunities",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

@@ -1,0 +1,69 @@
+# Continual Learning of Large Language Models: A Comprehensive Survey
+
+# Introduction
+
+# Background and Related Work
+
+## Large Language Models
+
+### Pre-training of LLMs
+
+### Adaptation of LLMs
+
+## Continual Learning
+
+### Types of Continual Learning
+
+### Techniques of Continual Learning
+
+### Evaluation Metrics of Continual Learning
+
+# Continual Learning Meets Large Language Models: An Overview
+
+## Vertical Continuity (Vertical Continual Learning)
+
+## Horizontal Continuity (Horizontal Continual Learning)
+
+# Learning Stages of Continual Large Language Models
+
+## Continual Pre-Training~(CPT)
+
+### CPT: Effectiveness and Efficiency
+
+### General Observations on CPT
+
+### Distributional Shifts in CPT
+
+## Domain-Adaptive Pre-training~(DAP)
+
+### General Observation on DAP
+
+### Different Domains of DAP
+
+## Continual Fine-Tuning~(CFT)
+
+### General Observations on CFT
+
+### General Continual Fine-Tuning~(General CFT)
+
+### Continual Instruction Tuning~(CIT)
+
+### Continual Model Refinement~(CMR)
+
+### Continual Model Alignment~(CMA)
+
+### Continual Multimodal Large Language Models~(CMLLMs)
+
+# Evaluation Protocols and Datasets
+
+# Discussion
+
+## Intriguing Properties Emergent in Continual LLMs
+
+## Conventional Types of Incremental Learning
+
+## Roles of Memory in Continual LLMs
+
+## Prospective Directions
+
+# Conclusion

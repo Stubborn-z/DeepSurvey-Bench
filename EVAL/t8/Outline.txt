@@ -1,0 +1,141 @@
+# Bias and Fairness in Large Language Models: A Survey
+
+# Introduction
+
+# Formalizing Bias and Fairness for LLMs
+
+## Preliminaries
+
+## Defining Bias for LLMs
+
+### Social Bias and Fairness
+
+### Bias in NLP Tasks
+
+### Bias in the Development and Deployment Life Cycle
+
+## Fairness Desiderata for LLMs
+
+## Overview of Taxonomies
+
+### Taxonomy of Metrics for Bias Evaluation
+
+### Taxonomy of Datasets for Bias Evaluation
+
+### Taxonomy of Techniques for Bias Mitigation
+
+# Taxonomy of Metrics for Bias Evaluation
+
+## Facets of Evaluation of Biases: Metrics and Datasets
+
+## Taxonomy of Metrics based on \emph{What They Use
+
+## Embedding-Based Metrics
+
+### Word Embedding Metrics
+
+### Sentence Embedding Metrics
+
+### Discussion and Limitations
+
+## Probability-Based Metrics
+
+### Masked Token Methods
+
+### Pseudo-Log-Likelihood Methods
+
+### Discussion and Limitations
+
+## Generated Text-Based Metrics
+
+### Distribution Metrics
+
+### Classifier Metrics
+
+### Lexicon Metrics
+
+### Discussion and Limitations
+
+## Recommendations
+
+# Taxonomy of Datasets for Bias Evaluation
+
+## Counterfactual Inputs
+
+### Masked Tokens
+
+### Unmasked Sentences
+
+### Discussion and Limitations
+
+## Prompts
+
+### Sentence Completions
+
+### Question-Answering
+
+### Discussion and Limitations
+
+## Recommendations
+
+# Taxonomy of Techniques for Bias Mitigation
+
+## Pre-Processing Mitigation
+
+### Data Augmentation
+
+### Data Filtering and Reweighting
+
+### Data Generation
+
+### Instruction Tuning
+
+### Projection-based Mitigation
+
+### Discussion and Limitations
+
+## In-Training Mitigation
+
+### Architecture Modification
+
+### Loss Function Modification
+
+### Selective Parameter Updating
+
+### Filtering Model Parameters
+
+### Discussion and Limitations
+
+## Intra-Processing Mitigation
+
+### Decoding Strategy Modification
+
+### Weight Redistribution
+
+### Modular Debiasing Networks
+
+### Discussion and Limitations
+
+## Post-Processing Mitigation
+
+### Rewriting
+
+### Discussion and Limitations
+
+## Recommendations
+
+# Open Problems \& Challenges
+
+## Addressing Power Imbalances
+
+## Conceptualizing Fairness for NLP
+
+## Refining Evaluation Principles
+
+## Improving Mitigation Efforts
+
+## Exploring Theoretical Limits
+
+# Limitations
+
+# Conclusion

@@ -1,0 +1,73 @@
+# A survey on large language model based autonomous agents
+
+## 1. Theoretical Foundations of Autonomous Agents
+
+### 1.1 Emergence of Intelligence in Language Models
+
+### 1.2 Cognitive Architecture Design
+
+### 1.3 Theoretical Frameworks of Autonomy
+
+### 1.4 Knowledge Representation and Reasoning
+
+## 2. Cognitive Capabilities and Reasoning Mechanisms
+
+### 2.1 Reasoning and Decision-Making Strategies
+
+### 2.2 Planning and Problem-Solving Techniques
+
+### 2.3 Metacognitive and Reflective Processing
+
+### 2.4 Multi-Modal Reasoning Integration
+
+## 3. Inter-Agent Communication and Collaboration
+
+### 3.1 Communication Protocols and Dynamics
+
+### 3.2 Collective Intelligence Mechanisms
+
+### 3.3 Role-Based Collaboration Frameworks
+
+### 3.4 Adaptive Communication Strategies
+
+## 4. Domain-Specific Applications
+
+### 4.1 Scientific and Research Applications
+
+### 4.2 Healthcare and Clinical Applications
+
+### 4.3 Technological and Engineering Applications
+
+### 4.4 Urban and Spatial Intelligence
+
+## 5. Performance Evaluation and Technical Challenges
+
+### 5.1 Reliability and Trustworthiness Assessment
+
+### 5.2 Hallucination and Error Detection
+
+### 5.3 Ethical Performance Metrics
+
+### 5.4 Domain-Specific Evaluation Challenges
+
+## 6. Ethical Considerations and Responsible Development
+
+### 6.1 Ethical Principles and Value Alignment
+
+### 6.2 Privacy and Data Governance
+
+### 6.3 Bias Mitigation and Fairness
+
+### 6.4 Accountability and Transparency
+
+## 7. Future Research Directions
+
+### 7.1 Advanced Agent Architectures
+
+### 7.2 Interdisciplinary Integration
+
+### 7.3 Technological Innovation Potential
+
+### 7.4 Research Acceleration Mechanisms
+
+# References

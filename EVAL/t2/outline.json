@@ -1,0 +1,459 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "PRELIMINARIES",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Evaluation Function $E$",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Evaluation Input",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Evaluation Type $\\mathcal{T",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation Criteria $\\mathcal{C",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation References $\\mathcal{R",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Evaluation Output",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Functionality",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Performance Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Responses Evaluation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Model Evaluation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Model Enhancement",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Reward Modeling During Training",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Acting as Verifier During Inference",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Feedback for Refinement",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Data Construction",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Data Annotation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Data Synthesize",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Methodology",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Single-LLM System",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Prompt-based",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Tuning-based",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Post-processing",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Multi-LLM System",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Communication",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Aggregation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Human-AI Collaboration System",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Application",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "General",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Multimodal",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Medical",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Legal",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Financial",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Education",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Information Retrieval",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Others",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Soft Engineering",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Biology",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Social Science",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Meta-evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Benchmarks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Code Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Machine Translation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Text Summarization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Dialogue Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Automatic Story Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Values Alignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Recommendation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Search",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Comprehensive Data",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Metric",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Accuracy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pearson Correlation Coefficient",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Spearman's Rank Correlation Coefficient",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Kendall's Tau",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cohen's Kappa",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Intraclass Correlation Coefficient (ICC)",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Limitation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Biases",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Presentation-Related Biases",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Social-Related Biases",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Content-Related Biases",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cognitive-Related Biases",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Adversarial Attacks",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Adversarial Attacks on LLMs",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Adversarial Attacks on LLMs-as-judges",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Inherent Weaknesses",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Knowledge Recency",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hallucination",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Domain-Specific Knowledge Gaps",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Future Work",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "More Efficient LLMs-as-Judges",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Automated Construction of Evaluation Criteria and Tasks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Scalable Evaluation Systems",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Accelerating Evaluation Processes",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "More Effective LLMs-as-Judges",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Integration of Reasoning and Judge Capabilities",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Establishing a Collective Judgment Mechanism",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Enhancing Domain Knowledge",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cross-Domain and Cross-Language Transferability",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multimodal Integration Evaluation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "More Reliable LLMs-as-Judges",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Enhancing Interpretability and Transparency",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Mitigating Bias and Ensuring Fairness",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Enhancing Robustness",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  }
+]

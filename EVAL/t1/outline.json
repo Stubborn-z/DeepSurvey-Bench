@@ -1,0 +1,638 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Overview",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Background for LLMs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Technical Evolution  of GPT-series Models",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Resources of LLMs",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Publicly Available Model Checkpoints or APIs",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Commonly Used Corpora for Pre-training",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Commonly Used Datasets for Fine-tuning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Instruction Tuning Datasets",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Alignment Datasets",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Library Resource",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Pre-training",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Data Collection and Preparation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Data Source",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Data Preprocessing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Data Scheduling",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Summary of Data Preparation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Architecture",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Typical Architectures",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Detailed Configuration",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Pre-training Tasks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Decoding Strategy",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Summary and Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Model Training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Optimization Setting",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Scalable Training Techniques",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Post-training of LLMs",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Instruction Tuning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Formatted Instance Construction",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Instruction Tuning Strategies",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "The Effect of Instruction Tuning",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Empirical Analysis for Instruction Tuning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Alignment Tuning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Background and Criteria for Alignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Collecting Human Feedback",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Reinforcement Learning from Human Feedback",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Alignment without RLHF",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Remarks on SFT and RLHF",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Empirical Analysis for RLHF",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Parameter-Efficient Model Adaptation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Parameter-Efficient Fine-Tuning Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Parameter-Efficient Fine-Tuning on LLMs",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Utilization",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Prompting",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Prompt Creation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Prompt Optimization",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "In-Context Learning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "ICL Formulation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Demonstration Design",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Underlying Mechanism",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Chain-of-Thought Prompting",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Basic CoT Prompting Approach",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Improved CoT Prompting Strategies",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Further Discussion on CoT Prompting",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Planning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "The Overall Framework",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Plan Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Feedback Acquisition",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Plan Refinement",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Capacity and Evaluation",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Basic Ability",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Language Generation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Knowledge Utilization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Complex Reasoning",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Advanced Ability",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Human Alignment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Interaction with External Environment",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Tool Manipulation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Benchmarks and Evaluation Approaches",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Comprehensive Evaluation Benchmarks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Evaluation Approaches",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Empirical Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Experimental Settings",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Results Analysis and Findings",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Applications",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "LLM for Research Community",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "LLM for Classic NLP Tasks",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LLM for Information Retrieval",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LLM for Recommender Systems",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multimodal Large Language Model",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "KG-Enhanced LLM",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LLM-based Agent",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "LLM for Evaluation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM for Specific Domains",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Advanced Topics",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Long Context Modeling",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Scaling Position Embeddings",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Adapting Context Window",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Long Text Data",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "LLM-empowered Agent",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Overall Framework.",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Applications",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Analysis and Optimization for Model Training",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Estimation of Training Memory Consumption",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "{Memory Optimization Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "{Efficiency Optimization Methods",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Analysis and Optimization for {Model Inference",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Analysis of Inference Efficiency",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "System-level Optimization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Algorithm-level Optimization",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Model Compression",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Background for Quantization",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Quantization Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Other Model Compression Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Open-source Libraries",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Retrieval-Augmented Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Hallucination",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Definition of Hallucination",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Source of Hallucination",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Hallucination Detection",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "{Hallucination Mitigation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Complex Reasoning",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Overview and Analysis",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Construction of Long CoT Data",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Training Methods",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Extended Discussion",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion and Future Directions",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "\\textsc{Coda",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgments",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgment",
+    "level": 1,
+    "children": []
+  }
+]

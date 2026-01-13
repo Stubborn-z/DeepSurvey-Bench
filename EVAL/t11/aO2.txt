@@ -1,0 +1,583 @@
+# Diffusion Model-Based Image Editing: A Survey
+
+## 1 Introduction
+
+### 1.1 Evolution and Rise of Diffusion Models
+
+### 1.2 Core Principles of Diffusion Models
+
+### 1.3 Applications in Image Editing
+
+#### Inpainting
+
+#### Style Transfer
+
+#### Object Manipulation
+
+#### Interactive and Point-Based Editing
+
+#### Video and 3D Scene Editing
+
+#### Cross-Domain Compositing
+
+### 1.4 Key Advantages of Diffusion-Based Editing
+
+#### **High-Fidelity Outputs**
+
+#### **Multimodal Conditioning**
+
+#### **Inherent Stochasticity for Diverse Edits**
+
+#### **Robustness to Complex Data Distributions**
+
+#### **Efficiency and Scalability**
+
+#### **Ethical and Creative Flexibility**
+
+#### **Conclusion**
+
+### 1.5 Challenges and Motivation for the Survey
+
+#### **Computational Challenges**
+
+#### **Bias and Fairness Concerns**
+
+#### **Ethical and Societal Risks**
+
+#### **Methodological Fragmentation**
+
+#### **Motivation for the Survey**
+
+### 1.6 Scope and Organization of the Survey
+
+#### Survey Structure and Themes
+
+#### Categorization of Techniques and Applications
+
+#### Open Problems and Research Gaps
+
+#### Reader’s Guide
+
+## 2 Fundamentals of Diffusion Models
+
+### 2.1 Forward and Reverse Processes
+
+### 2.1 Forward and Reverse Processes in Diffusion Models
+
+#### Forward Process: Gradual Noise Corruption
+
+#### Reverse Process: Learned Denoising
+
+#### Theoretical Foundations
+
+#### Practical Implementation
+
+#### Conclusion
+
+### 2.2 Noise Scheduling and Latent Spaces
+
+#### Noise Scheduling Strategies
+
+#### Latent Spaces: Efficiency and Controllability
+
+#### Impact on Generation and Editing
+
+### 2.3 Key Architectures: DDPM and DDIM
+
+#### Denoising Diffusion Probabilistic Models (DDPM)
+
+#### Denoising Diffusion Implicit Models (DDIM)
+
+#### Comparative Analysis and Hybrid Architectures
+
+#### Practical Implications and Future Directions
+
+### 2.4 Theoretical Foundations of Reversibility
+
+#### **Reversibility in Stochastic and Deterministic Processes**
+
+#### **Computational Efficiency and Reversibility**
+
+#### **Reversibility and Editability**
+
+#### **Challenges and Open Problems**
+
+### 2.5 Efficiency and Optimization
+
+#### **1. Distillation and Model Compression**
+
+#### **2. Sparse Inference and Adaptive Sampling**
+
+#### **3. Hardware Acceleration and Parallelization**
+
+#### **4. Latent Space Optimization**
+
+#### **5. Hybrid and Conditional Architectures**
+
+#### **6. Benchmarking and Trade-offs**
+
+#### **7. Future Directions**
+
+## 3 Techniques for Diffusion-Based Image Editing
+
+### 3.1 Text-Guided Image Editing
+
+#### CLIP-Guided Editing Frameworks
+
+#### Semantic Alignment and Structure Preservation
+
+#### Hybrid Architectures for Enhanced Control
+
+#### The Role of Attention Mechanisms
+
+#### Multi-Modal Extensions and Consistency
+
+#### Current Challenges and Limitations
+
+#### Future Directions and Optimizations
+
+### 3.2 Latent Space Manipulation
+
+#### Foundations of Latent Space Editing
+
+#### Disentangled Latent Directions
+
+#### Inversion and Reconstruction
+
+#### Geometric and Hierarchical Properties
+
+#### Applications and Limitations
+
+#### Future Directions
+
+### 3.3 Attention Mechanisms for Localized Editing
+
+#### Cross-Attention Guidance for Semantic Alignment
+
+#### Self-Attention Regularization for Structural Consistency
+
+#### Hybrid Attention Mechanisms for Multi-Granular Control
+
+#### Challenges and Innovations
+
+### 3.4 Hybrid and Conditional Approaches
+
+#### Hybrid Frameworks: Augmenting Diffusion with Auxiliary Networks
+
+#### Conditional Editing: Precision Through Explicit Guidance
+
+#### Task-Specific and Compositional Applications
+
+#### Challenges and Future Directions
+
+### 3.5 Interactive and Point-Based Editing
+
+#### Foundations of Interactive Editing
+
+#### Point-Based and Region-Specific Control
+
+#### Challenges in Real-Time Implementation
+
+#### Ethical and Future Considerations
+
+### 3.6 Multi-Modal and Style Transfer Techniques
+
+#### **Multi-Modal Conditioning in Diffusion Models**
+
+#### **Style Transfer Techniques**
+
+#### **Compositional Editing with Multi-Modal Inputs**
+
+#### **Applications and Future Directions**
+
+### 3.7 3D and Video Editing Extensions
+
+#### **3D Scene Synthesis and Editing**
+
+#### **Video Editing and Temporal Consistency**
+
+#### **Cross-Modal and Hybrid Approaches**
+
+#### **Challenges and Future Directions**
+
+## 4 Controllable and Conditional Editing
+
+### 4.1 Spatial Conditioning Techniques
+
+#### Mask-Based Conditioning
+
+#### Sketch and User-Guided Editing
+
+#### Compositional and High-Resolution Synthesis
+
+#### Integration with Textual and Multimodal Cues
+
+#### Challenges and Solutions
+
+#### Ethical and Practical Limitations
+
+### 4.2 Semantic Guidance and Attention Mechanisms
+
+#### Semantic Guidance in Diffusion Models
+
+#### Attention Mechanisms for Localized Editing
+
+#### Interpretable Directions in Latent Space
+
+#### Applications and Challenges
+
+### 4.3 Multi-Modal Integration
+
+#### Foundational Principles and Methodologies
+
+#### Applications and Use Cases
+
+#### Challenges and Limitations
+
+### 4.4 Dynamic and Hierarchical Control
+
+#### Hierarchical Conditioning in Spatial Domains
+
+#### Temporal Adaptation for Video and Sequential Data
+
+#### Adaptive Conditioning Granularity
+
+#### Efficiency and Implementation Considerations
+
+### 4.5 Task-Specific and Compositional Conditioning
+
+#### Disentangling Conditions for Task-Specific Editing
+
+#### Compositional Conditioning for Multi-Modal Control
+
+#### Applications and Case Studies
+
+## 5 Applications in Domain-Specific Editing
+
+### 5.1 Medical Imaging and Computational Pathology
+
+#### Domain Adaptation and Image Synthesis
+
+#### Computational Pathology and Histopathology Image Analysis
+
+#### Challenges and Ethical Considerations
+
+### 5.2 Artistic and Photorealistic Style Transfer
+
+#### **Artistic Style Transfer**
+
+#### **Photorealistic Style Transfer**
+
+#### **Hybrid and Task-Specific Advances**
+
+### 5.3 Face and Portrait Editing
+
+#### **Face Generation and Editing**
+
+#### **Cross-Domain Manipulation**
+
+#### **Interactive and Point-Based Editing**
+
+#### **Ethical and Robustness Challenges**
+
+#### **Future Directions**
+
+### 5.4 Video and Dynamic Scene Manipulation
+
+#### **Temporal Coherence and Frame Consistency**
+
+#### **Motion Synthesis and Dynamic Scene Generation**
+
+#### **Challenges in Video Editing with Diffusion Models**
+
+#### **Applications in Video Restoration and Enhancement**
+
+### 5.5 3D Scene Synthesis and Neural Rendering
+
+#### Foundations of 3D Scene Synthesis with Diffusion Models
+
+#### Neural Rendering Enhancements
+
+## 6 Efficiency and Optimization Strategies
+
+### 6.1 Distillation Techniques
+
+#### Progressive Distillation for Fast Sampling
+
+#### Architectural Innovations: Deep Equilibrium Models
+
+#### Latent Space and Hybrid Distillation
+
+#### Conditional Generation and Guidance Preservation
+
+#### Challenges and Trade-offs
+
+### 6.2 Sparse Inference and Adaptive Sampling
+
+#### Sparse Inference Strategies
+
+#### Adaptive Sampling Techniques
+
+#### Hybrid Approaches and Theoretical Insights
+
+### 6.3 Hardware Acceleration and Parallelization
+
+#### GPU-Centric Optimizations
+
+#### Specialized Hardware Adaptations
+
+#### Parallelization Strategies
+
+#### Benchmarking and Trade-offs
+
+### 6.4 Quantization and Low-Rank Approximations
+
+#### Quantization Techniques
+
+#### Low-Rank Approximations
+
+#### Hybrid Approaches and Synergies
+
+### 6.5 Benchmarking and Trade-offs
+
+#### Benchmarking Metrics and Their Limitations
+
+#### Trade-offs in Optimization Strategies
+
+#### Domain-Specific Considerations
+
+#### Ethical and Practical Implications
+
+## 7 Challenges and Limitations
+
+### 7.1 Computational Cost and Resource Constraints
+
+#### Computational Challenges in Diffusion Models
+
+#### Mitigation Strategies
+
+### 7.2 Training Instability and Convergence Challenges
+
+#### Challenges in Training Diffusion Models
+
+### 7.3 Bias Amplification and Fairness Concerns
+
+#### Origins of Bias in Diffusion Models
+
+#### Manifestations of Bias in Image Editing
+
+#### Societal Implications
+
+### 7.4 Ethical Concerns and Misuse Potential
+
+#### Deepfake Generation and Misinformation
+
+#### Privacy Violations and Data Exploitation
+
+#### Intellectual Property and Artistic Integrity
+
+#### Malicious Applications and Security Threats
+
+#### Mitigation Strategies and Responsible AI Practices
+
+#### Future Directions and Open Questions
+
+### 7.5 Robustness and Vulnerability to Adversarial Attacks
+
+#### Understanding Adversarial Attacks in Diffusion Models
+
+#### Key Vulnerabilities and Their Implications
+
+#### Defense Strategies and Their Trade-offs
+
+#### Ethical and Practical Consequences
+
+#### Open Challenges and Future Directions
+
+### 7.6 Environmental and Sustainability Impact
+
+#### Energy Consumption and Carbon Footprint
+
+#### Benchmarking Environmental Impact
+
+#### Ethical and Policy Considerations
+
+## 8 Comparative Analysis and Benchmarking
+
+### 8.1 Comparative Metrics for Generative Models
+
+#### **General-Purpose Evaluation Metrics**
+
+#### **Fréchet Inception Distance (FID)**
+
+#### **Inception Score (IS)**
+
+#### **Precision and Recall**
+
+#### **Kernel Inception Distance (KID)**
+
+#### **Perceptual Metrics: LPIPS and SSIM**
+
+#### **Human Evaluation and Task-Specific Metrics**
+
+#### **Limitations and Emerging Directions**
+
+### 8.2 Domain-Specific Evaluation Challenges
+
+#### **Domain-Specific Evaluation Challenges**
+
+#### **Medical Imaging: Diagnostic Fidelity and Biological Relevance**
+
+#### **Artistic and Photorealistic Editing: Subjectivity and Style Coherence**
+
+#### **Face and Portrait Editing: Identity Preservation and Ethical Biases**
+
+#### **Video and Dynamic Scenes: Temporal Consistency and Motion Plausibility**
+
+#### **3D Scene Synthesis: Multi-View Consistency and Material Fidelity**
+
+#### **Toward Hybrid Evaluation Frameworks**
+
+### 8.3 Human vs. Automated Evaluation
+
+#### **Automated Metrics: Efficiency at the Cost of Nuance**
+
+#### **Human Evaluation: The Gold Standard for Perceptual Quality**
+
+#### **Challenges and Hybrid Solutions**
+
+#### **Emerging Trends: Bridging the Gap**
+
+#### **Comparative Insights**
+
+#### **Conclusion and Future Directions**
+
+### 8.4 Benchmarking Diffusion Models Against Alternatives
+
+#### **Sample Quality and Fidelity**
+
+#### **Diversity and Mode Coverage**
+
+#### **Training Stability and Convergence**
+
+#### **Computational and Memory Efficiency**
+
+#### **Task-Specific Performance**
+
+#### **Ethical and Robustness Considerations**
+
+## 9 Future Directions and Open Problems
+
+### 9.1 Real-Time and Interactive Editing
+
+#### Challenges in Real-Time Diffusion
+
+#### Advancements in Sampling Acceleration
+
+#### Interactive Editing Frameworks
+
+#### Hybrid and Lightweight Architectures
+
+### 9.2 Multimodal Fusion and Cross-Modal Editing
+
+#### **Multimodal Conditioning: Architectures and Challenges**
+
+#### **Cross-Modal Editing: Techniques and Trade-offs**
+
+#### **Spatial and Temporal Modalities in Practice**
+
+#### **Ethical and Efficiency Considerations**
+
+### 9.3 Lightweight and Efficient Architectures
+
+#### **Model Distillation and Compression**
+
+#### **Quantization and Low-Rank Approximations**
+
+#### **Sparse Inference and Adaptive Sampling**
+
+#### **Hardware Acceleration and Parallelization**
+
+### 9.4 Ethical and Responsible AI Practices
+
+#### **Bias Amplification and Fairness Concerns**
+
+#### **Misuse Potential and Ethical Risks**
+
+#### **Transparency and Accountability Frameworks**
+
+#### **Toward Responsible Deployment**
+
+#### **Open Challenges and Future Directions**
+
+### 9.5 Open Problems in Long-Term Consistency
+
+#### Challenges in Temporal Consistency for Video Editing
+
+#### Spatial Coherence in 3D and Multi-View Editing
+
+#### Theoretical and Evaluation Gaps
+
+## 10 Conclusion
+
+### 10.1 Summary of Key Insights
+
+### 10.2 Transformative Impact and Applications
+
+#### Medical Imaging and Computational Pathology
+
+#### Artistic and Photorealistic Style Transfer
+
+#### Face and Portrait Editing
+
+#### Video and Dynamic Scene Manipulation
+
+## 3D Scene Synthesis and Neural Rendering
+
+### Text-Guided and Multimodal Editing
+
+### Efficiency and Real-Time Applications
+
+### 10.3 Persistent Challenges and Ethical Concerns
+
+#### Computational and Resource Constraints
+
+#### Training Instability and Bias Amplification
+
+#### Robustness and Adversarial Vulnerabilities
+
+#### Ethical Implications and Misuse Potential
+
+#### Long-Term Consistency and Generalization
+
+#### Human-AI Collaboration and Interpretability
+
+#### Legal and Societal Accountability
+
+#### Toward Responsible Solutions
+
+### 10.4 Call for Future Research
+
+## 1. **Efficiency and Real-Time Processing**
+
+## 2. **Multimodal and Cross-Modal Integration**
+
+## 3. **Ethical and Responsible AI Practices**
+
+## 4. **Long-Term Consistency and Temporal Coherence**
+
+## 5. **Lightweight and Specialized Architectures**
+
+## 6. **Theoretical Foundations and Generalization**
+
+## 7. **Interactive and User-Guided Editing**
+
+## 8. **Domain-Specific Applications**
+
+## 9. **Interdisciplinary Collaboration**
+
+## 10. **Evaluation Metrics**
+
+### 10.5 Final Remarks
+
+# References

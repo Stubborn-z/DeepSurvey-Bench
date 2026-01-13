@@ -1,0 +1,69 @@
+# LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+
+# Introduction
+
+## Concept of LLMs-as-Judges
+
+## Significance of Automated Assessment
+
+## Objectives of the Paper
+
+## Structure of the Survey
+
+# Background and Definitions
+
+## Introduction to Large Language Models (LLMs)
+
+## Key Definitions
+
+## Evolution of Evaluation Methods in NLP
+
+## Challenges in Current Evaluation Methods
+
+# Methodologies for LLM-based Evaluation
+
+## Role of LLMs in Automated Assessment
+
+## Benchmarking and Evaluation Frameworks
+
+## Pairwise Ranking and Scoring Systems
+
+## Feedback Mechanisms and Self-Improvement
+
+## Adversarial and Robustness Evaluation
+
+## Domain-Specific Evaluation Methods
+
+# Applications and Case Studies
+
+## Text Summarization and Generation
+
+## Dialogue and Conversational AI
+
+## Code Generation and Programming
+
+# Challenges and Limitations
+
+## Bias Detection and Ethical Considerations
+
+## Interpretability and Human Oversight
+
+## Data and Resource Dependencies
+
+## Evaluation Consistency and Generalizability
+
+## Technical and Methodological Limitations
+
+# Future Directions
+
+## Enhancements in Evaluation Frameworks
+
+## Expansion of Benchmarks and Datasets
+
+## Advancements in Bias Mitigation and Calibration
+
+## Innovations in Training and Model Optimization
+
+## Integration of Emerging Technologies
+
+# Conclusion

@@ -1,0 +1,237 @@
+# A Survey of Large Language Models
+
+# Introduction
+
+# Overview
+
+## Background for LLMs
+
+## Technical Evolution  of GPT-series Models
+
+# Resources of LLMs
+
+## Publicly Available Model Checkpoints or APIs
+
+## Commonly Used Corpora for Pre-training
+
+## Commonly Used Datasets for Fine-tuning
+
+### Instruction Tuning Datasets
+
+### Alignment Datasets
+
+## Library Resource
+
+# Pre-training
+
+## Data Collection and Preparation
+
+### Data Source
+
+### Data Preprocessing
+
+### Data Scheduling
+
+### Summary of Data Preparation
+
+## Architecture
+
+### Typical Architectures
+
+### Detailed Configuration
+
+### Pre-training Tasks
+
+### Decoding Strategy
+
+### Summary and Discussion
+
+## Model Training
+
+### Optimization Setting
+
+### Scalable Training Techniques
+
+# Post-training of LLMs
+
+## Instruction Tuning
+
+### Formatted Instance Construction
+
+### Instruction Tuning Strategies
+
+### The Effect of Instruction Tuning
+
+### Empirical Analysis for Instruction Tuning
+
+## Alignment Tuning
+
+### Background and Criteria for Alignment
+
+### Collecting Human Feedback
+
+### Reinforcement Learning from Human Feedback
+
+### Alignment without RLHF
+
+### Remarks on SFT and RLHF
+
+### Empirical Analysis for RLHF
+
+## Parameter-Efficient Model Adaptation
+
+### Parameter-Efficient Fine-Tuning Methods
+
+### Parameter-Efficient Fine-Tuning on LLMs
+
+# Utilization
+
+## Prompting
+
+### Prompt Creation
+
+### Prompt Optimization
+
+## In-Context Learning
+
+### ICL Formulation
+
+### Demonstration Design
+
+### Underlying Mechanism
+
+## Chain-of-Thought Prompting
+
+### Basic CoT Prompting Approach
+
+### Improved CoT Prompting Strategies
+
+### Further Discussion on CoT Prompting
+
+## Planning
+
+### The Overall Framework
+
+### Plan Generation
+
+### Feedback Acquisition
+
+### Plan Refinement
+
+# Capacity and Evaluation
+
+## Basic Ability
+
+### Language Generation
+
+### Knowledge Utilization
+
+### Complex Reasoning
+
+## Advanced Ability
+
+### Human Alignment
+
+### Interaction with External Environment
+
+### Tool Manipulation
+
+## Benchmarks and Evaluation Approaches
+
+### Comprehensive Evaluation Benchmarks
+
+### Evaluation Approaches
+
+## Empirical Evaluation
+
+### Experimental Settings
+
+### Results Analysis and Findings
+
+# Applications
+
+## LLM for Research Community
+
+### LLM for Classic NLP Tasks
+
+### LLM for Information Retrieval
+
+### LLM for Recommender Systems
+
+### Multimodal Large Language Model
+
+### KG-Enhanced LLM
+
+### LLM-based Agent
+
+### LLM for Evaluation
+
+## LLM for Specific Domains
+
+# Advanced Topics
+
+## Long Context Modeling
+
+### Scaling Position Embeddings
+
+### Adapting Context Window
+
+### Long Text Data
+
+## LLM-empowered Agent
+
+### Overall Framework.
+
+### Applications
+
+### Discussion
+
+## Analysis and Optimization for Model Training
+
+### Estimation of Training Memory Consumption
+
+### {Memory Optimization Methods
+
+### {Efficiency Optimization Methods
+
+## Analysis and Optimization for {Model Inference
+
+### Analysis of Inference Efficiency
+
+### System-level Optimization
+
+### Algorithm-level Optimization
+
+## Model Compression
+
+### Background for Quantization
+
+### Quantization Methods
+
+### Other Model Compression Methods
+
+### Open-source Libraries
+
+## Retrieval-Augmented Generation
+
+## Hallucination
+
+### Definition of Hallucination
+
+### Source of Hallucination
+
+### Hallucination Detection
+
+### {Hallucination Mitigation
+
+## Complex Reasoning
+
+### Overview and Analysis
+
+### Construction of Long CoT Data
+
+### Training Methods
+
+### Extended Discussion
+
+# Conclusion and Future Directions

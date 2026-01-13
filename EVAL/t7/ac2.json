@@ -1,0 +1,42 @@
+{
+    "time": {
+        "retrieve database": {
+            "start": "2025-12-28 11:36:45",
+            "end": "2025-12-28 11:37:03",
+            "duration": 17.49
+        },
+        "generate outline": {
+            "start": "2025-12-28 11:37:03",
+            "end": "2025-12-28 11:39:57",
+            "duration": 174.79
+        },
+        "generate content": {
+            "start": "2025-12-28 11:39:57",
+            "end": "2025-12-28 11:45:04",
+            "duration": 306.78
+        }
+    },
+    "token": {
+        "retrieve database": {
+            "deepseek-v3": {
+                "input_tokens": 0,
+                "output_tokens": 0,
+                "total_cost": 0
+            }
+        },
+        "generate outline": {
+            "deepseek-v3": {
+                "input_tokens": 548584,
+                "output_tokens": 9457,
+                "total_cost": 0
+            }
+        },
+        "generate content": {
+            "deepseek-v3": {
+                "input_tokens": 1617462,
+                "output_tokens": 181598,
+                "total_cost": 0
+            }
+        }
+    }
+}

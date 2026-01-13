@@ -1,0 +1,43 @@
+# Diffusion Model-Based Image Editing: A Comprehensive Survey
+## 1 Introduction
+## 2 Fundamental Architectures and Learning Strategies
+### 2.1 Neural Network Architectures for Diffusion-Based Image Editing
+### 2.2 Conditioning Mechanisms and Semantic Control
+### 2.3 Latent Space Representations and Manipulation
+### 2.4 Advanced Training Strategies
+### 2.5 Computational Efficiency and Model Optimization
+## 3 Image Editing Techniques and Modalities
+### 3.1 Text-Guided Semantic Image Manipulation
+### 3.2 Reference Image-Based Editing Approaches
+### 3.3 Multimodal Editing Methodologies
+### 3.4 Local and Global Image Manipulation Techniques
+### 3.5 Advanced Inpainting and Outpainting Methods
+### 3.6 Interactive and User-Guided Image Editing
+## 4 Advanced Control and Guidance Mechanisms
+### 4.1 Prompt Engineering and Semantic Manipulation
+### 4.2 Spatial and Structural Guidance Strategies
+### 4.3 Latent Space Manipulation and Embedding Techniques
+### 4.4 Advanced Conditioning and Multi-Modal Guidance
+### 4.5 Attention Mechanism Refinement
+### 4.6 Constraint-Based Editing Control
+## 5 Domain-Specific Applications and Implementations
+### 5.1 Medical and Biomedical Image Editing
+### 5.2 Scientific and Research Visualization
+### 5.3 Creative and Artistic Image Manipulation
+### 5.4 Industrial and Commercial Image Editing
+### 5.5 Emerging Interdisciplinary Applications
+## 6 Performance Evaluation and Benchmarking
+### 6.1 Quantitative Metrics and Evaluation Frameworks
+### 6.2 Perceptual Assessment Methodologies
+### 6.3 Benchmark Dataset Construction
+### 6.4 Computational Efficiency and Resource Analysis
+### 6.5 Comparative Performance Benchmarking
+### 6.6 Robustness and Generalization Assessment
+## 7 Ethical Considerations and Societal Implications
+### 7.1 Privacy and Personal Identity Protection
+### 7.2 Misinformation and Visual Authenticity Risks
+### 7.3 Intellectual Property and Creative Attribution
+### 7.4 Algorithmic Bias and Representation Fairness
+### 7.5 Responsible Technology Development and Governance
+## 8 Conclusion
+

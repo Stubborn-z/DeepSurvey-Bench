@@ -1,0 +1,269 @@
+[
+  {
+    "section_title": "Introduction",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Related Surveys",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Surveys on Large Language Models",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Surveys on Large Language Model-based Agents",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "What is the Memory of LLM-based Agent",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Basic Knowledge",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Narrow Definition of the Agent Memory",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Broad Definition of the Agent Memory",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Memory-assisted Agent-Environment Interaction",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Why We Need the Memory in LLM-based Agent",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Perspective of Cognitive Psychology",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Perspective of Self-Evolution",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Perspective of Agent Applications",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "How to Implement the Memory of LLM-based Agent",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Memory Sources",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Inside-trial Information",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Cross-trial Information",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "External Knowledge",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Memory Forms",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Memory in Textual Form",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Memory in Parametric Form",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Advantages and Disadvantages of Textual and Parametric Memory",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Memory Operations",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Memory Writing",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Memory Management",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Memory Reading",
+            "level": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section_title": "How to Evaluate the Memory in LLM-based Agent",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Direct Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Subjective Evaluation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Objective Evaluation",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Indirect Evaluation",
+        "level": 2,
+        "children": [
+          {
+            "section_title": "Conversation",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Multi-source Question-answering",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Long-context Applications",
+            "level": 3,
+            "children": []
+          },
+          {
+            "section_title": "Other Tasks",
+            "level": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "section_title": "Discussions",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Memory-enhanced Agent Applications",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "Role-playing and Social Simulation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Personal Assistant",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Open-world Game",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Code Generation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Recommendation",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Expert System in Specific Domains",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Other Applications",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Limitations \\& Future Directions",
+    "level": 1,
+    "children": [
+      {
+        "section_title": "More Advances in Parametric Memory",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Memory in LLM-based Multi-agent Applications",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Memory-based Lifelong Learning",
+        "level": 2,
+        "children": []
+      },
+      {
+        "section_title": "Memory in Humanoid Agent",
+        "level": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "section_title": "Conclusion",
+    "level": 1,
+    "children": []
+  },
+  {
+    "section_title": "Acknowledgement",
+    "level": 1,
+    "children": []
+  }
+]

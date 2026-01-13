@@ -1,0 +1,127 @@
+# Diffusion Model-Based Image Editing: A Comprehensive Survey
+
+## 1 Introduction
+Description: 
+
+## 2 Fundamental Architectures and Learning Strategies
+Description: 
+
+### 2.1 Neural Network Architectures for Diffusion-Based Image Editing
+Description: 
+
+### 2.2 Conditioning Mechanisms and Semantic Control
+Description: 
+
+### 2.3 Latent Space Representations and Manipulation
+Description: 
+
+### 2.4 Advanced Training Strategies
+Description: 
+
+### 2.5 Computational Efficiency and Model Optimization
+Description: 
+
+## 3 Image Editing Techniques and Modalities
+Description: 
+
+### 3.1 Text-Guided Semantic Image Manipulation
+Description: 
+
+### 3.2 Reference Image-Based Editing Approaches
+Description: 
+
+### 3.3 Multimodal Editing Methodologies
+Description: 
+
+### 3.4 Local and Global Image Manipulation Techniques
+Description: 
+
+### 3.5 Advanced Inpainting and Outpainting Methods
+Description: 
+
+### 3.6 Interactive and User-Guided Image Editing
+Description: 
+
+## 4 Advanced Control and Guidance Mechanisms
+Description: 
+
+### 4.1 Prompt Engineering and Semantic Manipulation
+Description: 
+
+### 4.2 Spatial and Structural Guidance Strategies
+Description: 
+
+### 4.3 Latent Space Manipulation and Embedding Techniques
+Description: 
+
+### 4.4 Advanced Conditioning and Multi-Modal Guidance
+Description: 
+
+### 4.5 Attention Mechanism Refinement
+Description: 
+
+### 4.6 Constraint-Based Editing Control
+Description: 
+
+## 5 Domain-Specific Applications and Implementations
+Description: 
+
+### 5.1 Medical and Biomedical Image Editing
+Description: 
+
+### 5.2 Scientific and Research Visualization
+Description: 
+
+### 5.3 Creative and Artistic Image Manipulation
+Description: 
+
+### 5.4 Industrial and Commercial Image Editing
+Description: 
+
+### 5.5 Emerging Interdisciplinary Applications
+Description: 
+
+## 6 Performance Evaluation and Benchmarking
+Description: 
+
+### 6.1 Quantitative Metrics and Evaluation Frameworks
+Description: 
+
+### 6.2 Perceptual Assessment Methodologies
+Description: 
+
+### 6.3 Benchmark Dataset Construction
+Description: 
+
+### 6.4 Computational Efficiency and Resource Analysis
+Description: 
+
+### 6.5 Comparative Performance Benchmarking
+Description: 
+
+### 6.6 Robustness and Generalization Assessment
+Description: 
+
+## 7 Ethical Considerations and Societal Implications
+Description: 
+
+### 7.1 Privacy and Personal Identity Protection
+Description: 
+
+### 7.2 Misinformation and Visual Authenticity Risks
+Description: 
+
+### 7.3 Intellectual Property and Creative Attribution
+Description: 
+
+### 7.4 Algorithmic Bias and Representation Fairness
+Description: 
+
+### 7.5 Responsible Technology Development and Governance
+Description: 
+
+## 8 Conclusion
+Description: 
+
+
+

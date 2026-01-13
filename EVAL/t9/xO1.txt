@@ -1,0 +1,59 @@
+# A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models
+
+# Introduction
+
+## Significance of Controllable Text Generation
+
+## Role of Transformer-Based Pre-Trained Language Models
+
+## Objectives and Structure of the Survey
+
+# Background and Core Concepts
+
+## Fundamental Concepts in Text Generation and Key Terms
+
+## Evolution and Challenges of Transformer Models
+
+# Transformer-Based Pre-Trained Language Models
+
+## Architecture, Core Features, and Popular Models
+
+## Pre-Training and Fine-Tuning Techniques
+
+## Advancements in Multilingual and Cross-Lingual Models
+
+# Controllable Text Generation Techniques
+
+## Prompt Engineering and Attribute Control
+
+## Reinforcement Learning and Reward-Based Techniques
+
+## Insertion-Based and Constrained Decoding Methods
+
+## Variational Autoencoders and Structural Constraints
+
+## Energy-Based Models and Adversarial Techniques
+
+# Applications and Implications
+
+## Applications in Dialogue, Narrative, and Creative Writing
+
+## Ethical Implications, Bias, and Mitigation Strategies
+
+# Evaluation Methods
+
+## Evaluation, Standardization, and Challenges
+
+## Automatic, Human, and Hybrid Evaluation Metrics
+
+## Comparative Performance Assessment and Emerging Trends
+
+# Future Directions
+
+## Dataset Expansion, Diversity, and Model Refinement
+
+## Enhancements in Control Mechanisms and Application-Specific Adaptations
+
+## Interdisciplinary Approaches and Ethical Considerations
+
+# Conclusion

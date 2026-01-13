@@ -1,0 +1,23 @@
+{
+    "retrieve database": {
+        "claude-3-5-haiku-20241022": {
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "total_cost": 0.0
+        }
+    },
+    "generate outline": {
+        "claude-3-5-haiku-20241022": {
+            "input_tokens": 505752,
+            "output_tokens": 12724,
+            "total_cost": 0.0
+        }
+    },
+    "generate content": {
+        "claude-3-5-haiku-20241022": {
+            "input_tokens": 753034,
+            "output_tokens": 60394,
+            "total_cost": 0.0
+        }
+    }
+}

@@ -1,0 +1,43 @@
+# A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models
+
+# Introduction
+
+# An Introduction to Controllable Text Generation and Pre-trained Language Models
+
+## Controllable Text Generation
+
+## Transformer-based Pre-trained Language Models
+
+# Main Approaches to PLM-based CTG
+
+## Overview
+
+## Fine-tuning
+
+## Retraining/Refactoring
+
+## Post-Processing
+
+## Summary
+
+# Evaluation Methods
+
+## General NLG Evaluation Metrics
+
+### Human-Centric Evaluation Metrics
+
+### Automatic Evaluation Metrics
+
+### Semi-automatic Evaluation Metrics
+
+## CTG-specific Evaluation
+
+## Summary
+
+# Challenges and Future Directions
+
+## Challenges
+
+## Future Directions
+
+# Conclusions

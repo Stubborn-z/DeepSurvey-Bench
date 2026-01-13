@@ -1,0 +1,14 @@
+cd AutoSurvey-main
+
+conda activate survey
+ pip install -r requirements.txt      
+
+ @AutoSurvey-main 该文件是https://github.com/AutoSurveys/AutoSurvey 的代码。向我说明如何下载它的数据库和运行该代码。
+
+
+ok--------------
+conda activate survey
+cd AutoSurvey-main
+export HF_ENDPOINT=https://hf-mirror.com && python main.py --topic "A Survey of Large Language Models"
+export HF_ENDPOINT=https://hf-mirror.com && python main.py --topic "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision"
+

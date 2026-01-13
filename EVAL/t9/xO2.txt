@@ -1,0 +1,57 @@
+# A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models
+
+# Introduction
+
+## Significance of Controllable Text Generation
+
+## Role of Transformer-Based Pre-Trained Language Models
+
+## Structure of the Survey
+
+# Background and Preliminary Concepts
+
+## Introduction to Natural Language Generation Systems
+
+## Natural Language Processing and Text Generation Techniques
+
+## Controllability in Text Generation
+
+# Transformer-Based Pre-Trained Language Models
+
+## Architecture of Transformer Models
+
+## Innovative Variants of Transformer Models
+
+## Utilization in Text Generation
+
+# Controllable Text Generation Techniques
+
+## Prompt Tuning and Control Mechanisms
+
+## Attribute-Based Control Techniques
+
+## Constrained Decoding Strategies
+
+## Advanced Techniques for Controlled Generation
+
+# Applications and Case Studies
+
+## Data-to-Text Generation
+
+## Dialogue Systems and Conversational AI
+
+## Creative Writing and Storytelling
+
+## Summarization and Text Continuation
+
+# Challenges and Future Directions
+
+## Interpretability and Complexity
+
+## Bias and Fairness
+
+## Data and Resource Limitations
+
+## Control and Constraints
+
+# Conclusion

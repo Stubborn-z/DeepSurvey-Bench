@@ -1,0 +1,63 @@
+# LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods
+
+## 1. Theoretical Foundations and Landscape of LLM Evaluation
+
+### 1.1 Historical Development of LLM Evaluation
+
+### 1.2 Theoretical Underpinnings
+
+### 1.3 Motivational Drivers for AI-Driven Assessment
+
+### 1.4 Paradigm Shift in Assessment Techniques
+
+## 2. Methodological Approaches to LLM Evaluation
+
+### 2.1 Prompting Strategies
+
+### 2.2 Reasoning and Cognitive Assessment
+
+### 2.3 Multi-Agent Evaluation Frameworks
+
+### 2.4 Dynamic Evaluation Methods
+
+## 3. Domain-Specific Evaluation Frameworks
+
+### 3.1 Cross-Domain Performance Assessment
+
+### 3.2 Specialized Domain Challenges
+
+### 3.3 Generalization and Transfer Learning
+
+## 4. Bias, Fairness, and Ethical Considerations
+
+### 4.1 Bias Detection Mechanisms
+
+### 4.2 Fairness and Representation
+
+### 4.3 Ethical Framework Development
+
+## 5. Performance Metrics and Benchmarking
+
+### 5.1 Quantitative Assessment Techniques
+
+### 5.2 Comparative Analysis Frameworks
+
+### 5.3 Reliability and Validity Assessment
+
+## 6. Challenges and Limitations
+
+### 6.1 Hallucination Phenomenon
+
+### 6.2 Computational Mitigation Strategies
+
+### 6.3 Reliability Improvement Approaches
+
+## 7. Future Research Directions
+
+### 7.1 Emerging Research Frontiers
+
+### 7.2 Interdisciplinary Collaboration
+
+### 7.3 Standardization and Policy Recommendations
+
+# References
